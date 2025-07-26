@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"numberdjester",hard,41,Active,"Boss Hunter (bossGluhar)","Spawn Point (-213.12 0.05 -378.76)","1","01:00:11","N/A",
+Bot3,"Ninjaweb",hard,41,Failed,"Boss Hunter (bossGluhar)","Spawn Point (-199.41 4.13 -296.50)","1","01:00:11","01:03:20",
+Bot2,"Baliston",hard,47,Failed,"Red Room","Red Room: Objective #1","1","01:00:11","01:03:43",
+Bot5,"TinglePlayerParkov",normal,33,Failed,"Boss Hunter (pmcBot)","Spawn Point (-127.77 4.20 -382.27)","1","01:00:11","01:03:37",
+Bot6,"Boogle",easy,12,Failed,"Spawn Rush","Spawn Rush: Objective #1","1","01:00:11","01:02:37",
+Bot7,"Styrr",normal,53,Completed,"Main Working Area West","Main Working Area West: Objective #5","1","01:00:11","01:00:53",
+Bot7,"Styrr",normal,53,Failed,"Main Working Area West","Main Working Area West: Objective #4","1","01:00:58","01:01:30",
+Bot4,"DewardianDev",normal,49,Failed,"Blue Room Entry","Blue Room Entry: Objective #1","1","01:00:11","01:04:10",

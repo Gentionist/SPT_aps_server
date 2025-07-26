@@ -1,0 +1,2173 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - EscapeFromTarkov (20.07.2025 23:28:19)
+[Info   :   BepInEx] Running under Unity v0.16.1.3539
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [spt-prepatch 3.11.3.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [SPT.PrePatch.SPTPrePatcher]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 19 plugins to load
+[Info   :   BepInEx] Loading [WTT-PackNStrap 1.0.9]
+[Info   :ModulePatch] Enabled patch GetPrioritizedGridsForUnloadedObjectPatch
+[Info   :ModulePatch] Enabled patch ContainerSlotsPatch
+[Info   :ModulePatch] Enabled patch PaymentSlotsPatch
+[Info   :ModulePatch] Enabled patch GrenadeThrowingSlotsPatch
+[Info   :ModulePatch] Enabled patch MergeContainerWithChildrenPatch
+[Info   :ModulePatch] Enabled patch UnloadWeaponPatch
+[Info   :ModulePatch] Enabled patch FindSlotForPickupPatch
+[Info   :   BepInEx] Loading [Graphics 1.6.5]
+[Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
+[Info   :   BepInEx] Loading [SPT.Core 3.11.3]
+[Info   :  SPT.Core] Loading: SPT.Core
+[Info   :ModulePatch] Enabled patch ConsistencySinglePatch
+[Info   :ModulePatch] Enabled patch ConsistencyMultiPatch
+[Info   :ModulePatch] Enabled patch GameValidationPatch
+[Info   :ModulePatch] Enabled patch BattlEyePatch
+[Info   :ModulePatch] Enabled patch SslCertificatePatch
+[Info   :ModulePatch] Enabled patch UnityWebRequestPatch
+[Info   :ModulePatch] Enabled patch WebSocketSslValidationPatch
+[Info   :  SPT.Core] Completed: SPT.Core
+[Info   :   BepInEx] Loading [DrakiaXYZ-Waypoints 1.7.1]
+[Info   :ModulePatch] Enabled patch DebugPatch
+[Info   :ModulePatch] Enabled patch WaypointPatch
+[Info   :ModulePatch] Enabled patch DoorLinkPatch
+[Info   :ModulePatch] Enabled patch DoorLinkStateChangePatch
+[Info   :ModulePatch] Enabled patch SwitchDoorBlockerPatch
+[Info   :ModulePatch] Enabled patch ExfilDoorBlockerPatch
+[Info   :ModulePatch] Enabled patch FindPathPatch
+[Info   :   BepInEx] Loading [DrakiaXYZ-BigBrain 1.3.2]
+[Info   :DrakiaXYZ-BigBrain] Loading: DrakiaXYZ-BigBrain
+[Info   :ModulePatch] Enabled patch BotBaseBrainActivatePatch
+[Info   :ModulePatch] Enabled patch BotBrainCreateLogicNodePatch
+[Info   :ModulePatch] Enabled patch BotBaseBrainUpdatePatch
+[Info   :ModulePatch] Enabled patch BotAgentUpdatePatch
+[Info   :ModulePatch] Enabled patch BotBaseBrainActivateLayerPatch
+[Info   :ModulePatch] Enabled patch BotStandartBotBrainActivatePatch
+[Info   :DrakiaXYZ-BigBrain] Completed: DrakiaXYZ-BigBrain
+[Info   :   BepInEx] Loading [DanW-QuestingBots 0.10.2]
+[Info   :DanW-QuestingBots] Loading QuestingBots...
+[Info   :DanW-QuestingBots] Loading QuestingBots...getting configuration data...
+[Info   :RequestHandler] [REQUEST]: /QuestingBots/GetConfig
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /QuestingBots/GetConfig
+[Info   :ModulePatch] Enabled patch MenuShowPatch
+[Info   :DanW-QuestingBots] Loading QuestingBots...enabling patches...
+[Info   :ModulePatch] Enabled patch TarkovInitPatch
+[Info   :ModulePatch] Enabled patch BotsControllerSetSettingsPatch
+[Info   :ModulePatch] Enabled patch BotsControllerStopPatch
+[Info   :ModulePatch] Enabled patch BotOwnerBrainActivatePatch
+[Info   :ModulePatch] Enabled patch IsFollowerSuitableForBossPatch
+[Info   :ModulePatch] Enabled patch OnBeenKilledByAggressorPatch
+[Info   :ModulePatch] Enabled patch AirdropLandPatch
+[Info   :DanW-QuestingBots] Found type for ServerRequestPatch: Class307
+[Info   :ModulePatch] Enabled patch ServerRequestPatch
+[Info   :ModulePatch] Enabled patch CheckLookEnemyPatch
+[Info   :ModulePatch] Enabled patch ReturnToPoolPatch
+[Info   :ModulePatch] Enabled patch BotOwnerSprintPatch
+[Info   :DanW-QuestingBots] Found method for MineDirectionalShouldExplodePatch: method_1
+[Info   :ModulePatch] Enabled patch MineDirectionalShouldExplodePatch
+[Info   :ModulePatch] Enabled patch LighthouseTraderZoneAwakePatch
+[Info   :DanW-QuestingBots] Found method for LighthouseTraderZonePlayerAttackPatch: method_7
+[Info   :ModulePatch] Enabled patch LighthouseTraderZonePlayerAttackPatch
+[Info   :ModulePatch] Enabled patch ProcessSourceOcclusionPatch
+[Info   :ModulePatch] Enabled patch GameStartPatch
+[Info   :ModulePatch] Enabled patch TimeHasComeScreenClassChangeStatusPatch
+[Info   :ModulePatch] Enabled patch ActivateBossesByWavePatch
+[Info   :ModulePatch] Enabled patch AddEnemyPatch
+[Info   :DanW-QuestingBots] Found method for TryLoadBotsProfilesOnStartPatch: method_2
+[Info   :ModulePatch] Enabled patch TryLoadBotsProfilesOnStartPatch
+[Info   :DanW-QuestingBots] Found method for SetNewBossPatch: method_0
+[Info   :ModulePatch] Enabled patch SetNewBossPatch
+[Info   :ModulePatch] Enabled patch GetAllBossPlayersPatch
+[Info   :ModulePatch] Enabled patch GetListByZonePatch
+[Info   :DanW-QuestingBots] Found type for ExceptAIPatch: GClass3371
+[Info   :ModulePatch] Enabled patch ExceptAIPatch
+[Info   :ModulePatch] Enabled patch BotDiedPatch
+[Info   :ModulePatch] Enabled patch TryToSpawnInZoneAndDelayPatch
+[Info   :DanW-QuestingBots] Found type for SpawnPointIsValidPatch: GClass3372
+[Info   :ModulePatch] Enabled patch SpawnPointIsValidPatch
+[Info   :ModulePatch] Enabled patch TrySpawnFreeAndDelayPatch
+[Info   :DanW-QuestingBots] Found method for NonWavesSpawnScenarioCreatePatch: smethod_0
+[Info   :ModulePatch] Enabled patch NonWavesSpawnScenarioCreatePatch
+[Info   :ModulePatch] Enabled patch BotsControllerStopPatch
+[Info   :ModulePatch] Enabled patch BotsGroupIsPlayerEnemyPatch
+[Info   :DanW-QuestingBots] Enabled PMC bot generation
+[Info   :DanW-QuestingBots] Enabled PScav bot generation
+[Info   :DanW-QuestingBots] Found type for ServerRequestPatch: GClass658
+[Info   :ModulePatch] Enabled patch PScavProfilePatch
+[Info   :DanW-QuestingBots] Loading QuestingBots...done.
+[Info   :   BepInEx] Loading [SPT.Custom 3.11.3]
+[Info   :SPT.Custom] Loading: SPT.Custom
+[Info   :ModulePatch] Enabled patch EasyAssetsPatch
+[Info   :ModulePatch] Enabled patch EasyBundlePatch
+[Info   :ModulePatch] Enabled patch DisableNonHalloweenExitsDuringEventPatch
+[Info   :ModulePatch] Enabled patch SendFleaListingTaxAmountToServerPatch
+[Info   :ModulePatch] Enabled patch AddTraitorScavsPatch
+[Info   :RequestHandler] [REQUEST]: /singleplayer/bosstypes
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/bosstypes
+[Info   :ModulePatch] Enabled patch CustomAiPatch
+[Info   :ModulePatch] Enabled patch SaveSettingsToSptFolderPatch
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetInt
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetFloat
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetString
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetInt
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetFloat
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetString
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsHasKey
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsDeleteKey
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsDeleteAll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSave
+[Info   :ModulePatch] Enabled patch QTEPatch
+[Info   :ModulePatch] Enabled patch RedirectClientImageRequestsPatch
+[Info   :ModulePatch] Enabled patch DisableGameModeAdjustButtonPatch
+[Info   :ModulePatch] Enabled patch FixPmcSpawnParamsNullErrorPatch
+[Info   :ModulePatch] Enabled patch SetPreRaidSettingsScreenDefaultsPatch
+[Info   :ModulePatch] Enabled patch CoreDifficultyPatch
+[Info   :ModulePatch] Enabled patch BotDifficultyPatch
+[Info   :ModulePatch] Enabled patch VersionLabelPatch
+[Info   :ModulePatch] Enabled patch FixScavWarNullErrorWithMarkOfUnknownPatch
+[Info   :ModulePatch] Enabled patch MergeScavPmcQuestsOnInventoryLoadPatch
+[Info   :ModulePatch] Enabled patch CopyPmcQuestsAndWishlistToPlayerScavPatch
+[Info   :ModulePatch] Enabled patch FixBossesHavingNoFollowersOnMediumAiAmount
+[Info   :ModulePatch] Enabled patch FixAirdropCrashPatch
+[Info   :ModulePatch] Enabled patch FixAirdropFlareDisposePatch
+[Info   :ModulePatch] Enabled patch AllowAirdropsInPvEPatch
+[Info   :ModulePatch] Enabled patch MemoryCollectionPatch
+[Info   :ModulePatch] Enabled patch BotsControllerInitPatch
+[Info   :ModulePatch] Enabled patch BotsEventsControllerActivatePatch
+[Info   :ModulePatch] Enabled patch EnablePrestigeTabPatch
+[Info   :ModulePatch] Enabled patch MatchStartServerLocationPatch
+[Info   :ModulePatch] Enabled patch SpawnPointAIPlayerBotLimitPatch
+[Info   :ModulePatch] Enabled patch SpawnPointNearestPlayerAIPatch
+[Info   :SPT.Custom] Completed: SPT.Custom
+[Info   :   BepInEx] Loading [SPT.Singleplayer 3.11.3]
+[Info   :SPT.Singleplayer] Loading: SPT.SinglePlayer
+[Info   :ModulePatch] Enabled patch TinnitusFixPatch
+[Info   :ModulePatch] Enabled patch EmptyInfilFixPatch
+[Info   :ModulePatch] Enabled patch OverrideMaxAiAliveInRaidValuePatch
+[Info   :ModulePatch] Enabled patch FixPostScavRaidXpShowingZeroPatch
+[Info   :ModulePatch] Enabled patch DisablePMCExtractsForScavsPatch
+[Info   :ModulePatch] Enabled patch ScavExfilPatch
+[Info   :ModulePatch] Enabled patch ScavProfileLoadPatch
+[Info   :ModulePatch] Enabled patch ScavPrefabLoadPatch
+[Info   :ModulePatch] Enabled patch DisableReadyLocationReadyPatch
+[Info   :ModulePatch] Enabled patch LoadOfflineRaidScreenPatch
+[Info   :ModulePatch] Enabled patch AmmoUsedCounterPatch
+[Info   :ModulePatch] Enabled patch PluginErrorNotifierPatch
+[Info   :ModulePatch] Enabled patch MapReadyButtonPatch
+[Info   :ModulePatch] Enabled patch RemoveUsedBotProfilePatch
+[Info   :ModulePatch] Enabled patch ScavLateStartPatch
+[Info   :ModulePatch] Enabled patch ScavSellAllPriceStorePatch
+[Info   :ModulePatch] Enabled patch ScavSellAllRequestPatch
+[Info   :ModulePatch] Enabled patch ScavRepAdjustmentPatch
+[Info   :ModulePatch] Enabled patch DisableWelcomeToPVEModeMessagePatch
+[Info   :ModulePatch] Enabled patch DisableMatchmakerPlayerPreviewButtonsPatch
+[Info   :ModulePatch] Enabled patch EnableRefForPVEPatch
+[Info   :ModulePatch] Enabled patch EnableRefIntermScreenPatch
+[Info   :ModulePatch] Enabled patch EnablePlayerScavPatch
+[Info   :ModulePatch] Enabled patch ScavFoundInRaidPatch
+[Info   :ModulePatch] Enabled patch GetProfileAtEndOfRaidPatch
+[Info   :ModulePatch] Enabled patch SendPlayerScavProfileToServerAfterRaidPatch
+[Info   :ModulePatch] Enabled patch RemoveStashUpgradeLabelPatch
+[Info   :ModulePatch] Enabled patch RemoveClothingItemExternalObtainLabelPatch
+[Info   :ModulePatch] Enabled patch ForceRaidModeToLocalPatch
+[Info   :ModulePatch] Enabled patch ScavIsPlayerEnemyPatch
+[Info   :ModulePatch] Enabled patch FirearmControllerShowIncompatibleNotificationClass
+[Info   :ModulePatch] Enabled patch FixKeyAlreadyExistsErrorOnAchievementPatch
+[Info   :ModulePatch] Enabled patch ScavPrestigeFixPatch
+[Info   :ModulePatch] Enabled patch DisableDevMaskCheckPatch
+[Info   :ModulePatch] Enabled patch RemoveStopwatchAllocationsEveryBotFramePatch
+[Info   :ModulePatch] Enabled patch RemoveStopwatchAllocationsEveryCoverPointFramePatch
+[Info   :ModulePatch] Enabled patch DisableUseBSGServersCheckbox
+[Info   :ModulePatch] Enabled patch PmcBotSidePatch
+[Info   :ModulePatch] Enabled patch QuestAchievementRewardInRaidPatch
+[Info   :ModulePatch] Enabled patch FixUnityWarningSpamFromAirdropsPatch
+[Info   :SPT.Singleplayer] Completed: SPT.SinglePlayer
+[Info   :   BepInEx] Loading [SPT.Debugging 3.11.3]
+[Info   :SPT.Debugging] Loading: SPT.Debugging
+[Info   :ModulePatch] Enabled patch EndRaidDebug
+[Info   :ModulePatch] Enabled patch LoggerClassLogPatch
+[Info   :ModulePatch] Enabled patch ReloadClientPatch
+[Info   :ModulePatch] Enabled patch EnableDebugCommandsPatch
+[Info   :SPT.Debugging] Completed: SPT.Debugging
+[Info   :   BepInEx] Loading [Fika.Core 1.2.8]
+[Info   : Fika.Core] Received NatPunchServer config from server:
+[Info   : Fika.Core] Enable: False
+[Info   : Fika.Core] Port: 6790
+[Info   : Fika.Core] NatIntroduceAmount: 1
+[Info   : FikaPatch] Enabled patch FikaVersionLabel_Patch
+[Info   : FikaPatch] Enabled patch DisableMatchSettingsReadyButton_Patch
+[Info   : FikaPatch] Enabled patch DisableReadyButton_Patch
+[Info   : FikaPatch] Enabled patch AchievementsScreen_Show_Patch
+[Info   : FikaPatch] Enabled patch AchievementView_Show_Patch
+[Info   : FikaPatch] Enabled patch ChangeGameModeButton_Patch
+[Info   : FikaPatch] Enabled patch CoopSettingsWindow_Show_Patch
+[Info   : FikaPatch] Enabled patch DisableInsuranceReadyButton_Patch
+[Info   : FikaPatch] Enabled patch DisconnectButton_Patch
+[Info   : FikaPatch] Enabled patch MainMenuControllerClass_method_52_Patch
+[Info   : FikaPatch] Enabled patch GClass3581_ShowAction_Patch
+[Info   : FikaPatch] Enabled patch HideoutPlayerOwner_SetPointOfView_Patch
+[Info   : FikaPatch] Enabled patch MenuScreen_Awake_Patch
+[Info   : FikaPatch] Enabled patch MenuScreen_method_9_Patch
+[Info   : FikaPatch] Enabled patch RagfairScreen_Show_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerOfflineRaidScreen_Show_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerOfflineRaidScreen_Close_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerPlayerControllerClass_GetCoopBlockReason_Patch
+[Info   : FikaPatch] Enabled patch MenuTaskBar_Patch
+[Info   : FikaPatch] Enabled patch PartyInfoPanel_Show_Patch
+[Info   : FikaPatch] Enabled patch RaidSettingsWindow_method_8_Patch
+[Info   : FikaPatch] Enabled patch RaidSettingsWindow_Show_Patch
+[Info   : FikaPatch] Enabled patch SessionResultExitStatus_Show_Patch
+[Info   : FikaPatch] Enabled patch TarkovApplication_method_18_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerAcceptScreen_Awake_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerAcceptScreen_Show_Patch
+[Info   : FikaPatch] Enabled patch AbstractGame_InRaid_Patch
+[Info   : FikaPatch] Enabled patch AIPlaceLogicPartisan_Dispose_Patch
+[Info   : FikaPatch] Enabled patch GClass2461_UpdateOfflineClientLogic_Patch
+[Info   : FikaPatch] Enabled patch GClass2462_UpdateOfflineClientLogic_Patch
+[Info   : FikaPatch] Enabled patch SyncObjectProcessorClass_GetSyncObjectStrategyByType_Patch
+[Info   : FikaPatch] Enabled patch GClass1395_Constructor_Patch
+[Info   : FikaPatch] Enabled patch GClass622_method_0_Patch
+[Info   : FikaPatch] Enabled patch GClass622_method_28_Patch
+[Info   : FikaPatch] Enabled patch BotCacher_Patch
+[Info   : FikaPatch] Enabled patch BotReload_method_1_Patch
+[Info   : FikaPatch] Enabled patch BTRControllerClass_Init_Patch
+[Info   : FikaPatch] Enabled patch BTRVehicle_method_38_Patch
+[Info   : FikaPatch] Enabled patch BTRView_GoIn_Patch
+[Info   : FikaPatch] Enabled patch BTRView_GoOut_Patch
+[Info   : FikaPatch] Enabled patch BTRView_SyncViewFromServer_Patch
+[Info   : FikaPatch] Enabled patch Player_UpdateBtrTraderServiceData_Patch
+[Info   : FikaPatch] Enabled patch WeaponManagerClass_method_13_Patch
+[Info   : FikaPatch] Enabled patch WeaponManagerClass_ValidateScopeSmoothZoomUpdate_Patch
+[Info   : FikaPatch] Enabled patch Class1391_ReloadBackendLocale_Patch
+[Info   : FikaPatch] Enabled patch GameWorld_Create_Patch
+[Info   : FikaPatch] Enabled patch GameWorld_ThrowItem_Patch
+[Info   : FikaPatch] Enabled patch GClass1675_method_9_Patch
+[Info   : FikaPatch] Enabled patch GClass2054_method_0_Patch
+[Info   : FikaPatch] Enabled patch GClass3371_ExceptAI_Patch
+[Info   : FikaPatch] Enabled patch GrenadeClass_Init_Patch
+[Info   : FikaPatch] Enabled patch BufferInnerZone_ChangePlayerAccessStatus_Patch
+[Info   : FikaPatch] Enabled patch BufferInnerZone_ChangeZoneInteractionAvailability_Patch
+[Info   : FikaPatch] Enabled patch BufferZoneControllerClass_method_1_Patch
+[Info   : FikaPatch] Enabled patch BufferZoneControllerClass_SetPlayerInZoneStatus_Patch
+[Info   : FikaPatch] Enabled patch BaseLocalGame_method_13_Patch
+[Info   : FikaPatch] Enabled patch NonWaveSpawnScenario_Patch
+[Info   : FikaPatch] Enabled patch TarkovApplication_LocalGameCreator_Patch
+[Info   : FikaPatch] Enabled patch TarkovApplication_LocalGamePreparer_Patch
+[Info   : FikaPatch] Enabled patch WaveSpawnScenario_Patch
+[Info   : FikaPatch] Enabled patch MineDirectional_OnTriggerEnter_Patch
+[Info   : FikaPatch] Enabled patch Minefield_method_2_Patch
+[Info   : FikaPatch] Enabled patch GetProfileAtEndOfRaidPatch_Override
+[Info   : FikaPatch] Enabled patch FixSavageInventoryScreenPatch_Override
+[Info   : FikaPatch] Enabled patch OfflineRaidSettingsMenuPatch_Override
+[Info   : FikaPatch] Enabled patch ScavProfileLoad_Override
+[Info   : FikaPatch] Enabled patch BodyPartCollider_SetUpPlayer_Patch
+[Info   : FikaPatch] Enabled patch Player_Hide_Patch
+[Info   : FikaPatch] Enabled patch Player_ManageAggressor_Patch
+[Info   : FikaPatch] Enabled patch Player_OnDead_Patch
+[Info   : FikaPatch] Enabled patch Player_SetDogtagInfo_Patch
+[Info   : FikaPatch] Enabled patch Player_SpawnInHands_Patch
+[Info   : FikaPatch] Enabled patch TransitControllerAbstractClass_Exist_Patch
+[Info   : FikaPatch] Enabled patch TripwireSynchronizableObject_method_11_Patch
+[Info   : FikaPatch] Enabled patch TripwireSynchronizableObject_method_6_Patch
+[Info   : FikaPatch] Enabled patch BasicMicrophoneCapture_UpdateSubscribers_Transpiler
+[Info   : FikaPatch] Enabled patch DissonanceComms_Start_Patch
+[Info   : FikaPatch] Enabled patch Player_IDissonancePlayerType_Patch
+[Info   : FikaPatch] Enabled patch Player_HasMarkOfUnknown_Patch
+[Info   : FikaPatch] Enabled patch OpticRetrice_UpdateTransform_Patch
+[Info   : FikaPatch] Enabled patch PlayerCameraController_LateUpdate_Transpiler
+[Info   : FikaPatch] Enabled patch DeathFade_Patch
+[Info   : FikaPatch] Enabled patch PlayEndGameSound_Patch
+[Info   : FikaPatch] Enabled patch PlayUISound_Patch
+[Info   : FikaPatch] Enabled patch BTRSide_AddPassenger_Patch
+[Info   : FikaPatch] Enabled patch BTRSide_RemovePassenger_Patch
+[Info   : FikaPatch] Enabled patch BTRSide_method_9_Patch
+[Info   : FikaPatch] Enabled patch LighthouseTraderZone_AddPlayer_Patch
+[Info   : FikaPatch] Enabled patch LighthouseTraderZone_RemovePlayer_Patch
+[Info   : FikaPatch] Enabled patch LighthouseTraderZone_Awake_Patch
+[Info   : FikaPatch] Enabled patch GClass436_Activate_Patch
+[Info   :Fika.Core PatchManager] Enabled 91 patches
+[Info   :ModulePatch] Disabled patch VersionLabelPatch
+[Info   :ModulePatch] Disabled patch AmmoUsedCounterPatch
+[Info   :ModulePatch] Disabled patch ArmorDamageCounterPatch
+[Info   :ModulePatch] Disabled patch ScavRepAdjustmentPatch
+[Info   :ModulePatch] Disabled patch GetProfileAtEndOfRaidPatch
+[Info   :ModulePatch] Disabled patch ScavExfilPatch
+[Info   :ModulePatch] Disabled patch SendPlayerScavProfileToServerAfterRaidPatch
+[Info   :ModulePatch] Disabled patch MatchStartServerLocationPatch
+[Info   :ModulePatch] Disabled patch QuestAchievementRewardInRaidPatch
+[Info   : Fika.Core] Received config from server:
+[Info   : Fika.Core] Fika is loaded! Running version: 1.2.8.0
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/difficulty/core/core
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/difficulty/core/core
+[Info   : FikaPatch] Enabled patch ItemContext_Patch
+[Info   :   BepInEx] Loading [Kaeno-TraderScrolling 1.2.0]
+[Info   :   BepInEx] Loading [DynamicMaps 0.5.7]
+[Warning:  HarmonyX] BattleUIScreenShowPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3575, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner) instead of void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3575, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner).
+[Info   :ModulePatch] Enabled patch BattleUIScreenShowPatch
+[Info   :ModulePatch] Enabled patch CommonUIAwakePatch
+[Info   :ModulePatch] Enabled patch MapScreenShowPatch
+[Info   :ModulePatch] Enabled patch MapScreenClosePatch
+[Info   :ModulePatch] Enabled patch GameStartedPatch
+[Info   :ModulePatch] Enabled patch GameWorldOnDestroyPatch
+[Info   :ModulePatch] Enabled patch GameWorldUnregisterPlayerPatch
+[Info   :ModulePatch] Enabled patch GameWorldRegisterLootItemPatch
+[Info   :ModulePatch] Enabled patch GameWorldDestroyLootPatch
+[Info   :ModulePatch] Enabled patch AirdropBoxOnBoxLandPatch
+[Info   :ModulePatch] Enabled patch PlayerOnDeadPatch
+[Info   :ModulePatch] Enabled patch PlayerInventoryThrowItemPatch
+[Info   :ModulePatch] Enabled patch ShowViewButtonPatch
+[Info   :   BepInEx] Loading [VCQL-Zones 2.0.4]
+[Info   :ModulePatch] Enabled patch GameWorldPatch
+[Info   :   BepInEx] Loading [BossNotifier 1.6.0]
+[Warning:  HarmonyX] AccessTools.Field: Could not find field for type Fika.Core.Coop.Utils.FikaBackendUtils and name MatchingType
+[Info   :ModulePatch] Enabled patch BossLocationSpawnPatch
+[Info   :ModulePatch] Enabled patch NewGamePatch
+[Info   :ModulePatch] Enabled patch BotBossPatch
+[Info   :BossNotifier] Plugin BossNotifier is loaded!
+[Info   :   BepInEx] Loading [LootingBots 1.5.2]
+[Info   :ModulePatch] Enabled patch CleanCacheOnRaidEnd
+[Info   :ModulePatch] Enabled patch ClearCacheOnDeath
+[Info   :ModulePatch] Enabled patch EnableWeaponSwitching
+[Info   :ModulePatch] Enabled patch InteractPatch
+[Info   :ModulePatch] Enabled patch InventoryClosePatch
+[Info   :ModulePatch] Enabled patch RemoveComponent
+[Info   :   BepInEx] Loading [SAIN 4.0.3]
+[Info   :ModulePatch] Enabled patch WorldTickPatch
+[Info   :ModulePatch] Enabled patch PlayerLateUpdatePatch
+[Info   :ModulePatch] Enabled patch AddBotComponentPatch
+[Info   :ModulePatch] Enabled patch ActivateBotComponentPatch
+[Info   :ModulePatch] Enabled patch AddGameWorldPatch
+[Info   :ModulePatch] Enabled patch GetBotController
+[Info   :ModulePatch] Enabled patch SetEnvironmentPatch
+[Info   :ModulePatch] Enabled patch SetPanicPointPatch
+[Info   :ModulePatch] Enabled patch AddPointToSearchPatch
+[Info   :ModulePatch] Enabled patch TurnDamnLightOffPatch
+[Info   :ModulePatch] Enabled patch GrenadeThrownActionPatch
+[Info   :ModulePatch] Enabled patch GrenadeExplosionActionPatch
+[Info   :ModulePatch] Enabled patch ShallKnowEnemyPatch
+[Info   :ModulePatch] Enabled patch ShallKnowEnemyLatePatch
+[Info   :ModulePatch] Enabled patch HaveSeenEnemyPatch
+[Info   :ModulePatch] Enabled patch AllowRequestPatch
+[Info   :ModulePatch] Enabled patch FindRequestForMePatch
+[Info   :ModulePatch] Enabled patch SetInHands_Empty
+[Info   :ModulePatch] Enabled patch SetInHands_Food_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Grenade_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Knife_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Meds_Patch1
+[Info   :ModulePatch] Enabled patch SetInHands_Meds_Patch2
+[Info   :ModulePatch] Enabled patch SetInHands_QuickUse_Patch1
+[Info   :ModulePatch] Enabled patch SetInHands_QuickUse_Patch2
+[Info   :ModulePatch] Enabled patch SetInHands_Weapon_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Weapon_Stationary_Patch
+[Info   :ModulePatch] Enabled patch StopSetToNavMeshPatch
+[Info   :ModulePatch] Enabled patch StopSetToNavMeshPatch2
+[Info   :ModulePatch] Enabled patch FightShallReloadFixPatch
+[Info   :ModulePatch] Enabled patch EnableVaultPatch
+[Info   :ModulePatch] Enabled patch BotMemoryAddEnemyPatch
+[Info   :ModulePatch] Enabled patch BotGroupAddEnemyPatch
+[Info   :ModulePatch] Enabled patch FixItemTakerPatch
+[Info   :ModulePatch] Enabled patch FixItemTakerPatch2
+[Info   :ModulePatch] Enabled patch RotateClampPatch
+[Info   :ModulePatch] Enabled patch RunToEnemyUpdatePatch
+[Info   :ModulePatch] Enabled patch InfiniteMagFixPatch
+[Info   :ModulePatch] Enabled patch EncumberedPatch
+[Info   :ModulePatch] Enabled patch DoorOpenerPatch
+[Info   :ModulePatch] Enabled patch DoorDisabledPatch
+[Info   :ModulePatch] Enabled patch CrawlPatch
+[Info   :ModulePatch] Enabled patch PoseStaminaPatch
+[Info   :ModulePatch] Enabled patch AimStaminaPatch
+[Info   :ModulePatch] Enabled patch GlobalShootSettingsPatch
+[Info   :ModulePatch] Enabled patch GlobalLookPatch
+[Info   :ModulePatch] Enabled patch MovementContextIsAIPatch
+[Warning:  HarmonyX] SetDoorCollisionPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void EFT.Interactive.WorldInteractiveObject::SetDoorState(EFT.Interactive.EDoorState state, bool force) instead of void EFT.Interactive.WorldInteractiveObject::SetDoorState(EFT.Interactive.EDoorState state, bool force).
+[Info   :ModulePatch] Enabled patch SetDoorCollisionPatch
+[Info   :ModulePatch] Enabled patch CanBeSnappedPatch
+[Info   :ModulePatch] Enabled patch BotMoverManualUpdatePatch
+[Info   :ModulePatch] Enabled patch BotMoverManualFixedUpdatePatch
+[Info   :ModulePatch] Enabled patch SprintLookDirPatch
+[Info   :ModulePatch] Enabled patch TryPlayShootSoundPatch
+[Info   :ModulePatch] Enabled patch OnMakingShotPatch
+[Info   :ModulePatch] Enabled patch RegisterShotPatch
+[Info   :ModulePatch] Enabled patch OnWeaponModifiedPatch
+[Info   :ModulePatch] Enabled patch HearingSensorPatch
+[Info   :ModulePatch] Enabled patch GrenadeCollisionPatch
+[Info   :ModulePatch] Enabled patch GrenadeCollisionPatch2
+[Info   :ModulePatch] Enabled patch ToggleSoundPatch
+[Info   :ModulePatch] Enabled patch SpawnInHandsSoundPatch
+[Info   :ModulePatch] Enabled patch PlaySwitchHeadlightSoundPatch
+[Info   :ModulePatch] Enabled patch BulletImpactPatch
+[Info   :ModulePatch] Enabled patch TreeSoundPatch
+[Info   :ModulePatch] Enabled patch DoorBreachSoundPatch
+[Info   :ModulePatch] Enabled patch DoorOpenSoundPatch
+[Info   :ModulePatch] Enabled patch FootstepSoundPatch
+[Info   :ModulePatch] Enabled patch SprintSoundPatch
+[Info   :ModulePatch] Enabled patch GenericMovementSoundPatch
+[Info   :ModulePatch] Enabled patch SpecificStepAudioControllerPatch
+[Info   :ModulePatch] Enabled patch JumpSoundPatch
+[Info   :ModulePatch] Enabled patch DryShotPatch
+[Info   :ModulePatch] Enabled patch ProneSoundPatch
+[Info   :ModulePatch] Enabled patch SoundClipNameCheckerPatch
+[Info   :ModulePatch] Enabled patch SoundClipNameCheckerPatch2
+[Info   :ModulePatch] Enabled patch AimSoundPatch
+[Info   :ModulePatch] Enabled patch LootingSoundPatch
+[Info   :ModulePatch] Enabled patch JumpPainPatch
+[Info   :ModulePatch] Enabled patch PlayerHurtPatch
+[Info   :ModulePatch] Enabled patch PlayerTalkPatch
+[Info   :ModulePatch] Enabled patch BotTalkPatch
+[Info   :ModulePatch] Enabled patch BotTalkManualUpdatePatch
+[Info   :ModulePatch] Enabled patch DisableLookUpdatePatch
+[Info   :ModulePatch] Enabled patch UpdateLightEnablePatch
+[Info   :ModulePatch] Enabled patch UpdateLightEnablePatch2
+[Info   :ModulePatch] Enabled patch ToggleNightVisionPatch
+[Info   :ModulePatch] Enabled patch SetPartPriorityPatch
+[Info   :ModulePatch] Enabled patch GlobalLookSettingsPatch
+[Info   :ModulePatch] Enabled patch WeatherTimeVisibleDistancePatch
+[Info   :ModulePatch] Enabled patch NoAIESPPatch
+[Info   :ModulePatch] Enabled patch BotLightTurnOnPatch
+[Info   :ModulePatch] Enabled patch VisionSpeedPatch
+[Info   :ModulePatch] Enabled patch WeatherVisionPatch
+[Info   :ModulePatch] Enabled patch VisionDistancePatch
+[Info   :ModulePatch] Enabled patch CheckFlashlightPatch
+[Info   :ModulePatch] Enabled patch DoHitAffectPatch
+[Info   :ModulePatch] Enabled patch HitAffectApplyPatch
+[Info   :ModulePatch] Enabled patch PlayerHitReactionDisablePatch
+[Info   :ModulePatch] Enabled patch SetAimStatusPatch
+[Info   :ModulePatch] Enabled patch LoseTargetPatch
+[Info   :ModulePatch] Enabled patch AimOffsetPatch
+[Info   :ModulePatch] Enabled patch AimTimePatch
+[Info   :ModulePatch] Enabled patch ForceNoHeadAimPatch
+[Info   :ModulePatch] Enabled patch SmoothTurnPatch
+[Info   :ModulePatch] Enabled patch ResetGrenadePatch
+[Info   :ModulePatch] Enabled patch SetGrenadePatch
+[Info   :ModulePatch] Enabled patch FullAutoPatch
+[Info   :ModulePatch] Enabled patch SemiAutoPatch
+[Info   :ModulePatch] Enabled patch SemiAutoPatch2
+[Info   :ModulePatch] Enabled patch SemiAutoPatch3
+[Info   :   BepInEx] Loading [Tyfon.UIFixes 4.2.1]
+[Info   :Tyfon.UIFixes] Disabling 'Standardize Grid Order'
+[Info   :Tyfon.UIFixes] Fika detected, initializing settings sync
+[Info   :ModulePatch] Enabled patch NetworkTransactionPatch
+[Info   :ModulePatch] Enabled patch DialogWindowPatch
+[Info   :ModulePatch] Enabled patch ItemUiContextWindowPatch
+[Info   :ModulePatch] Enabled patch ErrorScreenPatch
+[Info   :ModulePatch] Enabled patch AddOfferPatch
+[Info   :ModulePatch] Enabled patch ClickOutPatch
+[Info   :ModulePatch] Enabled patch ClickOutSplitDialogPatch
+[Info   :ModulePatch] Enabled patch ClickOutItemsListPatch
+[Info   :ModulePatch] Enabled patch ClickOutErrorScreenPatch
+[Info   :ModulePatch] Enabled patch FixMailRecieveAllPatch
+[Info   :ModulePatch] Enabled patch QuestTooltipPatch
+[Info   :ModulePatch] Enabled patch ArmorTooltipPatch
+[Info   :ModulePatch] Enabled patch SoftArmorTooltipPatch
+[Info   :ModulePatch] Enabled patch FixWeaponBindsDisplayPatch
+[Info   :ModulePatch] Enabled patch BoundItemViewTextPatch
+[Info   :ModulePatch] Enabled patch RotationPatch
+[Info   :ModulePatch] Enabled patch MoneyPatch
+[Info   :ModulePatch] Enabled patch BarterPatch
+[Info   :ModulePatch] Enabled patch LazyLoadPatch
+[Info   :ModulePatch] Enabled patch RestoreHideoutSearchPatch
+[Info   :ModulePatch] Enabled patch SaveHideoutSearchPatch
+[Info   :ModulePatch] Enabled patch CloseHideoutSearchPatch
+[Info   :ModulePatch] Enabled patch FastHideoutSearchPatch
+[Info   :ModulePatch] Enabled patch FixHideoutSearchAgainPatch
+[Info   :ModulePatch] Enabled patch CancelScrollOnMouseWheelPatch
+[Info   :ModulePatch] Enabled patch BlockHideoutEnterPatch
+[Info   :ModulePatch] Enabled patch SelectAreaPatch
+[Info   :ModulePatch] Enabled patch ChangeLevelPatch
+[Info   :ModulePatch] Enabled patch PickInitialLevelPatch
+[Info   :ModulePatch] Enabled patch ClearLevelPatch
+[Info   :ModulePatch] Enabled patch SaveInspectWindowSizePatch
+[Info   :ModulePatch] Enabled patch AddInspectWindowButtonsPatch
+[Info   :ModulePatch] Enabled patch GrowInspectWindowDescriptionPatch
+[Info   :ModulePatch] Enabled patch LeftRightKeybindsPatch
+[Info   :ModulePatch] Enabled patch CalculateModStatsPatch
+[Info   :ModulePatch] Enabled patch CompareModStatsPatch
+[Info   :ModulePatch] Enabled patch AddShowHideModStatsButtonPatch
+[Info   :ModulePatch] Enabled patch FormatCompactValuesPatch
+[Info   :ModulePatch] Enabled patch FormatFullValuesPatch
+[Info   :ModulePatch] Enabled patch FixDurabilityBarPatch
+[Info   :ModulePatch] Enabled patch HighlightSlotsPatch
+[Info   :ModulePatch] Enabled patch HighlightFilledSlotsPatch
+[Info   :ModulePatch] Enabled patch FixTraderCompatWithPatch
+[Info   :ModulePatch] Enabled patch RemoveDoorActionsPatch
+[Info   :ModulePatch] Enabled patch EnhanceStashScrollingPatch
+[Info   :ModulePatch] Enabled patch EnchanceTraderStashScrollingPatch
+[Info   :ModulePatch] Enabled patch EnhanceFleaScrollingPatch
+[Info   :ModulePatch] Enabled patch EnhanceMailScrollingPatch
+[Info   :ModulePatch] Enabled patch MouseScrollingSpeedPatch
+[Info   :ModulePatch] Enabled patch LightScrollerSpeedPatch
+[Info   :ModulePatch] Enabled patch EnhanceHideoutScrollingPatch
+[Info   :ModulePatch] Enabled patch EnhanceTaskListScrollingPatch
+[Info   :ModulePatch] Enabled patch OpenLastTaskPatch
+[Info   :ModulePatch] Enabled patch ContainerStackPatch
+[Info   :ModulePatch] Enabled patch TopUpStackPatch
+[Info   :ModulePatch] Enabled patch DetectSwapSourceContainerPatch
+[Info   :ModulePatch] Enabled patch CleanupSwapSourceContainerPatch
+[Info   :ModulePatch] Enabled patch GridViewCanAcceptSwapPatch
+[Info   :ModulePatch] Enabled patch DetectGridHighlightPrecheckPatch
+[Info   :ModulePatch] Enabled patch DetectSlotHighlightPrecheckPatch
+[Info   :ModulePatch] Enabled patch SlotCanAcceptSwapPatch
+[Info   :ModulePatch] Enabled patch WeaponApplyPatch
+[Info   :ModulePatch] Enabled patch DetectFilterForSwapPatch
+[Info   :ModulePatch] Enabled patch FixNoGridErrorPatch
+[Info   :ModulePatch] Enabled patch SwapOperationRaiseEventsPatch
+[Info   :ModulePatch] Enabled patch RememberSwapGridHoverPatch
+[Info   :ModulePatch] Enabled patch InspectWindowUpdateStatsOnSwapPatch
+[Info   :ModulePatch] Enabled patch FixAddModFirearmOperationPatch
+[Info   :ModulePatch] Enabled patch HideScaryTooltipPatch
+[Info   :ModulePatch] Enabled patch ScavInventorySplitPatch
+[Info   :ModulePatch] Enabled patch SyncStashScrollPatch
+[Info   :ModulePatch] Enabled patch SyncOfferStashScrollPatch
+[Info   :ModulePatch] Enabled patch TransferConfirmPatch
+[Info   :ModulePatch] Enabled patch DetectWeaponPresetCloseTypePatch
+[Info   :ModulePatch] Enabled patch ConfirmDiscardWeaponPresetChangesPatch
+[Info   :ModulePatch] Enabled patch SavePresetPatch
+[Info   :ModulePatch] Enabled patch InstantSavePresetPatch
+[Info   :ModulePatch] Enabled patch EditBuildScreenZoomPatch
+[Info   :ModulePatch] Enabled patch WeaponModdingScreenZoomPatch
+[Info   :ModulePatch] Enabled patch NoInventoryZoomPatch
+[Info   :ModulePatch] Enabled patch MoveTaskbarPatch
+[Info   :ModulePatch] Enabled patch DoNotToggleOnMouseOverPatch
+[Info   :ModulePatch] Enabled patch ToggleOnOpenPatch
+[Info   :ModulePatch] Enabled patch DropdownHeightPatch
+[Info   :ModulePatch] Enabled patch OfferViewTweaksPatch
+[Info   :ModulePatch] Enabled patch SearchFilterPatch
+[Info   :ModulePatch] Enabled patch SearchPatch
+[Info   :ModulePatch] Enabled patch SearchKeyPatch
+[Info   :ModulePatch] Enabled patch SearchKeyHandbookPatch
+[Info   :ModulePatch] Enabled patch RagfairScreenShowPatch
+[Info   :ModulePatch] Enabled patch OfferViewListCategoryPickedPatch
+[Info   :ModulePatch] Enabled patch OfferViewListDoneLoadingPatch
+[Info   :ModulePatch] Enabled patch ChangedViewListTypePatch
+[Info   :ModulePatch] Enabled patch PlaceOfferClickPatch
+[Info   :ModulePatch] Enabled patch ClosePatch
+[Info   :ModulePatch] Enabled patch AutopopulatePricesPatch
+[Info   :ModulePatch] Enabled patch SetRequirementPatch
+[Info   :ModulePatch] Enabled patch BulkTogglePatch
+[Info   :ModulePatch] Enabled patch MultipleStacksPatch
+[Info   :ModulePatch] Enabled patch AssortUnlocksPatch
+[Info   :ModulePatch] Enabled patch AutofillQuestItemsPatch
+[Info   :ModulePatch] Enabled patch ContextMenuNamesPatch
+[Info   :ModulePatch] Enabled patch PositionSubMenuPatch
+[Info   :ModulePatch] Enabled patch PositionInsuranceSubMenuPatch
+[Info   :ModulePatch] Enabled patch DeclareSubInteractionsInventoryPatch
+[Info   :ModulePatch] Enabled patch CreateSubInteractionsInventoryPatch
+[Info   :ModulePatch] Enabled patch DeclareSubInteractionsTradingPatch
+[Info   :ModulePatch] Enabled patch CreateSubInteractionsTradingPatch
+[Info   :ModulePatch] Enabled patch SniffInteractionButtonCreationPatch
+[Info   :ModulePatch] Enabled patch ChangeInteractionButtonCreationPatch
+[Info   :ModulePatch] Enabled patch EnableInsureInnerItemsPatch
+[Info   :ModulePatch] Enabled patch DisableInsureOnUninsurable
+[Info   :ModulePatch] Enabled patch DisableLoadPresetOnBulletsPatch
+[Info   :ModulePatch] Enabled patch EmptyModSlotMenuPatch
+[Info   :ModulePatch] Enabled patch EmptyModSlotMenuRemovePatch
+[Info   :ModulePatch] Enabled patch EmptySlotMenuPatch
+[Info   :ModulePatch] Enabled patch EmptySlotMenuRemovePatch
+[Info   :ModulePatch] Enabled patch OpenWhileSearchingPatch
+[Info   :ModulePatch] Enabled patch ModdingItemContextPatch
+[Info   :ModulePatch] Enabled patch GetBuySellTabsPatch
+[Info   :ModulePatch] Enabled patch SwitchOnClickPatch
+[Info   :ModulePatch] Enabled patch RefreshOnSwitchPatch
+[Info   :ModulePatch] Enabled patch RestoreTraderPatch
+[Info   :ModulePatch] Enabled patch RestoreTabPatch
+[Info   :ModulePatch] Enabled patch RememberTraderAndTabPatch
+[Info   :ModulePatch] Enabled patch RememberAutoselectPatch
+[Info   :ModulePatch] Enabled patch RestoreAutoselectPatch
+[Info   :ModulePatch] Enabled patch SniffChatPanelClosePatch
+[Info   :ModulePatch] Enabled patch ReopenMessagesPatch
+[Info   :ModulePatch] Enabled patch FocusTradeQuantityPatch
+[Info   :ModulePatch] Enabled patch SelectAllPatch
+[Info   :ModulePatch] Enabled patch RememberRepairerPatch
+[Info   :ModulePatch] Enabled patch DefaultMaxRepairPatch
+[Info   :ModulePatch] Enabled patch GridWindowButtonsPatch
+[Info   :ModulePatch] Enabled patch LoadMagPresetsPatch
+[Info   :ModulePatch] Enabled patch RemoveDefaultPresetNamePatch
+[Info   :ModulePatch] Enabled patch RequirePresetNamePatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepTopOnScreenPatch
+[Info   :ModulePatch] Enabled patch ItemUiContextPatch
+[Info   :ModulePatch] Enabled patch HideoutItemViewRegisterContextPatch
+[Info   :ModulePatch] Enabled patch TradingPanelRegisterContextPatch
+[Info   :ModulePatch] Enabled patch TradingPanelUnregisterContextPatch
+[Info   :ModulePatch] Enabled patch SelectCurrentContextPatch
+[Info   :ModulePatch] Enabled patch DeselectCurrentContextPatch
+[Info   :ModulePatch] Enabled patch AutoOpenPatch
+[Info   :ModulePatch] Enabled patch DefaultBindPatch
+[Info   :ModulePatch] Enabled patch EnableContextMenuPatch
+[Info   :ModulePatch] Enabled patch SlowLoadingPatch
+[Info   :ModulePatch] Enabled patch InitializeCommonUIPatch
+[Info   :ModulePatch] Enabled patch InitializeMenuUIPatch
+[Info   :ModulePatch] Enabled patch SelectOnMouseDownPatch
+[Info   :ModulePatch] Enabled patch DeselectOnTradingItemViewClickPatch
+[Info   :ModulePatch] Enabled patch HandleItemViewInitPatch
+[Info   :ModulePatch] Enabled patch HandleItemViewKillPatch
+[Info   :ModulePatch] Enabled patch BeginDragPatch
+[Info   :ModulePatch] Enabled patch EndDragPatch
+[Info   :ModulePatch] Enabled patch DeselectOnLockPatch
+[Info   :ModulePatch] Enabled patch SelectAllPatch
+[Info   :ModulePatch] Enabled patch DisableSplitPatch
+[Info   :ModulePatch] Enabled patch DisableSplitTargetPatch
+[Info   :ModulePatch] Enabled patch DisableMagnifyPatch
+[Info   :ModulePatch] Enabled patch ItemViewClickPatch
+[Info   :ModulePatch] Enabled patch ContextActionsPatch
+[Info   :ModulePatch] Enabled patch MoreContextActionsPatch
+[Info   :ModulePatch] Enabled patch StopProcessesPatch
+[Info   :ModulePatch] Enabled patch GridViewCanAcceptPatch
+[Info   :ModulePatch] Enabled patch GridViewAcceptItemPatch
+[Info   :ModulePatch] Enabled patch GridViewPickTargetPatch
+[Info   :ModulePatch] Enabled patch GridViewDisableHighlightPatch
+[Info   :ModulePatch] Enabled patch GridViewClearTooltipPatch
+[Info   :ModulePatch] Enabled patch SlotViewCanAcceptPatch
+[Info   :ModulePatch] Enabled patch SlotViewAcceptItemPatch
+[Info   :ModulePatch] Enabled patch TradingTableCanAcceptPatch
+[Info   :ModulePatch] Enabled patch TradingTableAcceptItemPatch
+[Info   :ModulePatch] Enabled patch TradingTableGetHighlightColorPatch
+[Info   :ModulePatch] Enabled patch FindSpotKeepRotationPatch
+[Info   :ModulePatch] Enabled patch FindPlaceToPutPatch
+[Info   :ModulePatch] Enabled patch AdjustQuickFindFlagsPatch
+[Info   :ModulePatch] Enabled patch ReorderContainersPatch
+[Info   :ModulePatch] Enabled patch AllowFindSameSpotPatch
+[Info   :ModulePatch] Enabled patch FindCompatibleAmmoPatch
+[Info   :ModulePatch] Enabled patch CheckItemFilterPatch
+[Info   :ModulePatch] Enabled patch LoadAmmoPatch
+[Info   :ModulePatch] Enabled patch FilterMagPresetsPatch
+[Info   :ModulePatch] Enabled patch LoadPresetPatch
+[Info   :ModulePatch] Enabled patch GridViewPatch
+[Info   :ModulePatch] Enabled patch SlotViewPatch
+[Info   :ModulePatch] Enabled patch TradingPlayerPatch
+[Info   :ModulePatch] Enabled patch TransferPlayerPatch
+[Info   :ModulePatch] Enabled patch UnloadScavTransferPatch
+[Info   :ModulePatch] Enabled patch NoScavStashPatch
+[Info   :ModulePatch] Enabled patch FixTraderControllerSimulateFalsePatch
+[Info   :ModulePatch] Enabled patch PutToolsBackPatch
+[Info   :ModulePatch] Enabled patch RebindGrenadesPatch
+[Info   :ModulePatch] Enabled patch AddTwoKeyStatesPatch
+[Info   :ModulePatch] Enabled patch AddOneKeyStatesPatch
+[Info   :ModulePatch] Enabled patch UpdateInputPatch
+[Info   :ModulePatch] Enabled patch ForceTacticalModePatch
+[Info   :ModulePatch] Enabled patch ReorderGridsPatch
+[Info   :ModulePatch] Enabled patch MoneyPanelPatch
+[Info   :ModulePatch] Enabled patch MoneyPanelTMPTextPatch
+[Info   :ModulePatch] Enabled patch HandbookWorkaroundPatch
+[Info   :ModulePatch] Enabled patch CreateButtonPatch
+[Info   :ModulePatch] Enabled patch ShowButtonPatch
+[Info   :ModulePatch] Enabled patch FilterPanelPatch
+[Info   :ModulePatch] Enabled patch StackFirstPatch
+[Info   :ModulePatch] Enabled patch ReloadInPlacePatch
+[Info   :ModulePatch] Enabled patch ReloadInPlaceFindMagPatch
+[Info   :ModulePatch] Enabled patch ReloadInPlaceFindSpotPatch
+[Info   :ModulePatch] Enabled patch AlwaysSwapPatch
+[Info   :ModulePatch] Enabled patch SwapIfNoSpacePatch
+[Info   :ModulePatch] Enabled patch IconsPatch
+[Info   :ModulePatch] Enabled patch ItemViewScalePatch
+[Info   :ModulePatch] Enabled patch ItemUpdateInfoPatch
+[Info   :ModulePatch] Enabled patch HideItemViewStatsPatch
+[Info   :ModulePatch] Enabled patch OverrideGridItemViewTooltipPatch
+[Info   :ModulePatch] Enabled patch NoPointerEnterPatch
+[Info   :ModulePatch] Enabled patch NoPointerExitPatch
+[Info   :ModulePatch] Enabled patch NoPointerClickPatch
+[Info   :ModulePatch] Enabled patch UnlockCursorPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch HideoutCameraPatch
+[Info   :ModulePatch] Enabled patch ResizePatch
+[Info   :ModulePatch] Enabled patch ResizeHelperPatch
+[Info   :ModulePatch] Enabled patch ResizeOperationRollbackPatch
+[Info   :ModulePatch] Enabled patch MoveBeforeNetworkTransactionPatch
+[Info   :ModulePatch] Enabled patch SwapModsPatch
+[Info   :ModulePatch] Enabled patch ModEquippedPatch
+[Info   :ModulePatch] Enabled patch InspectLockedPatch
+[Info   :ModulePatch] Enabled patch MoveCanExecutePatch
+[Info   :ModulePatch] Enabled patch ModCanBeMovedPatch
+[Info   :ModulePatch] Enabled patch CanDetachPatch
+[Info   :ModulePatch] Enabled patch CanApplyPatch
+[Info   :ModulePatch] Enabled patch LockedStatePatch
+[Info   :ModulePatch] Enabled patch ArmorSlotAcceptRaidPatch
+[Info   :ModulePatch] Enabled patch ModRaidModdablePatch
+[Info   :ModulePatch] Enabled patch EmptyVitalPartsPatch
+[Info   :ModulePatch] Enabled patch OnEnterPatch
+[Info   :ModulePatch] Enabled patch TagsOverCaptionsPatch
+[Info   :ModulePatch] Enabled patch AddTagNewItemPatch
+[Info   : Fika.Core] Server version check passed. Expected: >2.4.7, received: 2.4.7
+[Info   :FikaModHandler] Loaded plugin: [WTT-PackNStrap] with GUID [com.aaaWTT-PacknStrap.Core] and crc32 [2077238175]
+[Info   :FikaModHandler] Loaded plugin: [Graphics] with GUID [com.Amanda.Graphics] and crc32 [982026357]
+[Info   :FikaModHandler] Loaded plugin: [Configuration Manager] with GUID [com.bepis.bepinex.configurationmanager] and crc32 [2453335703]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Core] with GUID [com.SPT.core] and crc32 [4135225510]
+[Info   :FikaModHandler] Loaded plugin: [DrakiaXYZ-Waypoints] with GUID [xyz.drakia.waypoints] and crc32 [4022289109]
+[Info   :FikaModHandler] Loaded plugin: [DrakiaXYZ-BigBrain] with GUID [xyz.drakia.bigbrain] and crc32 [3701555121]
+[Info   :FikaModHandler] Loaded plugin: [DanW-QuestingBots] with GUID [com.DanW.QuestingBots] and crc32 [2312158622]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Custom] with GUID [com.SPT.custom] and crc32 [2697771812]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Singleplayer] with GUID [com.SPT.singleplayer] and crc32 [1999686428]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Debugging] with GUID [com.SPT.debugging] and crc32 [2084470248]
+[Info   :FikaModHandler] Loaded plugin: [Fika.Core] with GUID [com.fika.core] and crc32 [3233123487]
+[Info   :FikaModHandler] Loaded plugin: [Kaeno-TraderScrolling] with GUID [com.kaeno.TraderScrolling] and crc32 [3677119662]
+[Info   :FikaModHandler] Loaded plugin: [DynamicMaps] with GUID [com.mpstark.DynamicMaps] and crc32 [3467874971]
+[Info   :FikaModHandler] Loaded plugin: [VCQL-Zones] with GUID [com.virtual.vcql] and crc32 [2260259757]
+[Info   :FikaModHandler] Loaded plugin: [BossNotifier] with GUID [Mattdokn.BossNotifier] and crc32 [987005380]
+[Info   :FikaModHandler] Loaded plugin: [LootingBots] with GUID [me.skwizzy.lootingbots] and crc32 [4123998962]
+[Info   :FikaModHandler] Loaded plugin: [SAIN] with GUID [me.sol.sain] and crc32 [1031265223]
+[Info   :FikaModHandler] Loaded plugin: [Tyfon.UIFixes] with GUID [Tyfon.UIFixes] and crc32 [1949918023]
+[Info   :RequestHandler] [REQUEST]: /fika/client/check/mods
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /fika/client/check/mods
+[Info   :ModulePatch] Enabled patch AddTagParsedItemPatch
+[Info   :ModulePatch] Enabled patch TagAdditionalTypePatch
+[Info   :ModulePatch] Enabled patch KeepTagsLocalPatch
+[Info   :ModulePatch] Enabled patch BindableTacticalPatch
+[Info   :ModulePatch] Enabled patch ReachableTacticalPatch
+[Info   :ModulePatch] Enabled patch UseTacticalPatch
+[Info   :ModulePatch] Enabled patch BindTacticalPatch
+[Info   :ModulePatch] Enabled patch UnbindTacticalPatch
+[Info   :ModulePatch] Enabled patch InitQuickBindsPatch
+[Info   :ModulePatch] Enabled patch OperationQueuePatch
+[Info   :ModulePatch] Enabled patch IntSliderPatch
+[Info   :ModulePatch] Enabled patch StepSliderPatch
+[Info   :ModulePatch] Enabled patch ModdingScreenListenOpenPatch
+[Info   :ModulePatch] Enabled patch ModdingScreenListenClosePatch
+[Info   :ModulePatch] Enabled patch SlotViewClickOpenPatch
+[Info   :ModulePatch] Enabled patch ItemSelectionCellClickOpenPatch
+[Info   :ModulePatch] Enabled patch EmptySlotRemovePointerDownPatch
+[Info   :ModulePatch] Enabled patch EmptySlotInteractablePatch
+[Info   :ModulePatch] Enabled patch EmptySlotClickPatch
+[Info   :ModulePatch] Enabled patch BackgroundClickClosePatch
+[Info   :ModulePatch] Enabled patch FixBlockedItemSwapPatch
+[Info   :ModulePatch] Enabled patch FixPlayerInspectPatch
+[Info   :ModulePatch] Enabled patch BigButtonPatch
+[Info   :ModulePatch] Enabled patch QuestMessagePatch
+[Info   :ModulePatch] Enabled patch ModifyUnsearchedContainerPatch
+[Info   :ModulePatch] Enabled patch StashPanelAdPatch
+[Info   :ModulePatch] Enabled patch HideoutStashAdPatch
+[Info   :ModulePatch] Enabled patch PaymentSlotsPatch
+[Info   :ModulePatch] Enabled patch RequisiteChangePatch
+[Info   :ModulePatch] Enabled patch ClosePatch
+[Info   :ModulePatch] Enabled patch CreateTextPatch
+[Info   :ModulePatch] Enabled patch ShowTextPatch
+[Info   :ModulePatch] Enabled patch CreateIconsPatch
+[Info   :ModulePatch] Enabled patch ShowIconsPatch
+[Info   :ModulePatch] Enabled patch QuestListItemPatch
+[Info   :ModulePatch] Enabled patch BuildsCategoriesPanelPatch
+[Info   :ModulePatch] Enabled patch StockBuildsCheckboxPatch
+[Info   :   BepInEx] Loading [MoreCheckmarks 1.5.17]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :ModulePatch] Enabled patch AmandsPlayerPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsNVGPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsApplyNVGPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsHBAOPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsPrismEffectsPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsOpticPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsOpticSightPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsCameraClassPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsmethod_25Patch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsTacticalComboVisualControllerPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsFastBlurPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsMethod_7Patch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsFastBlurHitPatch
+[Warning:  HarmonyX] AmandsBattleUIScreenPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3575, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner) instead of void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3575, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner).
+[Info   :ModulePatch] Enabled patch AmandsBattleUIScreenPatch
+[Info   :ModulePatch] Enabled patch AmandsEffectsControllerPatch
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST]: /singleplayer/release
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/release
+[Info   :RequestHandler] [REQUEST]: /singleplayer/moddedTraders
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/moddedTraders
+[Info   :RequestHandler] [REQUEST]: /singleplayer/enableBSGlogging
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/enableBSGlogging
+[Info   :ModulePatch] Enabled patch TraderScrollingPatch
+[Info   :ModulePatch] Enabled patch PlayerCardPatch
+[Info   :MoreCheckmarks] MoreCheckmarks Started
+[Info   :MoreCheckmarks] Configs loaded
+[Info   :MoreCheckmarks] Assets loaded
+[Info   :MoreCheckmarks] Loading data
+[Info   :MoreCheckmarks] 	Quests
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/quests
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/quests
+[Info   :MoreCheckmarks] 	Items
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/items
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/items
+[Info   :MoreCheckmarks] 	Assorts
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/assorts
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/assorts
+[Info   :MoreCheckmarks] 	Productions
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/productions
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/productions
+[Info   :RequestHandler] [REQUEST]: /singleplayer/bundles
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/bundles
+[Info   :BundleManager] CACHE: Loading locally bcm_mod_3_reversed_tape_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally scope_all_eotech_exps3_tan_textures_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally m16_handguard_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest2_v2_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally wilcox_tactical.bundle
+[Info   :BundleManager] CACHE: Loading locally stock_m14_troy_sass_chassis_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally belt3_black.bundle
+[Info   :BundleManager] CACHE: Loading locally mysterybox_2.bundle
+[Info   :BundleManager] CACHE: Loading locally sight2.bundle
+[Info   :BundleManager] CACHE: Loading locally bope_beret.bundle
+[Info   :BundleManager] CACHE: Loading locally dd_handguard_long.bundle
+[Info   :BundleManager] CACHE: Loading locally bear_beanie.bundle
+[Info   :BundleManager] CACHE: Loading locally reciever_glock_glock_17_std_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally flatgrip1.bundle
+[Info   :BundleManager] CACHE: Loading locally clothes/top_bear_borey_m90.bundle
+[Info   :BundleManager] CACHE: Loading locally pistolgrip_ar15_sig_reduced_angle_pistol_grip_ct_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally ar_moe_stock.bundle
+[Info   :BundleManager] CACHE: Loading locally scope_30mm_sig_tango6t_1_6x24_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally gasmask3.bundle
+[Info   :BundleManager] CACHE: Loading locally bipod_harris.bundle
+[Info   :BundleManager] CACHE: Loading locally backpack_boss_birdeye_m90.bundle
+[Info   :BundleManager] CACHE: Loading locally container_first_aid.bundle
+[Info   :BundleManager] CACHE: Loading locally mp7_silencer_1.bundle
+[Info   :BundleManager] CACHE: Loading locally mysterybox.bundle
+[Info   :BundleManager] CACHE: Loading locally risertwo.bundle
+[Info   :BundleManager] CACHE: Loading locally gas_block_akp_slr_ak_railed_gas_tube_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally pistolgrip_ak_magpul_moe_ak_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally mag_stanag_hk_polymer_mag_556x45_30_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally stock_vepr_molot_vpo-101_std_wood_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally tactical_all_insight_wmx200_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally velo_handguard.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest5.bundle
+[Info   :BundleManager] CACHE: Loading locally backpanel2_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally vertgrip2.bundle
+[Info   :BundleManager] CACHE: Loading locally flashlight3.bundle
+[Info   :BundleManager] CACHE: Loading locally scope_all_eotech_xps3_textures_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally backpanel2.bundle
+[Info   :BundleManager] CACHE: Loading locally dodo338383899.bundle
+[Info   :BundleManager] CACHE: Loading locally devtac.bundle
+[Info   :BundleManager] CACHE: Loading locally dd_magazine_extended.bundle
+[Info   :BundleManager] CACHE: Loading locally flashlight5.bundle
+[Info   :BundleManager] CACHE: Loading locally clothes/tshirt_usec_combatshirt_black.bundle
+[Info   :BundleManager] CACHE: Loading locally flashlight4_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally wrappedsilencer_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally shortbarrel_ar.bundle
+[Info   :BundleManager] CACHE: Loading locally railskin_kac.bundle
+[Info   :BundleManager] CACHE: Loading locally stock_ar15_magpul_moe_sl_k_carbine_ct_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally zipline_ar15_stock.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest1.bundle
+[Info   :BundleManager] CACHE: Loading locally scope_all_eotech_exps3_gloss_nrm_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally reciever_ar15_noveske_gen3_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally trans_mag.bundle
+[Info   :BundleManager] CACHE: Loading locally pistolgrip1.bundle
+[Info   :BundleManager] CACHE: Loading locally tactical_all_wilcox_raptar_es_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally bcm_mod_3_reversed.bundle
+[Info   :BundleManager] CACHE: Loading locally flatgrip2.bundle
+[Info   :BundleManager] CACHE: Loading locally ar_split_handguard.bundle
+[Info   :BundleManager] CACHE: Loading locally ar_adapter_stock.bundle
+[Info   :BundleManager] CACHE: Loading locally clothes/top_usec_hoody.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest4_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally tgc_mlok.bundle
+[Info   :BundleManager] CACHE: Loading locally container_toolbox.bundle
+[Info   :BundleManager] CACHE: Loading locally bastion_dustcover_trans.bundle
+[Info   :BundleManager] CACHE: Loading locally m16_handguard.bundle
+[Info   :BundleManager] CACHE: Loading locally reciever_glock_gspc_viper_slide_cut_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally m16_heatshield_handguard.bundle
+[Info   :BundleManager] CACHE: Loading locally clothes/pants_m90.bundle
+[Info   :BundleManager] CACHE: Loading locally reciever_ar15_vltor_mur-1s_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/item_keycard_labs_spec.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest6.bundle
+[Info   :BundleManager] CACHE: Loading locally backpanel1_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally reciever_ak_texas_weapon_systems_dog_leg_rail_gen_3_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally riserone.bundle
+[Info   :BundleManager] CACHE: Loading locally scope_30mm_razor_hd_gen_2_1_6x24_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally scope_all_eotech_exps3_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally vertgrip2_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally helmet_armor_slaap.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest6_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally dqccqbsilencer.bundle
+[Info   :BundleManager] CACHE: Loading locally clothes/hands_usec_combatshirt_black.bundle
+[Info   :BundleManager] CACHE: Loading locally devtac_new.bundle
+[Info   :BundleManager] CACHE: Loading locally ar_magazine.bundle
+[Info   :BundleManager] CACHE: Loading locally bcm_handguard_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally dd_handguard_long_v2.bundle
+[Info   :BundleManager] CACHE: Loading locally flashlight2.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest1_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally bcm_mod_3_reversed_tape.bundle
+[Info   :BundleManager] CACHE: Loading locally backpanel1.bundle
+[Info   :BundleManager] CACHE: Loading locally barrel_ar15_m16_18in.bundle
+[Info   :BundleManager] CACHE: Loading locally mag_ar10_lancer_l7_awm_762x51_20.bundle
+[Info   :BundleManager] CACHE: Loading locally flashlight4.bundle
+[Info   :BundleManager] CACHE: Loading locally hb_stock.bundle
+[Info   :BundleManager] CACHE: Loading locally belt3.bundle
+[Info   :BundleManager] CACHE: Loading locally handguard_ar15_dd_ris_ii_fsp_9,5_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally tactical_all_holosun_ls321_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally barrel_ar15_m16_20in.bundle
+[Info   :BundleManager] CACHE: Loading locally tgc_silencer.bundle
+[Info   :BundleManager] CACHE: Loading locally helmet_shapeshifter.bundle
+[Info   :BundleManager] CACHE: Loading locally stock_ak_zenit_pt_1_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally usec_hat.bundle
+[Info   :BundleManager] CACHE: Loading locally mp7_magazine_1.bundle
+[Info   :BundleManager] CACHE: Loading locally silencer2.bundle
+[Info   :BundleManager] CACHE: Loading locally dd_magazine.bundle
+[Info   :BundleManager] CACHE: Loading locally ghost_mask.bundle
+[Info   :BundleManager] CACHE: Loading locally m16_stock_2.bundle
+[Info   :BundleManager] CACHE: Loading locally mp7_silencer_1_spec.bundle
+[Info   :BundleManager] CACHE: Loading locally dd_magazine_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally usec_beanie.bundle
+[Info   :BundleManager] CACHE: Loading locally zipline_ar15_pistolgrip.bundle
+[Info   :BundleManager] CACHE: Loading locally mp7_stock_2.bundle
+[Info   :BundleManager] CACHE: Loading locally railskin1.bundle
+[Info   :BundleManager] CACHE: Loading locally patron_6mm_arc.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest4.bundle
+[Info   :BundleManager] CACHE: Loading locally flashlight1.bundle
+[Info   :BundleManager] CACHE: Loading locally reciever_mk47_cmmg_mk47_std_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally handguard_ar15_precision_reflex_carbon_fiber_delta_gen_3_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally container_ammo_pouch.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/item_keycard_lab_mesh
+[Info   :BundleManager] CACHE: Loading locally riser4.bundle
+[Info   :BundleManager] CACHE: Loading locally tactical_all_insight_anpeq15_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally tangoscope.bundle
+[Info   :BundleManager] CACHE: Loading locally ar_handguard.bundle
+[Info   :BundleManager] CACHE: Loading locally reciever_ak_akademia_bastion_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally riserthree.bundle
+[Info   :BundleManager] CACHE: Loading locally magpulsl_tan.bundle
+[Info   :BundleManager] CACHE: Loading locally zipline_ar15_handguard.bundle
+[Info   :BundleManager] CACHE: Loading locally handstop_foregrip_1.bundle
+[Info   :BundleManager] CACHE: Loading locally leather_backpack.bundle
+[Info   :BundleManager] CACHE: Loading locally barrel_m700.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest2_v2_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally ar_charging_handle_1.bundle
+[Info   :BundleManager] CACHE: Loading locally bear_hat.bundle
+[Info   :BundleManager] CACHE: Loading locally belt2.bundle
+[Info   :BundleManager] CACHE: Loading locally combatbelt1_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally scope_all_vortex_razor_amg_uh-1_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally sight1.bundle
+[Info   :BundleManager] CACHE: Loading locally mag_ak74_izhmash_6l23_545x39_30_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest6_tan.bundle
+[Info   :BundleManager] CACHE: Loading locally mos115.bundle
+[Info   :BundleManager] CACHE: Loading locally ultra_shortbarrel_ar.bundle
+[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Project Fika Detected.]
+[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Questing Bots Detected.]
+[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Looting Bots Detected.]
+[Info   :BundleManager] CACHE: Loading locally mag_ar10_lancer_l7_awm_762x51_25.bundle
+[Info   :BundleManager] CACHE: Loading locally nvg_l3_gpnvg-18_anvis_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally zipline_ar15_reciever.bundle
+[Info   :BundleManager] CACHE: Loading locally magpulsl.bundle
+[Info   :BundleManager] CACHE: Loading locally mag_aug_steyr_std_556x45_30_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally handstop_foregrip_1_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally glasses/item_equipment_glasses_npp_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally assaulthelmet_2_od_v2.bundle
+[Info   :BundleManager] CACHE: Loading locally railskin1fde.bundle
+[Info   :BundleManager] CACHE: Loading locally assaulthelmet_2_v2.bundle
+[Info   :BundleManager] CACHE: Loading locally pistolgrip1_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally riser5.bundle
+[Info   :BundleManager] CACHE: Loading locally combatbelt1.bundle
+[Info   :BundleManager] CACHE: Loading locally m16_stock.bundle
+[Info   :BundleManager] CACHE: Loading locally mp7_stock_1.bundle
+[Info   :BundleManager] CACHE: Loading locally scope_all_eotech_exps3_mesh_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally vietnamhelmet2.bundle
+[Info   :BundleManager] CACHE: Loading locally flashlight2_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally dd_magazine_fde_extended.bundle
+[Info   :BundleManager] CACHE: Loading locally bcm_handguard_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally riser6.bundle
+[Info   :BundleManager] CACHE: Loading locally silencer_mount_silencerco_hybrid_46_multi_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally assaulthelmet3.bundle
+[Info   :BundleManager] CACHE: Loading locally gasmask2.bundle
+[Info   :BundleManager] CACHE: Loading locally clothes/hands_bear_borey_m90.skin.bundle
+[Info   :BundleManager] CACHE: Loading locally assaulthelmet_2_blk_v2.bundle
+[Info   :BundleManager] CACHE: Loading locally wrappedsilencer.bundle
+[Info   :BundleManager] CACHE: Loading locally vietnamhelmet.bundle
+[Info   :BundleManager] CACHE: Loading locally assaultvest6_blk_od.bundle
+[Info   :BundleManager] CACHE: Loading locally railskin1od.bundle
+[Info   :BundleManager] CACHE: Loading locally tgc_silencer_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally figurine_batman.bundle
+[Info   :BundleManager] CACHE: Loading locally foregrip_all_bcm_mod_3_new.bundle
+[Info   :BundleManager] CACHE: Loading locally backpack_boss_birdeye_blk.bundle
+[Info   :BundleManager] CACHE: Loading locally ftx_tactical.bundle
+[Info   :BundleManager] CACHE: Loading locally stock_ar15_fab_defense_gl_core_retex.bundle
+[Info   :BundleManager] CACHE: Loading locally wilcox_tactical_blk.bundle
+[Info   :DanW-QuestingBots] Found external mod SAIN (version 4.0.3)
+[Info   :DanW-QuestingBots] Found external mod LootingBots (version 1.5.2)
+[Info   :DanW-QuestingBots] SAIN detected. Adjusting Questing Bots brain layer priorities...
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/version
+[Info   : FikaPatch] Server version: SPT 3.11.3 - 7a9a34
+[Info   : Fika.Core] Waiting for locales to be ready...
+[Info   :DynamicMaps] Trying to attach to MapScreen
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Customs_TarkovDev\Customs_TarkovDev.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Customs (TarkovDev)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Factory_TarkovDev\Factory_TarkovDev.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Factory (TarkovDev)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\GroundZero_TarkovDev\GroundZero_TarkovDev.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Ground Zero (TarkovDev)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Interchange_TarkovDev\Interchange_TarkovDev.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Interchange (TarkovDev)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Labs_TarkovDev\Labs_TarkovDev.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Labs (TarkovDev)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Lighthouse_TarkovData\Lighthouse_TarkovData.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Lighthouse (TarkovData)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Reserve_TarkovData\Reserve_TarkovData.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Reserve (TarkovData)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Shoreline_TarkovData\Shoreline_TarkovData.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Shoreline (TarkovData)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Streets_TarkovData\Streets_TarkovData.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Streets of Tarkov (TarkovData)
+[Info   :DynamicMaps] Trying to load MapDef from path: E:\SPT\BepInEx\plugins\DynamicMaps\Maps\Woods_TarkovData\Woods_TarkovData.jsonc
+[Info   :DynamicMaps] Loaded MapDef with display name: Woods (TarkovData)
+[Info   :DynamicMaps] Precaching sprite: Maps/Customs_TarkovDev/Layers/customs_level_-1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Customs_TarkovDev/Layers/customs_level_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Customs_TarkovDev/Layers/customs_level_1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Customs_TarkovDev/Layers/customs_level_2.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Customs_TarkovDev/Layers/customs_level_3.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Factory_TarkovDev/Layers/factory_layer_-1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Factory_TarkovDev/Layers/factory_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Factory_TarkovDev/Layers/factory_layer_1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Factory_TarkovDev/Layers/factory_layer_2.png
+[Info   :DynamicMaps] Precaching sprite: Maps/GroundZero_TarkovDev/Layers/ground_zero_layer_-1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/GroundZero_TarkovDev/Layers/ground_zero_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/GroundZero_TarkovDev/Layers/ground_zero_layer_1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/GroundZero_TarkovDev/Layers/ground_zero_layer_2.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Interchange_TarkovDev/Layers/interchange_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Interchange_TarkovDev/Layers/interchange_layer_1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Interchange_TarkovDev/Layers/interchange_layer_2.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Labs_TarkovDev/Layers/labs_layer_-1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Labs_TarkovDev/Layers/labs_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Labs_TarkovDev/Layers/labs_layer_1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Lighthouse_TarkovData/Layers/lighthouse_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Reserve_TarkovData/Layers/reserve_layer_-1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Reserve_TarkovData/Layers/reserve_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Shoreline_TarkovData/Layers/shoreline_layer_-1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Shoreline_TarkovData/Layers/shoreline_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Shoreline_TarkovData/Layers/shoreline_layer_1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Shoreline_TarkovData/Layers/shoreline_layer_2.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Streets_TarkovData/Layers/streets_layer_-1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Streets_TarkovData/Layers/streets_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Streets_TarkovData/Layers/streets_layer_1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Streets_TarkovData/Layers/streets_layer_2.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Streets_TarkovData/Layers/streets_layer_3.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Streets_TarkovData/Layers/streets_layer_4.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Woods_TarkovData/Layers/woods_layer_-1.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Woods_TarkovData/Layers/woods_layer_0.png
+[Info   :DynamicMaps] Precaching sprite: Maps/Woods_TarkovData/Layers/woods_layer_1.png
+[Info   :MoreCheckmarks] Loading data
+[Info   :MoreCheckmarks] 	Quests
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/quests
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/quests
+[Info   :MoreCheckmarks] 	Items
+[Info   :MoreCheckmarks] 	Assorts
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/assorts
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/assorts
+[Info   :MoreCheckmarks] 	Productions
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/productions
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/productions
+[Info   :DanW-QuestingBots] Logging path: E:\SPT/BepInEx/plugins/DanW-SPTQuestingBots/log/
+[Info   :DanW-QuestingBots] Found 79 non-EFT quests for bigmap
+[Info   :DanW-QuestingBots] Found 49 non-EFT quests for factory4_day
+[Info   :DanW-QuestingBots] Found 82 non-EFT quests for Interchange
+[Info   :DanW-QuestingBots] Found 60 non-EFT quests for laboratory
+[Info   :DanW-QuestingBots] Found 76 non-EFT quests for Lighthouse
+[Info   :DanW-QuestingBots] Found 57 non-EFT quests for RezervBase
+[Info   :DanW-QuestingBots] Found 40 non-EFT quests for Sandbox
+[Info   :DanW-QuestingBots] Found 40 non-EFT quests for Sandbox_high
+[Info   :DanW-QuestingBots] Found 50 non-EFT quests for Shoreline
+[Info   :DanW-QuestingBots] Found 109 non-EFT quests for TarkovStreets
+[Info   :DanW-QuestingBots] Found 38 non-EFT quests for Woods
+[Info   :DanW-QuestingBots] Validated all quest files
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   : Fika.Core] Locales are ready!
+[Info   : Fika.Core] Cached local IPs: 0.0.0.0, 26.0.42.191, 192.168.123.2
+[Info   :LootingBots] Initializing item appraiser
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :MoreCheckmarks] Quest Проба пера queststatus set to Success
+[Info   :MoreCheckmarks] Quest Проверка на вшивость queststatus set to Success
+[Info   :MoreCheckmarks] Quest Пикник со стрельбой queststatus set to Success
+[Info   :MoreCheckmarks] Quest Посылка из прошлого queststatus set to Success
+[Info   :MoreCheckmarks] Quest Компромат queststatus set to Started
+[Info   :MoreCheckmarks] Quest Дефицит queststatus set to Success
+[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Пейнкиллер queststatus set to Success
+[Info   :MoreCheckmarks] Quest Провизор queststatus set to Success
+[Info   :MoreCheckmarks] Quest Планы снабжения queststatus set to Started
+[Info   :MoreCheckmarks] Quest Своего рода саботаж queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сельпо queststatus set to Started
+[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Авторем queststatus set to Started
+[Info   :MoreCheckmarks] Quest Снабженец queststatus set to Success
+[Info   :MoreCheckmarks] Quest Вымогатель queststatus set to Success
+[Info   :MoreCheckmarks] Quest Движуха queststatus set to Success
+[Info   :MoreCheckmarks] Quest Что на флешке? queststatus set to Success
+[Info   :MoreCheckmarks] Quest Золотые понты queststatus set to Success
+[Info   :MoreCheckmarks] Quest Бомж с Полихима queststatus set to Started
+[Info   :MoreCheckmarks] Quest Реагент. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Нефтянка queststatus set to Success
+[Info   :MoreCheckmarks] Quest Рыболовные снасти queststatus set to Started
+[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Врачебная тайна. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 7 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сигнал. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 6 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 8 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Только бизнес queststatus set to Success
+[Info   :MoreCheckmarks] Quest Вернем Ультре былое величие queststatus set to Started
+[Info   :MoreCheckmarks] Quest Распродажа queststatus set to Started
+[Info   :MoreCheckmarks] Quest Ленд-лиз. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 4 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Гренадёр queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подстава queststatus set to Started
+[Info   :MoreCheckmarks] Quest Поручение queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Беззащитен, но опасен queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Запасливый queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Живчик queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Раненый зверь queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Крепыш queststatus set to Started
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Хладнокровный queststatus set to Started
+[Info   :MoreCheckmarks] Quest Скорая помощь queststatus set to Started
+[Info   :MoreCheckmarks] Quest Мутное дело queststatus set to Success
+[Info   :MoreCheckmarks] Quest Бункер. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Поисковая миссия queststatus set to Success
+[Info   :MoreCheckmarks] Quest Медицинский журнал queststatus set to Started
+[Info   :MoreCheckmarks] Quest Отдых у моря queststatus set to Started
+[Info   :MoreCheckmarks] Quest Долгая дорога queststatus set to Started
+[Info   :MoreCheckmarks] Quest Аудит queststatus set to Started
+[Info   :MoreCheckmarks] Quest Перепись населения queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Продразведка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Первый в очереди queststatus set to Success
+[Info   :MoreCheckmarks] Quest Стрельба по баночкам queststatus set to Success
+[Info   :MoreCheckmarks] Quest Роскошная жизнь queststatus set to Success
+[Info   :MoreCheckmarks] Quest По коням queststatus set to Success
+[Info   :MoreCheckmarks] Quest Спасение крота queststatus set to Success
+[Info   :MoreCheckmarks] Quest Легкие деньги. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Ад на земле. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Как в старые добрые. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Тарков не прощает ошибок queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый охотник знает, где сидит фазан queststatus set to Started
+[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 2 queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Закрыть небо queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Рука помощи queststatus set to Started
+[Info   :MoreCheckmarks] Quest Умный в гору не пойдёт queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инициация queststatus set to Started
+[Info   :MoreCheckmarks] Quest Белка и Стрелка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. По старой дружбе queststatus set to Success
+[Info   :MoreCheckmarks] Quest Заклеено queststatus set to Success
+[Info   :MoreCheckmarks] Quest Топографика queststatus set to Success
+[Info   :MoreCheckmarks] Quest Копни Глубже queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сопротивление бесполезно queststatus set to Started
+[Info   :MoreCheckmarks] Quest Elusive Criminal queststatus set to Started
+[Info   :MoreCheckmarks] Quest A Friend in Need queststatus set to Success
+[Info   :MoreCheckmarks] Quest Introductions queststatus set to Success
+[Info   :MoreCheckmarks] Quest Hooligan Hunt queststatus set to Started
+[Info   :MoreCheckmarks] Quest Kill In Style queststatus set to Started
+[Info   :MoreCheckmarks] Quest Новые знакомства queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сгоняем в ULTRA queststatus set to Started
+[Info   :MoreCheckmarks] Quest Заправщик - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Заправщик - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Товары для дома queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сбор боеприпасов queststatus set to Success
+[Info   :MoreCheckmarks] Quest Полевая хирургия queststatus set to Success
+[Info   :MoreCheckmarks] Quest Домашний склад queststatus set to Started
+[Info   :MoreCheckmarks] Quest Готов к бою queststatus set to Success
+[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Агент ВС РФ - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Перевозчик - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Наркотики - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Наркотики - Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Мат — Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 4 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Пропавшие наёмники queststatus set to Success
+[Info   :MoreCheckmarks] Quest На шаг ближе queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Ближний бой - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Знать, как противостоять — Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Проявить себя queststatus set to Success
+[Info   :MoreCheckmarks] Quest Маршрут queststatus set to Success
+[Info   :MoreCheckmarks] Quest Зачистка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Таинственный звонок queststatus set to Success
+[Info   :MoreCheckmarks] Quest Таинственный звонок, часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Злость queststatus set to Started
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар queststatus set to Success
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Думаешь, ты хорошо владеешь оружием? queststatus set to Success
+[Info   :MoreCheckmarks] Quest Боевые навыки - штурмовые винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты-пулемёты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - снайперские винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - марксманские винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - дробовики queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - ручные пулемёты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - карабины queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - ближний бой queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - взрывчатка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Устранение queststatus set to Started
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Success
+[Warning:DanW-QuestingBots] Using nVidia Reflex may result in long raid loading times
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :ModulePatch] Enabled patch AmandsPainkillerAddEffectPatch
+[Info   :ModulePatch] Enabled patch AmandsPainkillerDeleteEffectPatch
+[Info   :ModulePatch] Enabled patch AmandsPainTogglePatch
+[Info   :DanW-QuestingBots] The game start is not being delayed
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to AvailableForFinish
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
+[Info   :RequestHandler] [REQUEST]: /uifixes/assortUnlocks
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /uifixes/assortUnlocks
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/raid/menu
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/raid/menu
+[Info   :NetManagerUtils] FikaGameObject has been created!
+[Info   :NetManagerUtils] FikaServer has started!
+[Info   :Fika.Server] Starting server with SendRate: 20
+[Info   :NetManagerUtils] Creating CoopHandler...
+[Info   :Fika.Server] Started Fika Server
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/getRaidTime
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/getRaidTime
+[Info   :BossNotifier] Boss Glukhar @ zone BotZoneFloor2 translated to Floor 2
+[Info   :  CoopGame] Location: Laboratory
+[Info   :MoreCheckmarks] Quest Проба пера queststatus set to Success
+[Info   :MoreCheckmarks] Quest Проверка на вшивость queststatus set to Success
+[Info   :MoreCheckmarks] Quest Пикник со стрельбой queststatus set to Success
+[Info   :MoreCheckmarks] Quest Посылка из прошлого queststatus set to Success
+[Info   :MoreCheckmarks] Quest Компромат queststatus set to Started
+[Info   :MoreCheckmarks] Quest Дефицит queststatus set to Success
+[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Пейнкиллер queststatus set to Success
+[Info   :MoreCheckmarks] Quest Провизор queststatus set to Success
+[Info   :MoreCheckmarks] Quest Планы снабжения queststatus set to Started
+[Info   :MoreCheckmarks] Quest Своего рода саботаж queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сельпо queststatus set to Started
+[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Авторем queststatus set to Started
+[Info   :MoreCheckmarks] Quest Снабженец queststatus set to Success
+[Info   :MoreCheckmarks] Quest Вымогатель queststatus set to Success
+[Info   :MoreCheckmarks] Quest Движуха queststatus set to Success
+[Info   :MoreCheckmarks] Quest Что на флешке? queststatus set to Success
+[Info   :MoreCheckmarks] Quest Золотые понты queststatus set to Success
+[Info   :MoreCheckmarks] Quest Бомж с Полихима queststatus set to Started
+[Info   :MoreCheckmarks] Quest Реагент. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Нефтянка queststatus set to Success
+[Info   :MoreCheckmarks] Quest Рыболовные снасти queststatus set to Started
+[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Врачебная тайна. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 7 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сигнал. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 6 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 8 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Только бизнес queststatus set to Success
+[Info   :MoreCheckmarks] Quest Вернем Ультре былое величие queststatus set to Started
+[Info   :MoreCheckmarks] Quest Распродажа queststatus set to Started
+[Info   :MoreCheckmarks] Quest Ленд-лиз. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 4 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Гренадёр queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подстава queststatus set to Started
+[Info   :MoreCheckmarks] Quest Поручение queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Беззащитен, но опасен queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Запасливый queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Живчик queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Раненый зверь queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Крепыш queststatus set to Started
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Хладнокровный queststatus set to Started
+[Info   :MoreCheckmarks] Quest Скорая помощь queststatus set to Started
+[Info   :MoreCheckmarks] Quest Мутное дело queststatus set to Success
+[Info   :MoreCheckmarks] Quest Бункер. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Поисковая миссия queststatus set to Success
+[Info   :MoreCheckmarks] Quest Медицинский журнал queststatus set to Started
+[Info   :MoreCheckmarks] Quest Отдых у моря queststatus set to Started
+[Info   :MoreCheckmarks] Quest Долгая дорога queststatus set to Started
+[Info   :MoreCheckmarks] Quest Аудит queststatus set to Started
+[Info   :MoreCheckmarks] Quest Перепись населения queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Продразведка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Первый в очереди queststatus set to Success
+[Info   :MoreCheckmarks] Quest Стрельба по баночкам queststatus set to Success
+[Info   :MoreCheckmarks] Quest Роскошная жизнь queststatus set to Success
+[Info   :MoreCheckmarks] Quest По коням queststatus set to Success
+[Info   :MoreCheckmarks] Quest Спасение крота queststatus set to Success
+[Info   :MoreCheckmarks] Quest Легкие деньги. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Ад на земле. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Как в старые добрые. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Тарков не прощает ошибок queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый охотник знает, где сидит фазан queststatus set to Started
+[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 2 queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Закрыть небо queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Рука помощи queststatus set to Started
+[Info   :MoreCheckmarks] Quest Умный в гору не пойдёт queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инициация queststatus set to Started
+[Info   :MoreCheckmarks] Quest Белка и Стрелка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. По старой дружбе queststatus set to Success
+[Info   :MoreCheckmarks] Quest Заклеено queststatus set to Success
+[Info   :MoreCheckmarks] Quest Топографика queststatus set to Success
+[Info   :MoreCheckmarks] Quest Копни Глубже queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сопротивление бесполезно queststatus set to Started
+[Info   :MoreCheckmarks] Quest Elusive Criminal queststatus set to Started
+[Info   :MoreCheckmarks] Quest A Friend in Need queststatus set to Success
+[Info   :MoreCheckmarks] Quest Introductions queststatus set to Success
+[Info   :MoreCheckmarks] Quest Hooligan Hunt queststatus set to Started
+[Info   :MoreCheckmarks] Quest Kill In Style queststatus set to Started
+[Info   :MoreCheckmarks] Quest Новые знакомства queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сгоняем в ULTRA queststatus set to Started
+[Info   :MoreCheckmarks] Quest Заправщик - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Заправщик - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Товары для дома queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сбор боеприпасов queststatus set to Success
+[Info   :MoreCheckmarks] Quest Полевая хирургия queststatus set to Success
+[Info   :MoreCheckmarks] Quest Домашний склад queststatus set to Started
+[Info   :MoreCheckmarks] Quest Готов к бою queststatus set to Success
+[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Агент ВС РФ - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Перевозчик - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Наркотики - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Наркотики - Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Мат — Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 4 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Пропавшие наёмники queststatus set to Success
+[Info   :MoreCheckmarks] Quest На шаг ближе queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Ближний бой - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Знать, как противостоять — Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Проявить себя queststatus set to Success
+[Info   :MoreCheckmarks] Quest Маршрут queststatus set to Success
+[Info   :MoreCheckmarks] Quest Зачистка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Таинственный звонок queststatus set to Success
+[Info   :MoreCheckmarks] Quest Таинственный звонок, часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Злость queststatus set to Started
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар queststatus set to Success
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Думаешь, ты хорошо владеешь оружием? queststatus set to Success
+[Info   :MoreCheckmarks] Quest Боевые навыки - штурмовые винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты-пулемёты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - снайперские винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - марксманские винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - дробовики queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - ручные пулемёты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - карабины queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - ближний бой queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - взрывчатка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
+[Info   :MoreCheckmarks] Quest Устранение queststatus set to Started
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Success
+[Info   :NetManagerUtils] Setting up game variables...
+[Info   :  CoopGame] Adding debug component...
+[Info   :  CoopGame] Local player created
+[Info   :  CoopGame] Starting task to wait for host to start the raid.
+[Info   :  CoopGame] Location is 'Laboratory', skipping weather generation
+[Info   :  CoopGame] Setting Season to: Summer
+[Info   : Fika.Core] Retrieving Core settings
+[Warning:ModulePatch] __instance.BotHalloweenEvent._spawner is null skip Activate
+[Info   :ModulePatch] __instance.BotHalloweenEvent._spawner is not null run Activate
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/laboratory
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/maxCap/laboratory
+[Info   :ModulePatch] Set max bot cap for: laboratory from: 36 to: 19
+[Info   :RequestHandler] [REQUEST]: /QuestingBots/GetZoneAndItemQuestPositions
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /QuestingBots/GetZoneAndItemQuestPositions
+[Info   :DanW-QuestingBots] Found override settings for 14 zone or item position(s)
+[Info   :RequestHandler] [REQUEST]: /QuestingBots/GetAllQuestTemplates
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /QuestingBots/GetAllQuestTemplates
+[Info   :RequestHandler] [REQUEST]: /QuestingBots/GetEFTQuestSettings
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /QuestingBots/GetEFTQuestSettings
+[Info   :DanW-QuestingBots] Applying override settings for quest Бункер. Часть 1...
+[Info   :DanW-QuestingBots] Applying override settings for quest Секретные разработки...
+[Info   :DanW-QuestingBots] Applying override settings for quest Документы...
+[Info   :DanW-QuestingBots] Applying override settings for quest Чёрный выход...
+[Warning:DanW-QuestingBots] Waiting for LoadQuest until next frame... (Cycle times: 6, Total time: 7)
+[Info   :DanW-QuestingBots] 7 initial PMC groups will be generated (Min: 7, Max: 9)
+[Info   :DanW-QuestingBots] Max PMC's on the map (laboratory) at the same time: 9
+[Info   :DanW-QuestingBots] Generating 7 PMCs...
+[Info   :RequestHandler] [REQUEST]: /QuestingBots/GetUSECChance
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /QuestingBots/GetUSECChance
+[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Delaying the game start until bot generation finishes...
+[Warning: DynamicAI] QuestingBots detected, destroying DynamicAI component. Use QuestingBots AI limiter instead!
+[Info   :  CoopGame] All players are loaded, continuing...
+[Warning: Fika.Core] FreeCameraController::Awake: Failed to cache BattleUI
+[Info   :  CoopGame] MatchingType: GroupLeader, Raid Code: 68GPHE
+[Warning:DanW-QuestingBots] Waiting for LoadQuest until next frame...done. (Cycle times: 6, 6, 6, 15, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 3, Total time: 5596)
+[Info   :DanW-QuestingBots] Searching for EFT quest locations...
+[Warning:DanW-QuestingBots] Waiting for ProcessTrigger until next frame... (Cycle times: 12, Total time: 12)
+[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 1)...done. (numberdjester)
+[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 2)...
+[Warning:DanW-QuestingBots] Waiting for ProcessTrigger until next frame...done. (Cycle times: 12, 6, 6, 3, Total time: 120)
+[Warning:DanW-QuestingBots] Waiting for LocateQuestItems until next frame... (Cycle times: 6, Total time: 6)
+[Warning:DanW-QuestingBots] Waiting for LocateQuestItems until next frame...done. (Cycle times: 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 0, Total time: 500)
+[Info   :DanW-QuestingBots] Searching for EFT quest locations...done.
+[Info   :DanW-QuestingBots] Adding quest for hunting boss pmcBot...
+[Info   :DanW-QuestingBots] Adding quest for hunting boss bossGluhar...
+[Info   :DanW-QuestingBots] Loading custom quests...
+[Info   :DanW-QuestingBots] Loading custom quests...found 60 custom quests.
+[Info   :DanW-QuestingBots] Finished loading quest data.
+[Info   :DanW-QuestingBots] Finding static paths...
+[Info   :DanW-QuestingBots] Finding static paths...done.
+[Info   :  CoopGame] Setting Season to: Summer
+[Info   :DanW-QuestingBots] Waiting for 1 bot generators...
+[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 2)...done. (Baliston, Ninjaweb)
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 2)...
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 2)...done. (DewardianDev, TinglePlayerParkov)
+[Info   :DanW-QuestingBots] Generating easy PMC group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating easy PMC group (Number of bots: 1)...done. (Boogle)
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...done. (Styrr)
+[Info   :DanW-QuestingBots] Generating 7 PMCs...done.
+[Info   :DanW-QuestingBots] All bot generators have finished.
+[Error  :  CoopGame] SyncTransitControllers: TransitController was null!
+[Info   :DynamicMaps] Trying to attach peek component to BattleUI
+[Info   :  CoopGame] [SERVER] SpawnPoint: 1d3d7178-c84f-47b2-9ea6-4cd11449dbfa, InfiltrationPoint: Common
+[Info   :BossNotifier] Game started on map laboratory
+[Info   :RequestHandler] [REQUEST]: /vcql/zones/get
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /vcql/zones/get
+[Info   :DanW-QuestingBots] Spawning missed boss waves...
+[Info   :DanW-QuestingBots] Spawning boss wave 1/0 for bot type bossGluhar with 3 total bots...
+[Info   :DanW-QuestingBots] Spawned all missed boss waves
+[Info   :BossNotifier] Glukhar has been located near Floor 2
+[Info   :DanW-QuestingBots] Trying to spawn 5 PMC group(s)...
+[Info   :DanW-QuestingBots] Spawning PMC group at (-269.90, -2.06, -392.32)...
+[Info   :DanW-QuestingBots] Spawned bot numberdjester (Name: Bot1, Level: 41)
+[Info   :DanW-QuestingBots] Spawning PMC group at (-253.24, 4.14, -279.92), (-253.22, 4.14, -282.73)...
+[Info   :DanW-QuestingBots] Spawned bot Baliston (Name: Bot2, Level: 47)
+[Info   :DanW-QuestingBots] Spawned bot Ninjaweb (Name: Bot3, Level: 41)
+[Info   :DanW-QuestingBots] Spawning PMC group at (-166.67, 0.06, -416.11), (-168.21, 0.06, -417.04)...
+[Info   :DanW-QuestingBots] Spawned bot DewardianDev (Name: Bot4, Level: 49)
+[Info   :DanW-QuestingBots] Spawned bot TinglePlayerParkov (Name: Bot5, Level: 33)
+[Info   :DanW-QuestingBots] Spawning PMC group at (-118.55, 0.01, -252.22)...
+[Info   :DanW-QuestingBots] Spawned bot Boogle (Name: Bot6, Level: 12)
+[Info   :DanW-QuestingBots] Spawning PMC group at (-170.74, -3.99, -344.55)...
+[Info   :DanW-QuestingBots] Spawned bot Styrr (Name: Bot7, Level: 53)
+[Info   :DanW-QuestingBots] Trying to spawn 5 PMC group(s)...done.
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/getBotBehaviours/
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/getBotBehaviours/
+[Warning:ModulePatch] Cached ai brain weights in client
+[Warning:ModulePatch] Updated spt bot numberdjester: pmcUSEC to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot numberdjester (Name: Bot1, Level: 41): pmcUSEC
+[Info   :DanW-QuestingBots] Spawned bot #1: numberdjester (Name: Bot1, Level: 41) (Usec)
+[Info   :DanW-QuestingBots] Setting objective for numberdjester (Name: Bot1, Level: 41) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot numberdjester (Name: Bot1, Level: 41) is now doing Step #1 for objective Spawn Point (-213.12, 0.05, -378.76) in quest Boss Hunter (bossGluhar)
+[Warning:ModulePatch] Updated spt bot Ninjaweb: pmcUSEC to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Ninjaweb (Name: Bot3, Level: 41): pmcUSEC
+[Info   :DanW-QuestingBots] Spawned bot #2: Ninjaweb (Name: Bot3, Level: 41) (Usec)
+[Info   :DanW-QuestingBots] Setting objective for Ninjaweb (Name: Bot3, Level: 41) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot Ninjaweb (Name: Bot3, Level: 41) is now doing Step #1 for objective Spawn Point (-199.41, 4.13, -296.50) in quest Boss Hunter (bossGluhar)
+[Warning:ModulePatch] Updated spt bot Baliston: pmcUSEC to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Baliston (Name: Bot2, Level: 47): pmcUSEC
+[Info   :DanW-QuestingBots] Spawned bot #3: Baliston (Name: Bot2, Level: 47) (Usec)
+[Warning:ModulePatch] Updated spt bot TinglePlayerParkov: pmcBEAR to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot TinglePlayerParkov (Name: Bot5, Level: 33): pmcBEAR
+[Info   :DanW-QuestingBots] Spawned bot #4: TinglePlayerParkov (Name: Bot5, Level: 33) (Bear)
+[Info   :DanW-QuestingBots] Bot Ninjaweb (Name: Bot3, Level: 41) is now a follower for Baliston (Name: Bot2, Level: 47)
+[Info   :DanW-QuestingBots] Setting objective for Baliston (Name: Bot2, Level: 47) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot Baliston (Name: Bot2, Level: 47) is now doing Step #1 for objective Red Room: Objective #1 in quest Red Room
+[Warning:ModulePatch] Updated spt bot Boogle: pmcBEAR to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Boogle (Name: Bot6, Level: 12): pmcBEAR
+[Info   :DanW-QuestingBots] Spawned bot #5: Boogle (Name: Bot6, Level: 12) (Bear)
+[Info   :DanW-QuestingBots] Setting objective for TinglePlayerParkov (Name: Bot5, Level: 33) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) is now doing Step #1 for objective Spawn Point (-127.77, 4.20, -382.27) in quest Boss Hunter (pmcBot)
+[Warning:ModulePatch] Updated spt bot Styrr: pmcBEAR to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Styrr (Name: Bot7, Level: 53): pmcBEAR
+[Info   :DanW-QuestingBots] Spawned bot #6: Styrr (Name: Bot7, Level: 53) (Bear)
+[Info   :DanW-QuestingBots] Setting objective for Boogle (Name: Bot6, Level: 12) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot Boogle (Name: Bot6, Level: 12) is now doing Step #1 for objective Spawn Rush: Objective #1 in quest Spawn Rush
+[Warning:ModulePatch] Updated spt bot DewardianDev: pmcBEAR to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot DewardianDev (Name: Bot4, Level: 49): pmcBEAR
+[Info   :DanW-QuestingBots] Spawned bot #7: DewardianDev (Name: Bot4, Level: 49) (Bear)
+[Info   :DanW-QuestingBots] Setting objective for Styrr (Name: Bot7, Level: 53) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot Styrr (Name: Bot7, Level: 53) is now doing Step #1 for objective Main Working Area West: Objective #5 in quest Main Working Area West
+[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) is now a follower for DewardianDev (Name: Bot4, Level: 49)
+[Info   :DanW-QuestingBots] Setting objective for DewardianDev (Name: Bot4, Level: 49) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot DewardianDev (Name: Bot4, Level: 49) is now doing Step #1 for objective Blue Room Entry: Objective #1 in quest Blue Room Entry
+[Info   :DanW-QuestingBots] Bot Baliston (Name: Bot2, Level: 47) cannot find a complete path to its objective (Step #1 for objective Red Room: Objective #1 in quest Red Room). Trying anyway. Distance from end of path to objective: 3.870729
+[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) is no longer doing Step #1 for objective Spawn Point (-127.77, 4.20, -382.27) in quest Boss Hunter (pmcBot)
+[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) is no longer doing Step #1 for objective Spawn Point (-127.77, 4.20, -382.27) in quest Boss Hunter (pmcBot)
+[Info   :DynamicMaps] MapScreen: Loading map Labs (TarkovDev)
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 4 AS COLOR 00FFFF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 4 AS COLOR 00FFFF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :DanW-QuestingBots] Spawning boss wave 2/0 for bot type pmcBot with 2 total bots...
+[Error  :LootingBots] ([pmcUSEC] Bot2) Has been stuck trying to reach: Медсумка СМУ06. Ignoring
+[Info   :BossNotifier] Glukhar has spawned at -199, 4, -296 on laboratory
+[Info   :RequestHandler] [REQUEST]: /singleplayer/scav/traitorscavhostile
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/scav/traitorscavhostile
+[Info   :BossNotifier] Glukhar has been located near Floor 2 ✓
+[Info   :DanW-QuestingBots] Initial spawn type for bot Глухарь (Name: Bot8, Level: 1): bossGluhar
+[Info   :DanW-QuestingBots] Spawned bot #8: Глухарь (Name: Bot8, Level: 1) (Savage)
+[Warning:DanW-QuestingBots] numberdjester (Name: Bot1, Level: 41) is stuck. Trying to jump...
+[Info   :DanW-QuestingBots] Bot numberdjester (Name: Bot1, Level: 41) cannot find a complete path to its objective (Step #1 for objective Spawn Point (-213.12, 0.05, -378.76) in quest Boss Hunter (bossGluhar)). Trying anyway. Distance from end of path to objective: 0.02300243
+[Info   :DanW-QuestingBots] Bot Styrr (Name: Bot7, Level: 53) has completed Step #1 for objective Main Working Area West: Objective #5 in quest Main Working Area West
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck. Trying to jump...
+[Info   :DanW-QuestingBots] Bot Styrr (Name: Bot7, Level: 53) is now doing Step #1 for objective Main Working Area West: Objective #4 in quest Main Working Area West
+[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
+[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
+[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
+[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
+[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
+[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck. Trying to vault...
+[Warning:DanW-QuestingBots] numberdjester (Name: Bot1, Level: 41) is stuck. Trying to vault...
+[Warning:DanW-QuestingBots] Ninjaweb (Name: Bot3, Level: 41) is stuck. Trying to jump...
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Warning:DanW-QuestingBots] numberdjester (Name: Bot1, Level: 41) is stuck. Trying to jump...
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Warning:DanW-QuestingBots] numberdjester (Name: Bot1, Level: 41) is stuck. Trying to vault...
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :DanW-QuestingBots] Initial spawn type for bot Орел (Name: Bot9, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #9: Орел (Name: Bot9, Level: 1) (Savage)
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 2 AS COLOR 0000FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 2 AS COLOR 0000FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
+[Info   :DanW-QuestingBots] Spawning boss wave 3/0 for bot type pmcBot with 3 total bots...
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :DanW-QuestingBots] Styrr (Name: Bot7, Level: 53) (PMC) was killed by Глухарь (Name: Bot8, Level: 1) (Scav). Initial PMC's remaining: 6
+[Info   :DanW-QuestingBots] Bot Styrr (Name: Bot7, Level: 53) has failed Step #1 for objective Main Working Area West: Objective #4 in quest Main Working Area West
+[Warning: DynamicAI] Could not remove Bot7 from bots list.
+[Info   :DanW-QuestingBots] Initial spawn type for bot Утюг (Name: Bot11, Level: 1): followerGluharAssault
+[Info   :DanW-QuestingBots] Spawned bot #10: Утюг (Name: Bot11, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Initial spawn type for bot Кадровик (Name: Bot10, Level: 1): followerGluharAssault
+[Info   :DanW-QuestingBots] Spawned bot #11: Кадровик (Name: Bot10, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Утюг (Name: Bot11, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
+[Info   :DanW-QuestingBots] Bot Кадровик (Name: Bot10, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
+[Info   :DanW-QuestingBots] Initial spawn type for bot Вепрь (Name: Bot12, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #12: Вепрь (Name: Bot12, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Вепрь (Name: Bot12, Level: 1) is now a follower for Орел (Name: Bot9, Level: 1)
+[Info   :DanW-QuestingBots] Switch Use has changed from Shut to Interacting. Interacting Player: Gent
+[Info   :DanW-QuestingBots] Switch Use has changed from Interacting to Open. Interacting Player: Gent
+[Info   :DanW-QuestingBots] Initial spawn type for bot Барс (Name: Bot13, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #13: Барс (Name: Bot13, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Switch Use has changed from Open to Shut. Interacting Player: Gent
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :DanW-QuestingBots] Boogle (Name: Bot6, Level: 12) (PMC) was killed by Кадровик (Name: Bot10, Level: 1) (Scav). Initial PMC's remaining: 5
+[Info   :DanW-QuestingBots] Bot Boogle (Name: Bot6, Level: 12) has failed Step #1 for objective Spawn Rush: Objective #1 in quest Spawn Rush
+[Warning: DynamicAI] Could not remove Bot6 from bots list.
+[Info   :DanW-QuestingBots] Initial spawn type for bot Грустный (Name: Bot14, Level: 1): followerGluharSecurity
+[Info   :DanW-QuestingBots] Spawned bot #14: Грустный (Name: Bot14, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Initial spawn type for bot Белый (Name: Bot15, Level: 1): followerGluharSecurity
+[Info   :DanW-QuestingBots] Spawned bot #15: Белый (Name: Bot15, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Грустный (Name: Bot14, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
+[Info   :DanW-QuestingBots] Bot Белый (Name: Bot15, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
+[Info   :DanW-QuestingBots] Вепрь (Name: Bot12, Level: 1) (Scav) was killed by Ninjaweb (Name: Bot3, Level: 41) (PMC). Initial PMC's remaining: 5
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :DanW-QuestingBots] Initial spawn type for bot Могильник (Name: Bot17, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #16: Могильник (Name: Bot17, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Initial spawn type for bot Акула (Name: Bot16, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #17: Акула (Name: Bot16, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Могильник (Name: Bot17, Level: 1) is now a follower for Барс (Name: Bot13, Level: 1)
+[Info   :DanW-QuestingBots] Bot Акула (Name: Bot16, Level: 1) is now a follower for Барс (Name: Bot13, Level: 1)
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :DanW-QuestingBots] Initial spawn type for bot Кочерга (Name: Bot19, Level: 1): followerGluharScout
+[Info   :DanW-QuestingBots] Spawned bot #18: Кочерга (Name: Bot19, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Кочерга (Name: Bot19, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 4 AS COLOR 00FFFF
+[Info   :DanW-QuestingBots] Initial spawn type for bot Витёк (Name: Bot18, Level: 1): followerGluharScout
+[Info   :DanW-QuestingBots] Spawned bot #19: Витёк (Name: Bot18, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Витёк (Name: Bot18, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
+[Info   :DanW-QuestingBots] Ninjaweb (Name: Bot3, Level: 41) (PMC) was killed by Белый (Name: Bot15, Level: 1) (Scav). Initial PMC's remaining: 4
+[Info   :DanW-QuestingBots] Bot Ninjaweb (Name: Bot3, Level: 41) has failed Step #1 for objective Spawn Point (-199.41, 4.13, -296.50) in quest Boss Hunter (bossGluhar)
+[Warning: DynamicAI] Could not remove Bot3 from bots list.
+[Info   :DanW-QuestingBots] TinglePlayerParkov (Name: Bot5, Level: 33) (PMC) was killed by TinglePlayerParkov (Name: Bot5, Level: 33) (PMC). Initial PMC's remaining: 3
+[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) has failed Step #1 for objective Spawn Point (-127.77, 4.20, -382.27) in quest Boss Hunter (pmcBot)
+[Warning: DynamicAI] Could not remove Bot5 from bots list.
+[Info   :DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) (PMC) was killed by Утюг (Name: Bot11, Level: 1) (Scav). Initial PMC's remaining: 2
+[Info   :DanW-QuestingBots] Bot Baliston (Name: Bot2, Level: 47) has failed Step #1 for objective Red Room: Objective #1 in quest Red Room
+[Warning: DynamicAI] Could not remove Bot2 from bots list.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: MRE. Ignoring
+[Error  :LootingBots] ([pmcBot] Bot16) Has been stuck trying to reach: GP. Ignoring
+[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: Водка. Ignoring
+[Info   :DanW-QuestingBots] DewardianDev (Name: Bot4, Level: 49) (PMC) was killed by Утюг (Name: Bot11, Level: 1) (Scav). Initial PMC's remaining: 1
+[Info   :DanW-QuestingBots] Bot DewardianDev (Name: Bot4, Level: 49) has failed Step #1 for objective Blue Room Entry: Objective #1 in quest Blue Room Entry
+[Warning: DynamicAI] Could not remove Bot4 from bots list.
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: Искра. Ignoring
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
+[Info   :DanW-QuestingBots] Глухарь (Name: Bot8, Level: 1) (Scav) was killed by Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC). Initial PMC's remaining: 1
+[Warning:DanW-QuestingBots] Could not find a new boss to replace Глухарь (Name: Bot8, Level: 1)
+[Info   :DanW-QuestingBots] Грустный (Name: Bot14, Level: 1) (Scav) was killed by Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC). Initial PMC's remaining: 1
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :DanW-QuestingBots] Spawning boss wave 4/0 for bot type pmcBot with 3 total bots...
+[Info   :DanW-QuestingBots] Белый (Name: Bot15, Level: 1) (Scav) was killed by Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC). Initial PMC's remaining: 1
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :DanW-QuestingBots] Кочерга (Name: Bot19, Level: 1) (Scav) was killed by Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC). Initial PMC's remaining: 1
+[Info   :DanW-QuestingBots] Initial spawn type for bot Росомаха (Name: Bot20, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #20: Росомаха (Name: Bot20, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Initial spawn type for bot Пума (Name: Bot21, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #21: Пума (Name: Bot21, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Пума (Name: Bot21, Level: 1) is now a follower for Росомаха (Name: Bot20, Level: 1)
+[Info   :DanW-QuestingBots] Initial spawn type for bot Гепард (Name: Bot22, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #22: Гепард (Name: Bot22, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Гепард (Name: Bot22, Level: 1) is now a follower for Росомаха (Name: Bot20, Level: 1)
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :DanW-QuestingBots] Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC) was killed by Витёк (Name: Bot18, Level: 1) (Scav). Initial PMC's remaining: 1
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Error  :LootingBots] ([pmcBot] Bot22) Has been stuck trying to reach: Пропан. Ignoring
+[Info   :DanW-QuestingBots] Spawning boss wave 5/0 for bot type pmcBot with 2 total bots...
+[Info   :DanW-QuestingBots] Initial spawn type for bot Кондор (Name: Bot23, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #23: Кондор (Name: Bot23, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Initial spawn type for bot Кобра (Name: Bot24, Level: 1): pmcBot
+[Info   :DanW-QuestingBots] Spawned bot #24: Кобра (Name: Bot24, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Кобра (Name: Bot24, Level: 1) is now a follower for Кондор (Name: Bot23, Level: 1)
+[Error  :LootingBots] ([pmcBot] Bot22) Has been stuck trying to reach: AHF1-M. Ignoring
+[Error  :LootingBots] ([pmcBot] Bot22) Has been stuck trying to reach: Плакат. Ignoring
+[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: СП-5. Ignoring
+[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: СП8. Ignoring
+[Info   :   Console] No valid MagDumpPouch grids found.
+[Info   :CoopHandler] F8 pressed, attempting to extract!
+[Info   :Fika.Server] ..:: Fika Server Session Statistics ::..
+[Info   :Fika.Server] Sent packets: 0
+[Info   :Fika.Server] Sent data: 0 B
+[Info   :Fika.Server] Received packets: 0
+[Info   :Fika.Server] Received data: 0 B
+[Info   :Fika.Server] Packet loss: 0%
+[Info   :NetManagerUtils] Destroyed FikaServer
+[Info   :MoreCheckmarks] Loading data
+[Info   :MoreCheckmarks] 	Quests
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/quests
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/quests
+[Info   :MoreCheckmarks] 	Items
+[Info   :MoreCheckmarks] 	Assorts
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/assorts
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/assorts
+[Info   :MoreCheckmarks] 	Productions
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/productions
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/productions
+[Info   :MoreCheckmarks] Quest Проба пера queststatus set to Success
+[Info   :MoreCheckmarks] Quest Проверка на вшивость queststatus set to Success
+[Info   :MoreCheckmarks] Quest Пикник со стрельбой queststatus set to Success
+[Info   :MoreCheckmarks] Quest Посылка из прошлого queststatus set to Success
+[Info   :MoreCheckmarks] Quest Компромат queststatus set to Started
+[Info   :MoreCheckmarks] Quest Дефицит queststatus set to Success
+[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Пейнкиллер queststatus set to Success
+[Info   :MoreCheckmarks] Quest Провизор queststatus set to Success
+[Info   :MoreCheckmarks] Quest Планы снабжения queststatus set to Started
+[Info   :MoreCheckmarks] Quest Своего рода саботаж queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сельпо queststatus set to Started
+[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Авторем queststatus set to Started
+[Info   :MoreCheckmarks] Quest Снабженец queststatus set to Success
+[Info   :MoreCheckmarks] Quest Вымогатель queststatus set to Success
+[Info   :MoreCheckmarks] Quest Движуха queststatus set to Success
+[Info   :MoreCheckmarks] Quest Что на флешке? queststatus set to Success
+[Info   :MoreCheckmarks] Quest Золотые понты queststatus set to Success
+[Info   :MoreCheckmarks] Quest Бомж с Полихима queststatus set to Started
+[Info   :MoreCheckmarks] Quest Реагент. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Нефтянка queststatus set to Success
+[Info   :MoreCheckmarks] Quest Рыболовные снасти queststatus set to Started
+[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Врачебная тайна. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 7 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сигнал. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 6 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 8 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Только бизнес queststatus set to Success
+[Info   :MoreCheckmarks] Quest Вернем Ультре былое величие queststatus set to Started
+[Info   :MoreCheckmarks] Quest Распродажа queststatus set to Started
+[Info   :MoreCheckmarks] Quest Ленд-лиз. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 4 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Гренадёр queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подстава queststatus set to Started
+[Info   :MoreCheckmarks] Quest Поручение queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Беззащитен, но опасен queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Запасливый queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Живчик queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Раненый зверь queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Крепыш queststatus set to Started
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Хладнокровный queststatus set to Started
+[Info   :MoreCheckmarks] Quest Скорая помощь queststatus set to Started
+[Info   :MoreCheckmarks] Quest Мутное дело queststatus set to Success
+[Info   :MoreCheckmarks] Quest Бункер. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Поисковая миссия queststatus set to Success
+[Info   :MoreCheckmarks] Quest Медицинский журнал queststatus set to Started
+[Info   :MoreCheckmarks] Quest Отдых у моря queststatus set to Started
+[Info   :MoreCheckmarks] Quest Долгая дорога queststatus set to Started
+[Info   :MoreCheckmarks] Quest Аудит queststatus set to Started
+[Info   :MoreCheckmarks] Quest Перепись населения queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Продразведка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Первый в очереди queststatus set to Success
+[Info   :MoreCheckmarks] Quest Стрельба по баночкам queststatus set to Success
+[Info   :MoreCheckmarks] Quest Роскошная жизнь queststatus set to Success
+[Info   :MoreCheckmarks] Quest По коням queststatus set to Success
+[Info   :MoreCheckmarks] Quest Спасение крота queststatus set to Success
+[Info   :MoreCheckmarks] Quest Легкие деньги. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Ад на земле. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Как в старые добрые. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Тарков не прощает ошибок queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый охотник знает, где сидит фазан queststatus set to Started
+[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 2 queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Закрыть небо queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Рука помощи queststatus set to Started
+[Info   :MoreCheckmarks] Quest Умный в гору не пойдёт queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инициация queststatus set to Started
+[Info   :MoreCheckmarks] Quest Белка и Стрелка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. По старой дружбе queststatus set to Success
+[Info   :MoreCheckmarks] Quest Заклеено queststatus set to Success
+[Info   :MoreCheckmarks] Quest Топографика queststatus set to Success
+[Info   :MoreCheckmarks] Quest Копни Глубже queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сопротивление бесполезно queststatus set to Started
+[Info   :MoreCheckmarks] Quest Elusive Criminal queststatus set to Started
+[Info   :MoreCheckmarks] Quest A Friend in Need queststatus set to Success
+[Info   :MoreCheckmarks] Quest Introductions queststatus set to Success
+[Info   :MoreCheckmarks] Quest Hooligan Hunt queststatus set to Started
+[Info   :MoreCheckmarks] Quest Kill In Style queststatus set to Started
+[Info   :MoreCheckmarks] Quest Новые знакомства queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сгоняем в ULTRA queststatus set to Started
+[Info   :MoreCheckmarks] Quest Заправщик - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Заправщик - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Товары для дома queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сбор боеприпасов queststatus set to Success
+[Info   :MoreCheckmarks] Quest Полевая хирургия queststatus set to Success
+[Info   :MoreCheckmarks] Quest Домашний склад queststatus set to Started
+[Info   :MoreCheckmarks] Quest Готов к бою queststatus set to Success
+[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Агент ВС РФ - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Перевозчик - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Наркотики - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Наркотики - Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Мат — Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 4 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Пропавшие наёмники queststatus set to Success
+[Info   :MoreCheckmarks] Quest На шаг ближе queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Ближний бой - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Знать, как противостоять — Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Проявить себя queststatus set to Success
+[Info   :MoreCheckmarks] Quest Маршрут queststatus set to Success
+[Info   :MoreCheckmarks] Quest Зачистка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Таинственный звонок queststatus set to Success
+[Info   :MoreCheckmarks] Quest Таинственный звонок, часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Злость queststatus set to Started
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар queststatus set to Success
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Думаешь, ты хорошо владеешь оружием? queststatus set to Success
+[Info   :MoreCheckmarks] Quest Боевые навыки - штурмовые винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты-пулемёты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - снайперские винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - марксманские винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - дробовики queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - ручные пулемёты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - карабины queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - ближний бой queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - взрывчатка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
+[Info   :MoreCheckmarks] Quest Устранение queststatus set to Started
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Success
+[Info   :MoreCheckmarks] Loading data
+[Info   :MoreCheckmarks] 	Quests
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/quests
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/quests
+[Info   :MoreCheckmarks] 	Items
+[Info   :MoreCheckmarks] 	Assorts
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/assorts
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/assorts
+[Info   :MoreCheckmarks] 	Productions
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/productions
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/productions
+[Info   :MoreCheckmarks] Quest Проба пера queststatus set to Success
+[Info   :MoreCheckmarks] Quest Проверка на вшивость queststatus set to Success
+[Info   :MoreCheckmarks] Quest Пикник со стрельбой queststatus set to Success
+[Info   :MoreCheckmarks] Quest Посылка из прошлого queststatus set to Success
+[Info   :MoreCheckmarks] Quest Компромат queststatus set to Started
+[Info   :MoreCheckmarks] Quest Дефицит queststatus set to Success
+[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Пейнкиллер queststatus set to Success
+[Info   :MoreCheckmarks] Quest Провизор queststatus set to Success
+[Info   :MoreCheckmarks] Quest Планы снабжения queststatus set to Started
+[Info   :MoreCheckmarks] Quest Своего рода саботаж queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сельпо queststatus set to Started
+[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Авторем queststatus set to Started
+[Info   :MoreCheckmarks] Quest Снабженец queststatus set to Success
+[Info   :MoreCheckmarks] Quest Вымогатель queststatus set to Success
+[Info   :MoreCheckmarks] Quest Движуха queststatus set to Success
+[Info   :MoreCheckmarks] Quest Что на флешке? queststatus set to Success
+[Info   :MoreCheckmarks] Quest Золотые понты queststatus set to Success
+[Info   :MoreCheckmarks] Quest Бомж с Полихима queststatus set to Started
+[Info   :MoreCheckmarks] Quest Реагент. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Нефтянка queststatus set to Success
+[Info   :MoreCheckmarks] Quest Рыболовные снасти queststatus set to Started
+[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Врачебная тайна. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 7 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сигнал. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 6 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 8 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Только бизнес queststatus set to Success
+[Info   :MoreCheckmarks] Quest Вернем Ультре былое величие queststatus set to Started
+[Info   :MoreCheckmarks] Quest Распродажа queststatus set to Started
+[Info   :MoreCheckmarks] Quest Ленд-лиз. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 4 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Гренадёр queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подстава queststatus set to Started
+[Info   :MoreCheckmarks] Quest Поручение queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Беззащитен, но опасен queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Запасливый queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Живчик queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Раненый зверь queststatus set to Success
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Крепыш queststatus set to Started
+[Info   :MoreCheckmarks] Quest Путь выживальщика. Хладнокровный queststatus set to Started
+[Info   :MoreCheckmarks] Quest Скорая помощь queststatus set to Started
+[Info   :MoreCheckmarks] Quest Мутное дело queststatus set to Success
+[Info   :MoreCheckmarks] Quest Бункер. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Поисковая миссия queststatus set to Success
+[Info   :MoreCheckmarks] Quest Медицинский журнал queststatus set to Started
+[Info   :MoreCheckmarks] Quest Отдых у моря queststatus set to Started
+[Info   :MoreCheckmarks] Quest Долгая дорога queststatus set to Started
+[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Аудит queststatus set to Started
+[Info   :MoreCheckmarks] Quest Перепись населения queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Продразведка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Первый в очереди queststatus set to Success
+[Info   :MoreCheckmarks] Quest Стрельба по баночкам queststatus set to Success
+[Info   :MoreCheckmarks] Quest Роскошная жизнь queststatus set to Success
+[Info   :MoreCheckmarks] Quest По коням queststatus set to Success
+[Info   :MoreCheckmarks] Quest Спасение крота queststatus set to Success
+[Info   :MoreCheckmarks] Quest Легкие деньги. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Ад на земле. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Как в старые добрые. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Тарков не прощает ошибок queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый охотник знает, где сидит фазан queststatus set to Started
+[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 2 queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Закрыть небо queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Рука помощи queststatus set to Started
+[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
+[Info   :MoreCheckmarks] Quest Умный в гору не пойдёт queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инициация queststatus set to Started
+[Info   :MoreCheckmarks] Quest Белка и Стрелка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Оружейник. По старой дружбе queststatus set to Success
+[Info   :MoreCheckmarks] Quest Заклеено queststatus set to Success
+[Info   :MoreCheckmarks] Quest Топографика queststatus set to Success
+[Info   :MoreCheckmarks] Quest Копни Глубже queststatus set to Started
+[Info   :MoreCheckmarks] Quest Сопротивление бесполезно queststatus set to Started
+[Info   :MoreCheckmarks] Quest Elusive Criminal queststatus set to Started
+[Info   :MoreCheckmarks] Quest A Friend in Need queststatus set to Success
+[Info   :MoreCheckmarks] Quest Introductions queststatus set to Success
+[Info   :MoreCheckmarks] Quest Hooligan Hunt queststatus set to Started
+[Info   :MoreCheckmarks] Quest Kill In Style queststatus set to Started
+[Info   :MoreCheckmarks] Quest Новые знакомства queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сгоняем в ULTRA queststatus set to Started
+[Info   :MoreCheckmarks] Quest Заправщик - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Заправщик - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Товары для дома queststatus set to Success
+[Info   :MoreCheckmarks] Quest Сбор боеприпасов queststatus set to Success
+[Info   :MoreCheckmarks] Quest Полевая хирургия queststatus set to Success
+[Info   :MoreCheckmarks] Quest Домашний склад queststatus set to Started
+[Info   :MoreCheckmarks] Quest Готов к бою queststatus set to Success
+[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Агент ВС РФ - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Перевозчик - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Наркотики - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Наркотики - Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Мат — Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 4 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Пропавшие наёмники queststatus set to Success
+[Info   :MoreCheckmarks] Quest На шаг ближе queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 3 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 4 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 5 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Ближний бой - Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 1 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Знать, как противостоять — Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Проявить себя queststatus set to Success
+[Info   :MoreCheckmarks] Quest Маршрут queststatus set to Success
+[Info   :MoreCheckmarks] Quest Зачистка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Таинственный звонок queststatus set to Success
+[Info   :MoreCheckmarks] Quest Таинственный звонок, часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Злость queststatus set to Started
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар queststatus set to Success
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 3 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Думаешь, ты хорошо владеешь оружием? queststatus set to Success
+[Info   :MoreCheckmarks] Quest Боевые навыки - штурмовые винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты-пулемёты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - снайперские винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - марксманские винтовки queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - дробовики queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - ручные пулемёты queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - карабины queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - ближний бой queststatus set to Started
+[Info   :MoreCheckmarks] Quest Боевые навыки - взрывчатка queststatus set to Started
+[Info   :MoreCheckmarks] Quest Устранение queststatus set to Started
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Success
+[Info   :DanW-QuestingBots] The game start is not being delayed
+[Error  :DynamicMaps] Caught error while doing end of raid calculations
+[Error  :DynamicMaps] Object reference not set to an instance of an object
+[Error  :DynamicMaps]   at DynamicMaps.UI.ModdedMapScreen.OnRaidEnd () [0x000b8] in <2f8aecbe88f54a768e929b4967ac0161>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void()
+  at DynamicMaps.Patches.GameWorldOnDestroyPatch.PatchPrefix () [0x00009] in <2f8aecbe88f54a768e929b4967ac0161>:0 
+[Error  :DynamicMaps] Caught error while doing end of raid calculations
+[Error  :DynamicMaps] Object reference not set to an instance of an object
+[Error  :DynamicMaps]   at DynamicMaps.UI.ModdedMapScreen.OnRaidEnd () [0x000b8] in <2f8aecbe88f54a768e929b4967ac0161>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void()
+  at DynamicMaps.Patches.GameWorldOnDestroyPatch.PatchPrefix () [0x00009] in <2f8aecbe88f54a768e929b4967ac0161>:0 

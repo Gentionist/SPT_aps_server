@@ -1,0 +1,719 @@
+{
+    "672e37d16837c8feaa64be0f": {
+        "clone": "626becf9582c3e319310b837",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "tactical_all_insight_wmx200_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f73ab86f774094242f195",
+            "Price": 13258
+        },
+        "locales": {
+            "Name": "Insight WMX200 tactical flashlight (Black)",
+            "Shortname": "WMX Blk",
+            "Description": "The WMX200 tactical flashlight manufactured by Insight Technologies, which combines a conventional flashlight and an IR searchlight. Modded black."
+        }
+    },
+    "672e37d1027fc0fe0d13b56c": {
+        "clone": "5c6d42cb2e2216000e69d7d1",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mag_stanag_hk_polymer_mag_556x45_30_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 2243
+        },
+        "locales": {
+            "Name": "5.56x45 HK 30 STANAG polymer 30-round magazine (Black)",
+            "Shortname": "HK Blk",
+            "Description": "30-round polymer HK Polymer mag magazine, for 5.56x45 ammunition. Modded black."
+        }
+    },
+    "672e37d1520640dc6dcd5cdd": {
+        "clone": "5c9a26332e2216001219ea70",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "handguard_ar15_dd_ris_ii_fsp_9,5_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 8848
+        },
+        "locales": {
+            "Name": "AR-15 Daniel Defense RIS II FSP 9.5 handguard (Black)",
+            "Shortname": "FSP Black",
+            "Description": "The Daniel Defense RIS II FSP 9.5 foregrip is a part of the SOPMOD Block II program to replace the standard M4CQBR or Mk18 foregrips in the US SOCOM service. It's made with light but durable aircraft aluminum alloy and comes equipped with 4 mounts for the installation of additional devices and accessories. This foregrip option is incompatible with the M203 UBGL. Modded black."
+        },
+        "bcCompatibilities": {
+            "mod_foregrip": [
+                "672e37d10e627f2e9563a930"
+            ]
+        }
+    },
+    "672e37d10527a90689a16240": {
+        "clone": "558022b54bdc2dac148b458d",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "scope_all_eotech_exps3_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f742686f774093e6cb4ff",
+            "Price": 29400
+        },
+        "locales": {
+            "Name": "EOTech EXPS3 holographic sight (Black)",
+            "Shortname": "EXPS3-B",
+            "Description": "Eotech EXPS3 holo sight. Thanks to design features it can be used with a wide range of weapons even with non-folding sights. Compatible with night vision devices by the means of NV reticle mode. Utilized by US SOCOM as a sight for operations in confined spaces. Modded black."
+        }
+    },
+    "672e37d10c5f88d8ed0d056a": {
+        "clone": "5d2c76ed48f03532f2136169",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "reciever_ak_akademia_bastion_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 9500
+        },
+        "locales": {
+            "Name": "AK AKademia Bastion dust cover (Topographic)",
+            "Shortname": "BAST-TOPO",
+            "Description": "The Bastion dust cover with an integrated Picatinny rail is compatible with all models of Kalashnikov automatic rifles and carbines based on the AK platform. Manufactured by AKademia. Modded with topographical lines."
+        }
+    },
+    "672e37d1c999f94dae595a1b": {
+        "clone": "57fd23e32459772d0805bcf1",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "tactical_all_holosun_ls321_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f737886f774093e6cb4fb",
+            "Price": 18000
+        },
+        "locales": {
+            "Name": "Holosun LS321 Tactical device (Black)",
+            "Shortname": "LS321-B",
+            "Description": "Holosun LS321 is a multi-laser tactical device with green laser in the visible light spectrum, IR laser and IR searchlight. Modded black."
+        }
+    },
+    "672e37d1a98e0628807ba29a": {
+        "clone": "606587a88900dc2d9a55b659",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "reciever_mk47_cmmg_mk47_std_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 4760
+        },
+        "locales": {
+            "Name": "Mk47 Resolute 7.62x39 upper receiver (Topographic)",
+            "Shortname": "MK47R Topo",
+            "Description": "The Resolute upper receiver for Mk47 Mutant assault rifle, chambered in 7.62x39mm. Equipped with a mount for attaching additional devices. Manufactured by CMMG. Modded with topographical lines."
+        }
+    },
+    "672e37d178e24689d6ff50ce": {
+        "clone": "61605d88ffa6e502ac5e7eeb",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "tactical_all_wilcox_raptar_es_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f737886f774093e6cb4fb",
+            "Price": 22000
+        },
+        "locales": {
+            "Name": "Wilcox RAPTAR ES Tactical Rangefinder (Black)",
+            "Shortname": "RAPTAR-B",
+            "Description": "The early generation of the tactical device called RAPTAR combined with a rangefinder. It has visible and IR lasers, as well as an infrared illuminator. Modded black."
+        }
+    },
+    "672e37d19f3e60fb0cbbe568": {
+        "clone": "618ba27d9008e4636a67f61d",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "scope_30mm_razor_hd_gen_2_1_6x24_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f748386f774093e6cb501",
+            "Price": 72000
+        },
+        "locales": {
+            "Name": "Vortex Razor HD Gen.2 1-6x24 30mm riflescope (Black)",
+            "Shortname": "Razor HD Black",
+            "Description": "A tactical riflescope designed for quick target acquisition and maximum precision. Manufactured by Vortex Optics. Modded black."
+        }
+    },
+    "67617ec9ea1e82ea5e103054": {
+        "clone": "6567e7681265c8a131069b0f",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "scope_30mm_sig_tango6t_1_6x24_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f748386f774093e6cb501",
+            "Price": 68601
+        },
+        "locales": {
+            "Name": "SIG TANGO6T 1-6x24 30mm riflescope (Black)",
+            "Shortname": "TANGO6T Black",
+            "Description": "The TANGO6T is a rugged and well-built low power variable optic. This model features a 1x to 6x magnification and a first focal plane reticle. This rifle scope is ideal for short and medium distances, as well as for backcountry hunting. Manufactured by SIG Sauer. Modded black."
+        }
+    },
+    "672e37d1603bec7640eb5459": {
+        "clone": "5c07a8770db8340023300450",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "reciever_ar15_noveske_gen3_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 25150
+        },
+        "locales": {
+            "Name": "AR-15 Noveske Gen.3 5.56x45 upper receiver (Topographic)",
+            "Shortname": "Gen.3 Topo",
+            "Description": "The Gen.3 modular upper receiver for AR-based weapons, manufactured by Noveske. Fitted with mounts for attaching additional equipment. Modded with topographical lines."
+        },
+        "bcCompatibilities": {
+            "mod_handguard": [
+                "672e37d16b2e4ea6c4076cbc",
+                "672e37d1520640dc6dcd5cdd"
+            ]
+        }
+    },
+    "672e37d12636da3c12abb505": {
+        "clone": "5c503af12e221602b177ca02",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "stock_vepr_molot_vpo-101_std_wood_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 2853
+        },
+        "locales": {
+            "Name": "VPO-101 Vepr-Hunter stock (Black)",
+            "Shortname": "VPO101 Black",
+            "Description": "Regular stock for a VPO-101 Vepr Hunter. Modded black."
+        }
+    },
+    "672e37d1f647e5253b953b08": {
+        "clone": "5ab372a310e891001717f0d8",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "stock_m14_troy_sass_chassis_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 36580
+        },
+        "locales": {
+            "Name": "M14 TROY S.A.S.S. Chassis stock (Black)",
+            "Shortname": "S.A.S.S. Black",
+            "Description": "The TROY Semi-Automatic Sniper System chassis is designed to match the ergonomics of M16/M4 weapon systems. This modular quad-rail system allows unlimited mounting options and keeps all optics and sights mounted and undisturbed while field stripping. Modded black."
+        }
+    },
+    "672e37d1565ea85b2a92e2e4": {
+        "clone": "59bffbb386f77435b379b9c2",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "silencer_mount_silencerco_hybrid_46_multi_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f731a86f774093e6cb4f9",
+            "Price": 69600
+        },
+        "locales": {
+            "Name": "SilencerCo Hybrid 46 multi-caliber sound suppressor (Special)",
+            "Shortname": "Hybrid 46 S",
+            "Description": "Multi-caliber silencer Silencerco Hybrid 46 is designed for use with pistols from 9mm to .45 ACP and rifles from 5.56mm to .45. Respective adapter required for installation on the system. Modded with digital styled camo."
+        }
+    },
+    "672e37d16dd16ffec1f6019e": {
+        "clone": "62e7c98b550c8218d602cbb4",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mag_aug_steyr_std_556x45_30_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 3400
+        },
+        "locales": {
+            "Name": "Steyr AUG 5.56x45 30-round magazine (Black)",
+            "Shortname": "AUG Black",
+            "Description": "30-round polymer Steyr AUG magazine, for 5.56x45 ammunition. Modded black."
+        }
+    },
+    "672e37d1974eeef8028990a4": {
+        "clone": "5b222d405acfc400153af4fe",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "stock_ak_zenit_pt_1_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 11758
+        },
+        "locales": {
+            "Name": "AK Zenit PT-1 stock (Special)",
+            "Shortname": "PT-1-S",
+            "Description": "The telescopic PT-1 stock is mounted on the standard place of the stock AK 103, 104, 105, 74M, AKS74U and PP Vityaz, has a length adjustment mechanism and an adjustable cheek. A special lock is required for installation. Special edition."
+        }
+    },
+    "672e37d1af063ed84beecc40": {
+        "clone": "5b30ac585acfc433000eb79c",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "pistolgrip_ak_magpul_moe_ak_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f761f86f774094242f1a1",
+            "Price": 7356
+        },
+        "locales": {
+            "Name": "AK Magpul MOE pistol grip (Special)",
+            "Shortname": "MOE AK-S",
+            "Description": "Light pistol grip for a AK, produced by Magpul. Special edition."
+        }
+    },
+    "672e37d1d3f662d053528ca3": {
+        "clone": "628a83c29179c324ed269508",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "gas_block_akp_slr_ak_railed_gas_tube_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f760586f774093e6cb509",
+            "Price": 21300
+        },
+        "locales": {
+            "Name": "RD-704 SLR ION Lite + Railed Gas Tube handguard & gas tube combo (Special)",
+            "Shortname": "ION Lite S",
+            "Description": "A combined kit of the ION Lite 9 inch handguard with the Railed Gas Tube, can be installed on RD-704 assault rifles. Manufactured by SLR. Special edition."
+        }
+    },
+    "672e37d1bbce23f93c60de67": {
+        "clone": "5d2c772c48f0355d95672c25",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "reciever_ak_texas_weapon_systems_dog_leg_rail_gen_3_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 11600
+        },
+        "locales": {
+            "Name": "AK TWS Dog Leg Rail dust cover (Special)",
+            "Shortname": "Dog Leg Rail S",
+            "Description": "TWS Dog leg rail dust cover with integrated Picatinny rail is compatible with all models of Kalashnikov automatic rifles and carbines based on AK platform. Special edition."
+        }
+    },
+    "672e37d16b2e4ea6c4076cbc": {
+        "clone": "63888bbd28e5cc32cc09d2b6",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "handguard_ar15_precision_reflex_carbon_fiber_delta_gen_3_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 32000
+        },
+        "locales": {
+            "Name": "AR-15 Precision Reflex GEN III Delta Carbon handguard (Black)",
+            "Shortname": "Delta Carbon Black",
+            "Description": "The GEN III Delta Carbon handguard for AR-15 systems, equipped with a custom interface for the installation of additional devices and accessories. Manufactured by Precision Reflex. Black carbon edition."
+        }
+    },
+    "672e37d1ffec1409f4571dd7": {
+        "clone": "5c0e66e2d174af02a96252f4",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "helmet_armor_slaap.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f704686f77447ec5d76d7",
+            "Price": 89300
+        },
+        "locales": {
+            "Name": "SLAAP Armor Plate (Skull)",
+            "Shortname": "SLAAP Skull",
+            "Description": "Custom armor plate from the trader Painter for the Ops-Core FAST helmet, made of a special polyethylene plate."
+        }
+    },
+    "672e37d126a93d06f86b177a": {
+        "clone": "5a6f5e048dc32e00094b97da",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "reciever_glock_glock_17_std_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 7000
+        },
+        "locales": {
+            "Name": "Glock 17 9x19 pistol slide (Topographic)",
+            "Shortname": "G17 TOPO",
+            "Description": "Glock 17 custom slide from the trader Painter. Modded with topographical lines."
+        }
+    },
+    "672e37d127e81492ac0c21a4": {
+        "clone": "5a6f5f078dc32e00094b97dd",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "reciever_glock_gspc_viper_slide_cut_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 20000
+        },
+        "locales": {
+            "Name": "Glock Viper Cut pistol slide (Special)",
+            "Shortname": "G17 SPEC",
+            "Description": "Glock 17 custom slide from the trader Painter. Modded with special paint."
+        }
+    },
+    "672e37d1b6df87f2230c0b61": {
+        "clone": "55d480c04bdc2d1d4e8b456a",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mag_ak74_izhmash_6l23_545x39_30_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 2999
+        },
+        "locales": {
+            "Name": "AK-74 5.45x39 6L23 30-round magazine (Special)",
+            "Shortname": "6L23 SPEC",
+            "Description": "30-round polymer Izhmash 6L23 magazine for 5.45x39 ammo, for AK-74 and compatible systems. Comes in black and plum. Modded with special paint."
+        }
+    },
+    "672e37d1249244ae3a50bb2f": {
+        "clone": "59bfe68886f7746004266202",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "reciever_ar15_vltor_mur-1s_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 45000
+        },
+        "locales": {
+            "Name": "AR-15 Vltor MUR-1S 5.56x45 upper receiver (Painter Edition)",
+            "Shortname": "MUR-1S PE",
+            "Description": "MUR-1S modular upper receiver for AR-based weapons by Vltor company. Fitted with mount for attaching additional equipment. Painter Edition."
+        },
+        "bcCompatibilities": {
+            "mod_handguard": [
+                "672e37d16b2e4ea6c4076cbc",
+                "672e37d1520640dc6dcd5cdd"
+            ]
+        }
+    },
+    "672e37d10e627f2e9563a930": {
+        "clone": "5c7fc87d2e221644f31c0298",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "foregrip_all_bcm_mod_3_new.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f71de86f774093f2ecf13",
+            "Price": 4900
+        },
+        "locales": {
+            "Name": "Angled Grip",
+            "Shortname": "Angled Grip",
+            "Description": "Angled grip made by Painter."
+        }
+    },
+    "672e37d19811257c1de39e6d": {
+        "clone": "65293c38fc460e50a509cb25",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mag_ar10_lancer_l7_awm_762x51_20.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 3716
+        },
+        "locales": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine (Black)",
+            "Shortname": "L7AWM",
+            "Description": "A 20-round double-stack L7AWM 20 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems. Modded black."
+        }
+    },
+    "672e37d15fe804508ab7c6e6": {
+        "clone": "65293c7a17e14363030ad308",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mag_ar10_lancer_l7_awm_762x51_25.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 3716
+        },
+        "locales": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 25-round magazine (Black)",
+            "Shortname": "L7AWM",
+            "Description": "A 20-round double-stack L7AWM 20 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems. Modded black."
+        }
+    },
+    "672e37d1861c12c7e1d94089": {
+        "clone": "652911675ae2ae97b80fdf3c",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "pistolgrip_ar15_sig_reduced_angle_pistol_grip_ct_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f761f86f774094242f1a1",
+            "Price": 7356
+        },
+        "locales": {
+            "Name": "AR-15 SIG M400 Reduced Angle Pistol Grip",
+            "Shortname": "M400",
+            "Description": "The polymer M400 Reduced Angle Pistol Grip fits any weapon compatible with AR-15 system. Manufactured by SIG Sauer. Modded black."
+        }
+    },
+    "672e37d1d9a55146e49287d6": {
+        "clone": "6529370c405a5f51dd023db8",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "stock_ar15_magpul_moe_sl_k_carbine_ct_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 9614
+        },
+        "locales": {
+            "Name": "AR-15 Magpul MOE SL-K buttstock (Black)",
+            "Shortname": "MOE SL-K",
+            "Description": "A quick-detach buttstock for AR-15/M16 rifles with mil-spec buffer tube. Manufactured by Magpul Original Equipment. Black version."
+        }
+    },
+    "672e37d1d0d67e193f688afa": {
+        "clone": "603409c80ca681766b6a0fb2",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "glasses/item_equipment_glasses_npp_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b47574386f77428ca22b331",
+            "Price": 22500
+        },
+        "locales": {
+            "Name": "NPP KlASS Condor gradient glasses",
+            "Shortname": "Condor",
+            "Description": "Heavy-duty ballistic shooting glasses with impact-resistant lenses."
+        }
+    },
+    "672e37d1988fac66b10d23c8": {
+        "clone": "59f9d81586f7744c7506ee62",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "scope_all_vortex_razor_amg_uh-1_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f742686f774093e6cb4ff",
+            "Price": 25847
+        },
+        "locales": {
+            "Name": "Vortex Razor AMG UH-1 holographic sight (v2)",
+            "Shortname": "UH-1",
+            "Description": "The Vortex Razor AMG UH-1 holographic sight is not only made with futuristic design, but, according to its creators, is also a revolution among holographic and reflex sights. Modded black."
+        }
+    },
+    "672e37d1c3f0ee2b60c5854d": {
+        "clone": "544909bb4bdc2d6f028b4577",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "tactical_all_insight_anpeq15_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f737886f774093e6cb4fb",
+            "Price": 19137
+        },
+        "locales": {
+            "Name": "AN/PEQ-15 tactical device (Black)",
+            "Shortname": "AN/PEQ-15",
+            "Description": "The Advanced Target Pointer Illuminator Aiming Laser (ATPIAL) produced by L3 Technologies is a rugged, combat-proven and easy-to-use aiming system with integrated infrared and visible aim lasers as well as an infrared illuminator. Modded black."
+        }
+    },
+    "672e37d1713443a0355d72e8": {
+        "clone": "602e620f9b513876d4338d9a",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "stock_ar15_fab_defense_gl_core_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 4100
+        },
+        "locales": {
+            "Name": "AR-15 FAB Defense GL-CORE black buttstock",
+            "Shortname": "GL-CORE",
+            "Description": "A telescopic stock, manufactured by FAB Defense. The integrated cheek weld, ergonomic buttpad and an interchanging tube adapter provide an unmatched fit on Mil-Spec and Commercial buffer tubes, with a high level of efficiency and comfort. Includes an ergonomically shaped rubberized butt-pad for quick shouldering and easy maneuvering of the weapon. Modded black."
+        }
+    },
+    "6782e59050893b2c1e2cabc8": {
+        "clone": "5c0558060db834001b735271",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "nvg_l3_gpnvg-18_anvis_retex.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f749986f774094242f199",
+            "Price": 145004
+        },
+        "locales": {
+            "Name": "L3Harris GPNVG-18 night vision goggles (Black)",
+            "Shortname": "GPNVG-18",
+            "Description": "The GPNVG-18 (Ground Panoramic Night Vision Goggle) panoramic night vision goggles. The cardinal difference of this NVG from the others is the presence of four separate image intensifier tubes, two for each eye. Two Central IITs are directed forward, while two more are directed outward from the center. This innovative solution allowed to expand the field of view to 97 degrees. Modded black."
+        }
+    }
+}

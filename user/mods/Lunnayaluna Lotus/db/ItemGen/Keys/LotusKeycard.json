@@ -1,0 +1,34 @@
+{
+    "6747b519aa6cb78b189e6081": {
+        "ItemToClone": "KEYCARD_ACCESS",
+        "OverrideProperties": {
+            "Prefab": {
+                "path": "assets/content/items/spec/item_keycard_lab/item_keycard_lab_white_sanitar.bundle",
+                "rcid": ""
+            },
+            "MaximumNumberOfUsage": 0
+        },
+        "LocalePush": {
+            "en": {
+                "name": "Lotus' Custom Labs Access Card",
+                "shortName": "LotusCC",
+                "description": "A custom access keycard for the Terragroup Lab, a place filled with treasure and danger. This card has been modified by Lotus and does not have any limited uses unlike the normal access cards. Whoever owns this keycard will not have to worry about buying or finding normal access cards ever again."
+            }
+        },
+        "Handbook": {
+            "HandbookParent": "ElectronicKeys",
+            "HandbookPrice": 3450000
+        },
+        "CloneToFilters": true,
+        "PushToFleaBlacklist": true,
+        "CasePush": {
+            "CaseFiltersToAdd": [
+                "CONTAINER_DOCS",
+                "CONTAINER_SICC",
+                "CONTAINER_WALLET",
+                "CONTAINER_WZ",
+                "CONTAINER_KEYCARDS"
+            ]
+        }
+    }
+}
