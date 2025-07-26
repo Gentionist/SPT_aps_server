@@ -620,14 +620,35 @@
 [Info   :ModulePatch] Enabled patch DisableMagnifyPatch
 [Info   :ModulePatch] Enabled patch ItemViewClickPatch
 [Info   :ModulePatch] Enabled patch ContextActionsPatch
+[Info   : Fika.Core] Server version check passed. Expected: >2.4.7, received: 2.4.7
 [Info   :ModulePatch] Enabled patch MoreContextActionsPatch
+[Info   :FikaModHandler] Loaded plugin: [WTT-PackNStrap] with GUID [com.aaaWTT-PacknStrap.Core] and crc32 [2077238175]
+[Info   :FikaModHandler] Loaded plugin: [Graphics] with GUID [com.Amanda.Graphics] and crc32 [982026357]
+[Info   :FikaModHandler] Loaded plugin: [Configuration Manager] with GUID [com.bepis.bepinex.configurationmanager] and crc32 [2453335703]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Core] with GUID [com.SPT.core] and crc32 [4135225510]
+[Info   :FikaModHandler] Loaded plugin: [DrakiaXYZ-Waypoints] with GUID [xyz.drakia.waypoints] and crc32 [4022289109]
+[Info   :FikaModHandler] Loaded plugin: [DrakiaXYZ-BigBrain] with GUID [xyz.drakia.bigbrain] and crc32 [3701555121]
 [Info   :ModulePatch] Enabled patch StopProcessesPatch
+[Info   :FikaModHandler] Loaded plugin: [DanW-QuestingBots] with GUID [com.DanW.QuestingBots] and crc32 [2312158622]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Custom] with GUID [com.SPT.custom] and crc32 [2697771812]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Singleplayer] with GUID [com.SPT.singleplayer] and crc32 [1999686428]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Debugging] with GUID [com.SPT.debugging] and crc32 [2084470248]
+[Info   :FikaModHandler] Loaded plugin: [Fika.Core] with GUID [com.fika.core] and crc32 [3233123487]
+[Info   :FikaModHandler] Loaded plugin: [Kaeno-TraderScrolling] with GUID [com.kaeno.TraderScrolling] and crc32 [3677119662]
+[Info   :FikaModHandler] Loaded plugin: [DynamicMaps] with GUID [com.mpstark.DynamicMaps] and crc32 [3467874971]
+[Info   :FikaModHandler] Loaded plugin: [VCQL-Zones] with GUID [com.virtual.vcql] and crc32 [2260259757]
+[Info   :FikaModHandler] Loaded plugin: [BossNotifier] with GUID [Mattdokn.BossNotifier] and crc32 [987005380]
+[Info   :FikaModHandler] Loaded plugin: [LootingBots] with GUID [me.skwizzy.lootingbots] and crc32 [4123998962]
 [Info   :ModulePatch] Enabled patch GridViewCanAcceptPatch
+[Info   :FikaModHandler] Loaded plugin: [SAIN] with GUID [me.sol.sain] and crc32 [1031265223]
+[Info   :FikaModHandler] Loaded plugin: [Tyfon.UIFixes] with GUID [Tyfon.UIFixes] and crc32 [1949918023]
 [Info   :ModulePatch] Enabled patch GridViewAcceptItemPatch
 [Info   :ModulePatch] Enabled patch GridViewPickTargetPatch
 [Info   :ModulePatch] Enabled patch GridViewDisableHighlightPatch
+[Info   :RequestHandler] [REQUEST]: /fika/client/check/mods
 [Info   :ModulePatch] Enabled patch GridViewClearTooltipPatch
 [Info   :ModulePatch] Enabled patch SlotViewCanAcceptPatch
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /fika/client/check/mods
 [Info   :ModulePatch] Enabled patch SlotViewAcceptItemPatch
 [Info   :ModulePatch] Enabled patch TradingTableCanAcceptPatch
 [Info   :ModulePatch] Enabled patch TradingTableAcceptItemPatch
@@ -701,27 +722,6 @@
 [Info   :ModulePatch] Enabled patch OnEnterPatch
 [Info   :ModulePatch] Enabled patch TagsOverCaptionsPatch
 [Info   :ModulePatch] Enabled patch AddTagNewItemPatch
-[Info   : Fika.Core] Server version check passed. Expected: >2.4.7, received: 2.4.7
-[Info   :FikaModHandler] Loaded plugin: [WTT-PackNStrap] with GUID [com.aaaWTT-PacknStrap.Core] and crc32 [2077238175]
-[Info   :FikaModHandler] Loaded plugin: [Graphics] with GUID [com.Amanda.Graphics] and crc32 [982026357]
-[Info   :FikaModHandler] Loaded plugin: [Configuration Manager] with GUID [com.bepis.bepinex.configurationmanager] and crc32 [2453335703]
-[Info   :FikaModHandler] Loaded plugin: [SPT.Core] with GUID [com.SPT.core] and crc32 [4135225510]
-[Info   :FikaModHandler] Loaded plugin: [DrakiaXYZ-Waypoints] with GUID [xyz.drakia.waypoints] and crc32 [4022289109]
-[Info   :FikaModHandler] Loaded plugin: [DrakiaXYZ-BigBrain] with GUID [xyz.drakia.bigbrain] and crc32 [3701555121]
-[Info   :FikaModHandler] Loaded plugin: [DanW-QuestingBots] with GUID [com.DanW.QuestingBots] and crc32 [2312158622]
-[Info   :FikaModHandler] Loaded plugin: [SPT.Custom] with GUID [com.SPT.custom] and crc32 [2697771812]
-[Info   :FikaModHandler] Loaded plugin: [SPT.Singleplayer] with GUID [com.SPT.singleplayer] and crc32 [1999686428]
-[Info   :FikaModHandler] Loaded plugin: [SPT.Debugging] with GUID [com.SPT.debugging] and crc32 [2084470248]
-[Info   :FikaModHandler] Loaded plugin: [Fika.Core] with GUID [com.fika.core] and crc32 [3233123487]
-[Info   :FikaModHandler] Loaded plugin: [Kaeno-TraderScrolling] with GUID [com.kaeno.TraderScrolling] and crc32 [3677119662]
-[Info   :FikaModHandler] Loaded plugin: [DynamicMaps] with GUID [com.mpstark.DynamicMaps] and crc32 [3467874971]
-[Info   :FikaModHandler] Loaded plugin: [VCQL-Zones] with GUID [com.virtual.vcql] and crc32 [2260259757]
-[Info   :FikaModHandler] Loaded plugin: [BossNotifier] with GUID [Mattdokn.BossNotifier] and crc32 [987005380]
-[Info   :FikaModHandler] Loaded plugin: [LootingBots] with GUID [me.skwizzy.lootingbots] and crc32 [4123998962]
-[Info   :FikaModHandler] Loaded plugin: [SAIN] with GUID [me.sol.sain] and crc32 [1031265223]
-[Info   :FikaModHandler] Loaded plugin: [Tyfon.UIFixes] with GUID [Tyfon.UIFixes] and crc32 [1949918023]
-[Info   :RequestHandler] [REQUEST]: /fika/client/check/mods
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /fika/client/check/mods
 [Info   :ModulePatch] Enabled patch AddTagParsedItemPatch
 [Info   :ModulePatch] Enabled patch TagAdditionalTypePatch
 [Info   :ModulePatch] Enabled patch KeepTagsLocalPatch
@@ -945,9 +945,6 @@
 [Info   :BundleManager] CACHE: Loading locally assaultvest6_tan.bundle
 [Info   :BundleManager] CACHE: Loading locally mos115.bundle
 [Info   :BundleManager] CACHE: Loading locally ultra_shortbarrel_ar.bundle
-[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Project Fika Detected.]
-[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Questing Bots Detected.]
-[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Looting Bots Detected.]
 [Info   :BundleManager] CACHE: Loading locally mag_ar10_lancer_l7_awm_762x51_25.bundle
 [Info   :BundleManager] CACHE: Loading locally nvg_l3_gpnvg-18_anvis_retex.bundle
 [Info   :BundleManager] CACHE: Loading locally zipline_ar15_reciever.bundle
@@ -960,6 +957,9 @@
 [Info   :BundleManager] CACHE: Loading locally assaulthelmet_2_v2.bundle
 [Info   :BundleManager] CACHE: Loading locally pistolgrip1_blk.bundle
 [Info   :BundleManager] CACHE: Loading locally riser5.bundle
+[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Project Fika Detected.]
+[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Questing Bots Detected.]
+[Info   :      SAIN] [SAIN.ModDetection] : [[CheckPlugins()]:] : [SAIN: Looting Bots Detected.]
 [Info   :BundleManager] CACHE: Loading locally combatbelt1.bundle
 [Info   :BundleManager] CACHE: Loading locally m16_stock.bundle
 [Info   :BundleManager] CACHE: Loading locally mp7_stock_1.bundle
@@ -1059,6 +1059,8 @@
 [Info   :MoreCheckmarks] 	Productions
 [Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/productions
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/productions
+[Info   : Fika.Core] Locales are ready!
+[Info   : Fika.Core] Cached local IPs: 0.0.0.0, 26.0.42.191, 192.168.123.2
 [Info   :DanW-QuestingBots] Logging path: E:\SPT/BepInEx/plugins/DanW-SPTQuestingBots/log/
 [Info   :DanW-QuestingBots] Found 79 non-EFT quests for bigmap
 [Info   :DanW-QuestingBots] Found 49 non-EFT quests for factory4_day
@@ -1074,8 +1076,6 @@
 [Info   :DanW-QuestingBots] Validated all quest files
 [Info   :RequestHandler] [REQUEST]: /singleplayer/log
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
-[Info   : Fika.Core] Locales are ready!
-[Info   : Fika.Core] Cached local IPs: 0.0.0.0, 26.0.42.191, 192.168.123.2
 [Info   :LootingBots] Initializing item appraiser
 [Info   :RequestHandler] [REQUEST]: /singleplayer/log
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
@@ -1116,8 +1116,10 @@
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 3 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 7 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Садоводство. Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
 [Info   :MoreCheckmarks] Quest Сигнал. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 5 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 6 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 8 queststatus set to Started
@@ -1146,6 +1148,7 @@
 [Info   :MoreCheckmarks] Quest Медицинский журнал queststatus set to Started
 [Info   :MoreCheckmarks] Quest Отдых у моря queststatus set to Started
 [Info   :MoreCheckmarks] Quest Долгая дорога queststatus set to Started
+[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
 [Info   :MoreCheckmarks] Quest Аудит queststatus set to Started
 [Info   :MoreCheckmarks] Quest Перепись населения queststatus set to Started
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 4 queststatus set to Success
@@ -1164,6 +1167,7 @@
 [Info   :MoreCheckmarks] Quest Задержка отправления. Часть 1 queststatus set to Started
 [Info   :MoreCheckmarks] Quest Закрыть небо queststatus set to AvailableForStart
 [Info   :MoreCheckmarks] Quest Рука помощи queststatus set to Started
+[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
 [Info   :MoreCheckmarks] Quest Умный в гору не пойдёт queststatus set to Success
 [Info   :MoreCheckmarks] Quest Инициация queststatus set to Started
 [Info   :MoreCheckmarks] Quest Белка и Стрелка queststatus set to Started
@@ -1255,26 +1259,6 @@
 [Warning:DanW-QuestingBots] Using nVidia Reflex may result in long raid loading times
 [Info   :RequestHandler] [REQUEST]: /singleplayer/log
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
-[Info   :ModulePatch] Enabled patch AmandsPainkillerAddEffectPatch
-[Info   :ModulePatch] Enabled patch AmandsPainkillerDeleteEffectPatch
-[Info   :ModulePatch] Enabled patch AmandsPainTogglePatch
-[Info   :DanW-QuestingBots] The game start is not being delayed
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to AvailableForFinish
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Locked
-[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Locked
-[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Locked
-[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Locked
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to AvailableForStart
-[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to AvailableForStart
-[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to AvailableForStart
-[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to AvailableForStart
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
-[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
-[Info   :RequestHandler] [REQUEST]: /uifixes/assortUnlocks
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /uifixes/assortUnlocks
 [Info   :RequestHandler] [REQUEST]: /singleplayer/settings/raid/menu
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/raid/menu
 [Info   :NetManagerUtils] FikaGameObject has been created!
@@ -1284,8 +1268,9 @@
 [Info   :Fika.Server] Started Fika Server
 [Info   :RequestHandler] [REQUEST]: /singleplayer/settings/getRaidTime
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/getRaidTime
-[Info   :BossNotifier] Boss Glukhar @ zone BotZoneFloor2 translated to Floor 2
-[Info   :  CoopGame] Location: Laboratory
+[Info   :BossNotifier] Boss Kollontay @ zone ZoneClimova translated to Climova
+[Info   :BossNotifier] Boss Kaban @ zone ZoneCarShowroom translated to Car Showroom
+[Info   :  CoopGame] Location: Streets of Tarkov
 [Info   :MoreCheckmarks] Quest Проба пера queststatus set to Success
 [Info   :MoreCheckmarks] Quest Проверка на вшивость queststatus set to Success
 [Info   :MoreCheckmarks] Quest Пикник со стрельбой queststatus set to Success
@@ -1320,7 +1305,9 @@
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 7 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Садоводство. Часть 1 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
+[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
 [Info   :MoreCheckmarks] Quest Сигнал. Часть 1 queststatus set to Started
+[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 5 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 6 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 8 queststatus set to Started
@@ -1349,6 +1336,7 @@
 [Info   :MoreCheckmarks] Quest Медицинский журнал queststatus set to Started
 [Info   :MoreCheckmarks] Quest Отдых у моря queststatus set to Started
 [Info   :MoreCheckmarks] Quest Долгая дорога queststatus set to Started
+[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
 [Info   :MoreCheckmarks] Quest Аудит queststatus set to Started
 [Info   :MoreCheckmarks] Quest Перепись населения queststatus set to Started
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 4 queststatus set to Success
@@ -1367,6 +1355,7 @@
 [Info   :MoreCheckmarks] Quest Задержка отправления. Часть 1 queststatus set to Started
 [Info   :MoreCheckmarks] Quest Закрыть небо queststatus set to AvailableForStart
 [Info   :MoreCheckmarks] Quest Рука помощи queststatus set to Started
+[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
 [Info   :MoreCheckmarks] Quest Умный в гору не пойдёт queststatus set to Success
 [Info   :MoreCheckmarks] Quest Инициация queststatus set to Started
 [Info   :MoreCheckmarks] Quest Белка и Стрелка queststatus set to Started
@@ -1449,10 +1438,6 @@
 [Info   :MoreCheckmarks] Quest Боевые навыки - карабины queststatus set to Started
 [Info   :MoreCheckmarks] Quest Боевые навыки - ближний бой queststatus set to Started
 [Info   :MoreCheckmarks] Quest Боевые навыки - взрывчатка queststatus set to Started
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
-[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
 [Info   :MoreCheckmarks] Quest Устранение queststatus set to Started
 [Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
 [Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
@@ -1462,15 +1447,18 @@
 [Info   :NetManagerUtils] Setting up game variables...
 [Info   :  CoopGame] Adding debug component...
 [Info   :  CoopGame] Local player created
+[Info   :ModulePatch] Enabled patch AmandsPainkillerAddEffectPatch
+[Info   :ModulePatch] Enabled patch AmandsPainkillerDeleteEffectPatch
+[Info   :ModulePatch] Enabled patch AmandsPainTogglePatch
 [Info   :  CoopGame] Starting task to wait for host to start the raid.
-[Info   :  CoopGame] Location is 'Laboratory', skipping weather generation
+[Info   :  CoopGame] Generating and initializing weather...
 [Info   :  CoopGame] Setting Season to: Summer
 [Info   : Fika.Core] Retrieving Core settings
 [Warning:ModulePatch] __instance.BotHalloweenEvent._spawner is null skip Activate
 [Info   :ModulePatch] __instance.BotHalloweenEvent._spawner is not null run Activate
-[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/laboratory
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/maxCap/laboratory
-[Info   :ModulePatch] Set max bot cap for: laboratory from: 36 to: 19
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/TarkovStreets
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/maxCap/TarkovStreets
+[Info   :ModulePatch] Set max bot cap for: TarkovStreets from: 36 to: 23
 [Info   :RequestHandler] [REQUEST]: /QuestingBots/GetZoneAndItemQuestPositions
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /QuestingBots/GetZoneAndItemQuestPositions
 [Info   :DanW-QuestingBots] Found override settings for 14 zone or item position(s)
@@ -1482,309 +1470,296 @@
 [Info   :DanW-QuestingBots] Applying override settings for quest Секретные разработки...
 [Info   :DanW-QuestingBots] Applying override settings for quest Документы...
 [Info   :DanW-QuestingBots] Applying override settings for quest Чёрный выход...
-[Warning:DanW-QuestingBots] Waiting for LoadQuest until next frame... (Cycle times: 6, Total time: 7)
-[Info   :DanW-QuestingBots] 7 initial PMC groups will be generated (Min: 7, Max: 9)
-[Info   :DanW-QuestingBots] Max PMC's on the map (laboratory) at the same time: 9
-[Info   :DanW-QuestingBots] Generating 7 PMCs...
+[Warning:DanW-QuestingBots] Waiting for LoadQuest until next frame... (Cycle times: 10, Total time: 12)
+[Info   :DanW-QuestingBots] 13 initial PMC groups will be generated (Min: 11, Max: 15)
+[Info   :DanW-QuestingBots] Max PMC's on the map (tarkovstreets) at the same time: 8
+[Info   :RequestHandler] [REQUEST]: /QuestingBots/GetScavRaidSettings
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /QuestingBots/GetScavRaidSettings
+[Info   :DanW-QuestingBots] Spawn times for 24 PScavs: 30:00, 30:00, 30:00, 29:33, 28:25, 25:25, 25:24, 25:22, 25:03, 23:56, 23:51, 23:49, 23:43, 22:25, 21:29, 20:58, 20:56, 20:46, 20:46, 20:23, 19:47, 18:36, 17:06, 16:54
+[Info   :DanW-QuestingBots] Max PScavs on the map (tarkovstreets) at the same time: 8
+[Info   :DanW-QuestingBots] Generating 13 PMCs...
 [Info   :RequestHandler] [REQUEST]: /QuestingBots/GetUSECChance
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /QuestingBots/GetUSECChance
-[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...
 [Info   :DanW-QuestingBots] Delaying the game start until bot generation finishes...
 [Warning: DynamicAI] QuestingBots detected, destroying DynamicAI component. Use QuestingBots AI limiter instead!
 [Info   :  CoopGame] All players are loaded, continuing...
-[Warning: Fika.Core] FreeCameraController::Awake: Failed to cache BattleUI
-[Info   :  CoopGame] MatchingType: GroupLeader, Raid Code: 68GPHE
-[Warning:DanW-QuestingBots] Waiting for LoadQuest until next frame...done. (Cycle times: 6, 6, 6, 15, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 3, Total time: 5596)
+[Info   :  CoopGame] Running old spawn system. Waves: 13
+[Info   :RequestHandler] [REQUEST]: /singleplayer/scav/traitorscavhostile
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/scav/traitorscavhostile
+[Warning:DanW-QuestingBots] Waiting for LoadQuest until next frame...done. (Cycle times: 10, 6, 6, 6, 20, 6, 6, 6, 6, 6, 6, 6, 6, 7, 6, 6, 6, 6, 6, 6, 3, Total time: 2413)
 [Info   :DanW-QuestingBots] Searching for EFT quest locations...
 [Warning:DanW-QuestingBots] Waiting for ProcessTrigger until next frame... (Cycle times: 12, Total time: 12)
-[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 1)...done. (numberdjester)
-[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 2)...
-[Warning:DanW-QuestingBots] Waiting for ProcessTrigger until next frame...done. (Cycle times: 12, 6, 6, 3, Total time: 120)
-[Warning:DanW-QuestingBots] Waiting for LocateQuestItems until next frame... (Cycle times: 6, Total time: 6)
-[Warning:DanW-QuestingBots] Waiting for LocateQuestItems until next frame...done. (Cycle times: 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 0, Total time: 500)
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...done. (Spock)
+[Info   :DanW-QuestingBots] Generating easy PMC group (Number of bots: 3)...
+[Info   :  CoopGame] Running new spawn system.
+[Warning: Fika.Core] FreeCameraController::Awake: Failed to cache BattleUI
+[Info   :  CoopGame] MatchingType: GroupLeader, Raid Code: MD9YM3
+[Warning:DanW-QuestingBots] Waiting for ProcessTrigger until next frame...done. (Cycle times: 12, 8, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 6, 7, 27, 25, 10, 9, 13, 17, 6, 8, 1, Total time: 35187)
+[Warning:DanW-QuestingBots] Waiting for LocateQuestItems until next frame... (Cycle times: 23, Total time: 23)
+[Info   :DanW-QuestingBots] Waiting for 2 bot generators...
+[Info   :DanW-QuestingBots] Using override position for Записи кадастрового реестра
+[Warning:DanW-QuestingBots] Waiting for LocateQuestItems until next frame...done. (Cycle times: 23, 113, 6, 6, 6, 17, 6, 6, 7, 6, 6, 6, 6, 6, 6, 6, 7, 11, 6, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 16, 6, 6, 2, Total time: 17269)
 [Info   :DanW-QuestingBots] Searching for EFT quest locations...done.
-[Info   :DanW-QuestingBots] Adding quest for hunting boss pmcBot...
-[Info   :DanW-QuestingBots] Adding quest for hunting boss bossGluhar...
+[Info   :DanW-QuestingBots] Adding quest for hunting boss bossKolontay...
+[Info   :DanW-QuestingBots] Adding quest for hunting boss bossBoarSniper...
 [Info   :DanW-QuestingBots] Loading custom quests...
-[Info   :DanW-QuestingBots] Loading custom quests...found 60 custom quests.
+[Info   :DanW-QuestingBots] Loading custom quests...found 109 custom quests.
+[Warning:DanW-QuestingBots] Waiting for updateEFTQuestObjectives until next frame... (Cycle times: 6, Total time: 6)
+[Warning:DanW-QuestingBots] Waiting for updateEFTQuestObjectives until next frame...done. (Cycle times: 6, 6, 7, 4, Total time: 1304)
 [Info   :DanW-QuestingBots] Finished loading quest data.
 [Info   :DanW-QuestingBots] Finding static paths...
+[Warning:DanW-QuestingBots] Waiting for findStaticPaths until next frame... (Cycle times: 8, Total time: 8)
+[Warning:DanW-QuestingBots] Waiting for findStaticPaths until next frame...done. (Cycle times: 8, 1, Total time: 251)
 [Info   :DanW-QuestingBots] Finding static paths...done.
-[Info   :  CoopGame] Setting Season to: Summer
-[Info   :DanW-QuestingBots] Waiting for 1 bot generators...
-[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 2)...done. (Baliston, Ninjaweb)
+[Info   :DanW-QuestingBots] Generating easy PMC group (Number of bots: 3)...done. (Spring, HalfPotato, SilverParsnip)
 [Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 2)...
-[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 2)...done. (DewardianDev, TinglePlayerParkov)
-[Info   :DanW-QuestingBots] Generating easy PMC group (Number of bots: 1)...
-[Info   :DanW-QuestingBots] Generating easy PMC group (Number of bots: 1)...done. (Boogle)
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 2)...done. (白闲者, Traveler)
 [Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...
-[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...done. (Styrr)
-[Info   :DanW-QuestingBots] Generating 7 PMCs...done.
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...done. (DevilFlippy)
+[Info   :DanW-QuestingBots] Generating easy PMC group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating easy PMC group (Number of bots: 1)...done. (Tyfon)
+[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 3)...
+[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 3)...done. (RaiRaiTheRaichu, Lavax, nimanul)
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PMC group (Number of bots: 1)...done. (Bnuy)
+[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating hard PMC group (Number of bots: 1)...done. (cardsmen)
+[Info   :DanW-QuestingBots] Generating 13 PMCs...done.
+[Info   :DanW-QuestingBots] Generating 24 PScavs...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Феликс Торч)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Валя Вортекс)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Сеня Крымский)
+[Info   :DanW-QuestingBots] Generating impossible PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating impossible PScav group (Number of bots: 1)...done. (Дамирка Череп)
+[Info   :DanW-QuestingBots] Generating hard PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating hard PScav group (Number of bots: 1)...done. (Павлик Фриц)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Володя Чекист)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Андрей Фонарь)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 2)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 2)...done. (Ваха Толич, Ярик Морисбудиш)
+[Info   :DanW-QuestingBots] Generating easy PScav group (Number of bots: 3)...
+[Info   :DanW-QuestingBots] Generating easy PScav group (Number of bots: 3)...done. (Ромчик Флоу, Юстин Бокс, Яков Капелька)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 3)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 3)...done. (Анфим Сухарик, Аристарх Пукеш, Никита Мальчик)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Петро Новгородский)
+[Info   :DanW-QuestingBots] Generating easy PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating easy PScav group (Number of bots: 1)...done. (Глеб Кислый)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Игорь Слепой)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 2)...
+[Warning:DanW-QuestingBots] Requested 2 PScavs but only 1 were generated. Trying again...
+[Warning:DanW-QuestingBots] Requested 2 PScavs but only 1 were generated. Trying again...
+[Warning:DanW-QuestingBots] Requested 2 PScavs but only 0 were generated. Trying again...
+[Warning:DanW-QuestingBots] Requested 2 PScavs but only 0 were generated. Trying again...
+[Warning:DanW-QuestingBots] Requested 2 PScavs but only 0 were generated. Trying again...
+[Warning:DanW-QuestingBots] Requested 2 PScavs but only 1 were generated. Trying again...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 2)...done. (Андрей Балалайка, Веня Соломон)
+[Info   :DanW-QuestingBots] Generating easy PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating easy PScav group (Number of bots: 1)...done. (Витян Тиктокер)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Порфирий Стреляный)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Кэл Робокоп)
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...
+[Info   :DanW-QuestingBots] Generating normal PScav group (Number of bots: 1)...done. (Ричи Вортекс)
+[Info   :DanW-QuestingBots] Generating 24 PScavs...done.
 [Info   :DanW-QuestingBots] All bot generators have finished.
 [Error  :  CoopGame] SyncTransitControllers: TransitController was null!
 [Info   :DynamicMaps] Trying to attach peek component to BattleUI
-[Info   :  CoopGame] [SERVER] SpawnPoint: 1d3d7178-c84f-47b2-9ea6-4cd11449dbfa, InfiltrationPoint: Common
-[Info   :BossNotifier] Game started on map laboratory
+[Info   :  CoopGame] [SERVER] SpawnPoint: cfdbef81-7026-4035-af30-b22d33815b18, InfiltrationPoint: E4_5
+[Info   :BossNotifier] Game started on map TarkovStreets
 [Info   :RequestHandler] [REQUEST]: /vcql/zones/get
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /vcql/zones/get
 [Info   :DanW-QuestingBots] Spawning missed boss waves...
-[Info   :DanW-QuestingBots] Spawning boss wave 1/0 for bot type bossGluhar with 3 total bots...
+[Info   :DanW-QuestingBots] Spawning boss wave 1/0 for bot type bossKolontay with 3 total bots...
+[Info   :DanW-QuestingBots] Spawning boss wave 2/0 for bot type bossBoar with 7 total bots...
 [Info   :DanW-QuestingBots] Spawned all missed boss waves
-[Info   :BossNotifier] Glukhar has been located near Floor 2
-[Info   :DanW-QuestingBots] Trying to spawn 5 PMC group(s)...
-[Info   :DanW-QuestingBots] Spawning PMC group at (-269.90, -2.06, -392.32)...
-[Info   :DanW-QuestingBots] Spawned bot numberdjester (Name: Bot1, Level: 41)
-[Info   :DanW-QuestingBots] Spawning PMC group at (-253.24, 4.14, -279.92), (-253.22, 4.14, -282.73)...
-[Info   :DanW-QuestingBots] Spawned bot Baliston (Name: Bot2, Level: 47)
-[Info   :DanW-QuestingBots] Spawned bot Ninjaweb (Name: Bot3, Level: 41)
-[Info   :DanW-QuestingBots] Spawning PMC group at (-166.67, 0.06, -416.11), (-168.21, 0.06, -417.04)...
-[Info   :DanW-QuestingBots] Spawned bot DewardianDev (Name: Bot4, Level: 49)
-[Info   :DanW-QuestingBots] Spawned bot TinglePlayerParkov (Name: Bot5, Level: 33)
-[Info   :DanW-QuestingBots] Spawning PMC group at (-118.55, 0.01, -252.22)...
-[Info   :DanW-QuestingBots] Spawned bot Boogle (Name: Bot6, Level: 12)
-[Info   :DanW-QuestingBots] Spawning PMC group at (-170.74, -3.99, -344.55)...
-[Info   :DanW-QuestingBots] Spawned bot Styrr (Name: Bot7, Level: 53)
-[Info   :DanW-QuestingBots] Trying to spawn 5 PMC group(s)...done.
+[Info   :BossNotifier] Kollontay has been located near Climova
+[Info   :BossNotifier] Kaban has been located near Car Showroom
 [Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/getBotBehaviours/
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/getBotBehaviours/
 [Warning:ModulePatch] Cached ai brain weights in client
-[Warning:ModulePatch] Updated spt bot numberdjester: pmcUSEC to use: pmcBot brain
-[Info   :DanW-QuestingBots] Initial spawn type for bot numberdjester (Name: Bot1, Level: 41): pmcUSEC
-[Info   :DanW-QuestingBots] Spawned bot #1: numberdjester (Name: Bot1, Level: 41) (Usec)
-[Info   :DanW-QuestingBots] Setting objective for numberdjester (Name: Bot1, Level: 41) (Brain type: PMC)...
-[Info   :DanW-QuestingBots] Bot numberdjester (Name: Bot1, Level: 41) is now doing Step #1 for objective Spawn Point (-213.12, 0.05, -378.76) in quest Boss Hunter (bossGluhar)
-[Warning:ModulePatch] Updated spt bot Ninjaweb: pmcUSEC to use: pmcBot brain
-[Info   :DanW-QuestingBots] Initial spawn type for bot Ninjaweb (Name: Bot3, Level: 41): pmcUSEC
-[Info   :DanW-QuestingBots] Spawned bot #2: Ninjaweb (Name: Bot3, Level: 41) (Usec)
-[Info   :DanW-QuestingBots] Setting objective for Ninjaweb (Name: Bot3, Level: 41) (Brain type: PMC)...
-[Info   :DanW-QuestingBots] Bot Ninjaweb (Name: Bot3, Level: 41) is now doing Step #1 for objective Spawn Point (-199.41, 4.13, -296.50) in quest Boss Hunter (bossGluhar)
-[Warning:ModulePatch] Updated spt bot Baliston: pmcUSEC to use: pmcBot brain
-[Info   :DanW-QuestingBots] Initial spawn type for bot Baliston (Name: Bot2, Level: 47): pmcUSEC
-[Info   :DanW-QuestingBots] Spawned bot #3: Baliston (Name: Bot2, Level: 47) (Usec)
-[Warning:ModulePatch] Updated spt bot TinglePlayerParkov: pmcBEAR to use: pmcBot brain
-[Info   :DanW-QuestingBots] Initial spawn type for bot TinglePlayerParkov (Name: Bot5, Level: 33): pmcBEAR
-[Info   :DanW-QuestingBots] Spawned bot #4: TinglePlayerParkov (Name: Bot5, Level: 33) (Bear)
-[Info   :DanW-QuestingBots] Bot Ninjaweb (Name: Bot3, Level: 41) is now a follower for Baliston (Name: Bot2, Level: 47)
-[Info   :DanW-QuestingBots] Setting objective for Baliston (Name: Bot2, Level: 47) (Brain type: PMC)...
-[Info   :DanW-QuestingBots] Bot Baliston (Name: Bot2, Level: 47) is now doing Step #1 for objective Red Room: Objective #1 in quest Red Room
-[Warning:ModulePatch] Updated spt bot Boogle: pmcBEAR to use: pmcBot brain
-[Info   :DanW-QuestingBots] Initial spawn type for bot Boogle (Name: Bot6, Level: 12): pmcBEAR
-[Info   :DanW-QuestingBots] Spawned bot #5: Boogle (Name: Bot6, Level: 12) (Bear)
-[Info   :DanW-QuestingBots] Setting objective for TinglePlayerParkov (Name: Bot5, Level: 33) (Brain type: PMC)...
-[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) is now doing Step #1 for objective Spawn Point (-127.77, 4.20, -382.27) in quest Boss Hunter (pmcBot)
-[Warning:ModulePatch] Updated spt bot Styrr: pmcBEAR to use: pmcBot brain
-[Info   :DanW-QuestingBots] Initial spawn type for bot Styrr (Name: Bot7, Level: 53): pmcBEAR
-[Info   :DanW-QuestingBots] Spawned bot #6: Styrr (Name: Bot7, Level: 53) (Bear)
-[Info   :DanW-QuestingBots] Setting objective for Boogle (Name: Bot6, Level: 12) (Brain type: PMC)...
-[Info   :DanW-QuestingBots] Bot Boogle (Name: Bot6, Level: 12) is now doing Step #1 for objective Spawn Rush: Objective #1 in quest Spawn Rush
-[Warning:ModulePatch] Updated spt bot DewardianDev: pmcBEAR to use: pmcBot brain
-[Info   :DanW-QuestingBots] Initial spawn type for bot DewardianDev (Name: Bot4, Level: 49): pmcBEAR
-[Info   :DanW-QuestingBots] Spawned bot #7: DewardianDev (Name: Bot4, Level: 49) (Bear)
-[Info   :DanW-QuestingBots] Setting objective for Styrr (Name: Bot7, Level: 53) (Brain type: PMC)...
-[Info   :DanW-QuestingBots] Bot Styrr (Name: Bot7, Level: 53) is now doing Step #1 for objective Main Working Area West: Objective #5 in quest Main Working Area West
-[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) is now a follower for DewardianDev (Name: Bot4, Level: 49)
-[Info   :DanW-QuestingBots] Setting objective for DewardianDev (Name: Bot4, Level: 49) (Brain type: PMC)...
-[Info   :DanW-QuestingBots] Bot DewardianDev (Name: Bot4, Level: 49) is now doing Step #1 for objective Blue Room Entry: Objective #1 in quest Blue Room Entry
-[Info   :DanW-QuestingBots] Bot Baliston (Name: Bot2, Level: 47) cannot find a complete path to its objective (Step #1 for objective Red Room: Objective #1 in quest Red Room). Trying anyway. Distance from end of path to objective: 3.870729
-[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) is no longer doing Step #1 for objective Spawn Point (-127.77, 4.20, -382.27) in quest Boss Hunter (pmcBot)
-[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) is no longer doing Step #1 for objective Spawn Point (-127.77, 4.20, -382.27) in quest Boss Hunter (pmcBot)
-[Info   :DynamicMaps] MapScreen: Loading map Labs (TarkovDev)
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 4 AS COLOR 00FFFF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 4 AS COLOR 00FFFF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :DanW-QuestingBots] Spawning boss wave 2/0 for bot type pmcBot with 2 total bots...
-[Error  :LootingBots] ([pmcUSEC] Bot2) Has been stuck trying to reach: Медсумка СМУ06. Ignoring
-[Info   :BossNotifier] Glukhar has spawned at -199, 4, -296 on laboratory
-[Info   :RequestHandler] [REQUEST]: /singleplayer/scav/traitorscavhostile
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/scav/traitorscavhostile
-[Info   :BossNotifier] Glukhar has been located near Floor 2 ✓
-[Info   :DanW-QuestingBots] Initial spawn type for bot Глухарь (Name: Bot8, Level: 1): bossGluhar
-[Info   :DanW-QuestingBots] Spawned bot #8: Глухарь (Name: Bot8, Level: 1) (Savage)
-[Warning:DanW-QuestingBots] numberdjester (Name: Bot1, Level: 41) is stuck. Trying to jump...
-[Info   :DanW-QuestingBots] Bot numberdjester (Name: Bot1, Level: 41) cannot find a complete path to its objective (Step #1 for objective Spawn Point (-213.12, 0.05, -378.76) in quest Boss Hunter (bossGluhar)). Trying anyway. Distance from end of path to objective: 0.02300243
-[Info   :DanW-QuestingBots] Bot Styrr (Name: Bot7, Level: 53) has completed Step #1 for objective Main Working Area West: Objective #5 in quest Main Working Area West
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck. Trying to jump...
-[Info   :DanW-QuestingBots] Bot Styrr (Name: Bot7, Level: 53) is now doing Step #1 for objective Main Working Area West: Objective #4 in quest Main Working Area West
-[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
-[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
-[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
-[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
-[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck, but countermeasures are unavailable until its grounded.
-[Warning:DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) is stuck. Trying to vault...
-[Warning:DanW-QuestingBots] numberdjester (Name: Bot1, Level: 41) is stuck. Trying to vault...
-[Warning:DanW-QuestingBots] Ninjaweb (Name: Bot3, Level: 41) is stuck. Trying to jump...
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Warning:DanW-QuestingBots] numberdjester (Name: Bot1, Level: 41) is stuck. Trying to jump...
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Warning:DanW-QuestingBots] numberdjester (Name: Bot1, Level: 41) is stuck. Trying to vault...
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :DanW-QuestingBots] Initial spawn type for bot Орел (Name: Bot9, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #9: Орел (Name: Bot9, Level: 1) (Savage)
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 2 AS COLOR 0000FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 2 AS COLOR 0000FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
-[Info   :DanW-QuestingBots] Spawning boss wave 3/0 for bot type pmcBot with 3 total bots...
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :DanW-QuestingBots] Styrr (Name: Bot7, Level: 53) (PMC) was killed by Глухарь (Name: Bot8, Level: 1) (Scav). Initial PMC's remaining: 6
-[Info   :DanW-QuestingBots] Bot Styrr (Name: Bot7, Level: 53) has failed Step #1 for objective Main Working Area West: Objective #4 in quest Main Working Area West
-[Warning: DynamicAI] Could not remove Bot7 from bots list.
-[Info   :DanW-QuestingBots] Initial spawn type for bot Утюг (Name: Bot11, Level: 1): followerGluharAssault
-[Info   :DanW-QuestingBots] Spawned bot #10: Утюг (Name: Bot11, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Initial spawn type for bot Кадровик (Name: Bot10, Level: 1): followerGluharAssault
-[Info   :DanW-QuestingBots] Spawned bot #11: Кадровик (Name: Bot10, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Утюг (Name: Bot11, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
-[Info   :DanW-QuestingBots] Bot Кадровик (Name: Bot10, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
-[Info   :DanW-QuestingBots] Initial spawn type for bot Вепрь (Name: Bot12, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #12: Вепрь (Name: Bot12, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Вепрь (Name: Bot12, Level: 1) is now a follower for Орел (Name: Bot9, Level: 1)
-[Info   :DanW-QuestingBots] Switch Use has changed from Shut to Interacting. Interacting Player: Gent
-[Info   :DanW-QuestingBots] Switch Use has changed from Interacting to Open. Interacting Player: Gent
-[Info   :DanW-QuestingBots] Initial spawn type for bot Барс (Name: Bot13, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #13: Барс (Name: Bot13, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Switch Use has changed from Open to Shut. Interacting Player: Gent
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :DanW-QuestingBots] Boogle (Name: Bot6, Level: 12) (PMC) was killed by Кадровик (Name: Bot10, Level: 1) (Scav). Initial PMC's remaining: 5
-[Info   :DanW-QuestingBots] Bot Boogle (Name: Bot6, Level: 12) has failed Step #1 for objective Spawn Rush: Objective #1 in quest Spawn Rush
-[Warning: DynamicAI] Could not remove Bot6 from bots list.
-[Info   :DanW-QuestingBots] Initial spawn type for bot Грустный (Name: Bot14, Level: 1): followerGluharSecurity
-[Info   :DanW-QuestingBots] Spawned bot #14: Грустный (Name: Bot14, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Initial spawn type for bot Белый (Name: Bot15, Level: 1): followerGluharSecurity
-[Info   :DanW-QuestingBots] Spawned bot #15: Белый (Name: Bot15, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Грустный (Name: Bot14, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
-[Info   :DanW-QuestingBots] Bot Белый (Name: Bot15, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
-[Info   :DanW-QuestingBots] Вепрь (Name: Bot12, Level: 1) (Scav) was killed by Ninjaweb (Name: Bot3, Level: 41) (PMC). Initial PMC's remaining: 5
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :DanW-QuestingBots] Initial spawn type for bot Могильник (Name: Bot17, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #16: Могильник (Name: Bot17, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Initial spawn type for bot Акула (Name: Bot16, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #17: Акула (Name: Bot16, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Могильник (Name: Bot17, Level: 1) is now a follower for Барс (Name: Bot13, Level: 1)
-[Info   :DanW-QuestingBots] Bot Акула (Name: Bot16, Level: 1) is now a follower for Барс (Name: Bot13, Level: 1)
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :DanW-QuestingBots] Initial spawn type for bot Кочерга (Name: Bot19, Level: 1): followerGluharScout
-[Info   :DanW-QuestingBots] Spawned bot #18: Кочерга (Name: Bot19, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Кочерга (Name: Bot19, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 4 AS COLOR 00FFFF
-[Info   :DanW-QuestingBots] Initial spawn type for bot Витёк (Name: Bot18, Level: 1): followerGluharScout
-[Info   :DanW-QuestingBots] Spawned bot #19: Витёк (Name: Bot18, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Витёк (Name: Bot18, Level: 1) is now a follower for Глухарь (Name: Bot8, Level: 1)
-[Info   :DanW-QuestingBots] Ninjaweb (Name: Bot3, Level: 41) (PMC) was killed by Белый (Name: Bot15, Level: 1) (Scav). Initial PMC's remaining: 4
-[Info   :DanW-QuestingBots] Bot Ninjaweb (Name: Bot3, Level: 41) has failed Step #1 for objective Spawn Point (-199.41, 4.13, -296.50) in quest Boss Hunter (bossGluhar)
-[Warning: DynamicAI] Could not remove Bot3 from bots list.
-[Info   :DanW-QuestingBots] TinglePlayerParkov (Name: Bot5, Level: 33) (PMC) was killed by TinglePlayerParkov (Name: Bot5, Level: 33) (PMC). Initial PMC's remaining: 3
-[Info   :DanW-QuestingBots] Bot TinglePlayerParkov (Name: Bot5, Level: 33) has failed Step #1 for objective Spawn Point (-127.77, 4.20, -382.27) in quest Boss Hunter (pmcBot)
-[Warning: DynamicAI] Could not remove Bot5 from bots list.
-[Info   :DanW-QuestingBots] Baliston (Name: Bot2, Level: 47) (PMC) was killed by Утюг (Name: Bot11, Level: 1) (Scav). Initial PMC's remaining: 2
-[Info   :DanW-QuestingBots] Bot Baliston (Name: Bot2, Level: 47) has failed Step #1 for objective Red Room: Objective #1 in quest Red Room
-[Warning: DynamicAI] Could not remove Bot2 from bots list.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: MRE. Ignoring
-[Error  :LootingBots] ([pmcBot] Bot16) Has been stuck trying to reach: GP. Ignoring
-[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: Водка. Ignoring
-[Info   :DanW-QuestingBots] DewardianDev (Name: Bot4, Level: 49) (PMC) was killed by Утюг (Name: Bot11, Level: 1) (Scav). Initial PMC's remaining: 1
-[Info   :DanW-QuestingBots] Bot DewardianDev (Name: Bot4, Level: 49) has failed Step #1 for objective Blue Room Entry: Objective #1 in quest Blue Room Entry
-[Warning: DynamicAI] Could not remove Bot4 from bots list.
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: Искра. Ignoring
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 3 AS COLOR FF00FF
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :MoreCheckmarks] TAKE NEEDED, NOT FOR AREA, COLORING FOR NEEDED FOR INDEX 0 AS COLOR FFEB04
-[Info   :DanW-QuestingBots] Глухарь (Name: Bot8, Level: 1) (Scav) was killed by Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC). Initial PMC's remaining: 1
-[Warning:DanW-QuestingBots] Could not find a new boss to replace Глухарь (Name: Bot8, Level: 1)
-[Info   :DanW-QuestingBots] Грустный (Name: Bot14, Level: 1) (Scav) was killed by Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC). Initial PMC's remaining: 1
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :DanW-QuestingBots] Spawning boss wave 4/0 for bot type pmcBot with 3 total bots...
-[Info   :DanW-QuestingBots] Белый (Name: Bot15, Level: 1) (Scav) was killed by Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC). Initial PMC's remaining: 1
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :DanW-QuestingBots] Кочерга (Name: Bot19, Level: 1) (Scav) was killed by Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC). Initial PMC's remaining: 1
-[Info   :DanW-QuestingBots] Initial spawn type for bot Росомаха (Name: Bot20, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #20: Росомаха (Name: Bot20, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Initial spawn type for bot Пума (Name: Bot21, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #21: Пума (Name: Bot21, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Пума (Name: Bot21, Level: 1) is now a follower for Росомаха (Name: Bot20, Level: 1)
-[Info   :DanW-QuestingBots] Initial spawn type for bot Гепард (Name: Bot22, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #22: Гепард (Name: Bot22, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Гепард (Name: Bot22, Level: 1) is now a follower for Росомаха (Name: Bot20, Level: 1)
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :DanW-QuestingBots] Gent (Name: Main_PlayerSuperior(Clone), Level: 34) (PMC) was killed by Витёк (Name: Bot18, Level: 1) (Scav). Initial PMC's remaining: 1
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Info   :   Console] No valid MagDumpPouch grids found.
-[Error  :LootingBots] ([pmcBot] Bot22) Has been stuck trying to reach: Пропан. Ignoring
-[Info   :DanW-QuestingBots] Spawning boss wave 5/0 for bot type pmcBot with 2 total bots...
-[Info   :DanW-QuestingBots] Initial spawn type for bot Кондор (Name: Bot23, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #23: Кондор (Name: Bot23, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Initial spawn type for bot Кобра (Name: Bot24, Level: 1): pmcBot
-[Info   :DanW-QuestingBots] Spawned bot #24: Кобра (Name: Bot24, Level: 1) (Savage)
-[Info   :DanW-QuestingBots] Bot Кобра (Name: Bot24, Level: 1) is now a follower for Кондор (Name: Bot23, Level: 1)
-[Error  :LootingBots] ([pmcBot] Bot22) Has been stuck trying to reach: AHF1-M. Ignoring
-[Error  :LootingBots] ([pmcBot] Bot22) Has been stuck trying to reach: Плакат. Ignoring
-[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: СП-5. Ignoring
-[Error  :LootingBots] ([pmcBot] Bot17) Has been stuck trying to reach: СП8. Ignoring
-[Info   :   Console] No valid MagDumpPouch grids found.
+[Warning:ModulePatch] Updated assault bot Нойс Билетик to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Нойс Билетик (Name: Bot1, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Нойс Билетик (Name: Bot1, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Богдан Вортекс to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Богдан Вортекс (Name: Bot2, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Богдан Вортекс (Name: Bot2, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Ванька Шниппель to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Ванька Шниппель (Name: Bot3, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Ванька Шниппель (Name: Bot3, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Сава Почетный to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Сава Почетный (Name: Bot4, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Сава Почетный (Name: Bot4, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Витек Яебу to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Витек Яебу (Name: Bot5, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Витек Яебу (Name: Bot5, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Миха Скрипка to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Миха Скрипка (Name: Bot6, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Миха Скрипка (Name: Bot6, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Радж Панк to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Радж Панк (Name: Bot7, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Радж Панк (Name: Bot7, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Леня Яселька to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Леня Яселька (Name: Bot8, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Леня Яселька (Name: Bot8, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Терентий Дизайнер to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Терентий Дизайнер (Name: Bot9, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Терентий Дизайнер (Name: Bot9, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Саня Кучерявый to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Саня Кучерявый (Name: Bot10, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Саня Кучерявый (Name: Bot10, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Тимофей Полторашка to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Тимофей Полторашка (Name: Bot11, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Тимофей Полторашка (Name: Bot11, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Стёпа Бригадир to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Стёпа Бригадир (Name: Bot12, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Стёпа Бригадир (Name: Bot12, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Пахомий Сколопендра to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Пахомий Сколопендра (Name: Bot13, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Пахомий Сколопендра (Name: Bot13, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Арсений Морфлот to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Арсений Морфлот (Name: Bot14, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Арсений Морфлот (Name: Bot14, Level: 1) (0/0) (Savage)
+[Warning:ModulePatch] Updated assault bot Кондратий БОБР to use: assault brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Кондратий БОБР (Name: Bot15, Level: 1): assault
+[Info   :DanW-QuestingBots] Spawned boss Кондратий БОБР (Name: Bot15, Level: 1) (0/0) (Savage)
+[Info   :DanW-QuestingBots] Trying to spawn 5 PMC group(s)...
+[Info   :DanW-QuestingBots] Spawning PMC group at (232.64, 3.49, 409.53)...
+[Info   :DanW-QuestingBots] Spawned bot Spock (Name: Bot16, Level: 15)
+[Info   :DanW-QuestingBots] Spawning PMC group at (-195.95, 4.99, 389.31), (-193.90, 4.99, 389.21), (-195.64, 4.99, 387.01)...
+[Info   :DanW-QuestingBots] Spawned bot Spring (Name: Bot17, Level: 26)
+[Info   :DanW-QuestingBots] Spawned bot HalfPotato (Name: Bot18, Level: 18)
+[Info   :DanW-QuestingBots] Spawned bot SilverParsnip (Name: Bot19, Level: 11)
+[Info   :DanW-QuestingBots] Spawning PMC group at (245.03, -3.21, -38.56), (244.86, -3.21, -40.06)...
+[Info   :DanW-QuestingBots] Spawned bot 白闲者 (Name: Bot20, Level: 11)
+[Info   :DanW-QuestingBots] Spawned bot Traveler (Name: Bot21, Level: 30)
+[Info   :DanW-QuestingBots] Spawning PMC group at (186.31, 1.65, 186.47)...
+[Info   :DanW-QuestingBots] Spawned bot DevilFlippy (Name: Bot22, Level: 41)
+[Info   :DanW-QuestingBots] Spawning PMC group at (50.60, 4.47, -134.51)...
+[Info   :DanW-QuestingBots] Spawned bot Tyfon (Name: Bot23, Level: 49)
+[Info   :DanW-QuestingBots] Trying to spawn 5 PMC group(s)...done.
+[Warning:ModulePatch] Updated spt bot HalfPotato: pmcBEAR to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot HalfPotato (Name: Bot18, Level: 18): pmcBEAR
+[Info   :DanW-QuestingBots] Spawned bot #16: HalfPotato (Name: Bot18, Level: 18) (Bear)
+[Warning:ModulePatch] Updated spt bot 白闲者: pmcUSEC to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot 白闲者 (Name: Bot20, Level: 11): pmcUSEC
+[Info   :DanW-QuestingBots] Spawned bot #17: 白闲者 (Name: Bot20, Level: 11) (Usec)
+[Info   :DanW-QuestingBots] Setting objective for HalfPotato (Name: Bot18, Level: 18) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot HalfPotato (Name: Bot18, Level: 18) is now doing Step #1 for objective Zone quest_zone_place_c14_revx_1 in quest Ревизия. Улицы Таркова
+[Info   :DanW-QuestingBots] Setting objective for 白闲者 (Name: Bot20, Level: 11) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot 白闲者 (Name: Bot20, Level: 11) is now doing Step #1 for objective IT Firm Office: Objective #9 in quest IT Firm Office
+[Warning:ModulePatch] Updated spt bot Spock: pmcBEAR to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Spock (Name: Bot16, Level: 15): pmcBEAR
+[Info   :DanW-QuestingBots] Spawned bot #18: Spock (Name: Bot16, Level: 15) (Bear)
+[Warning:ModulePatch] Updated spt bot Spring: pmcBEAR to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Spring (Name: Bot17, Level: 26): pmcBEAR
+[Info   :DanW-QuestingBots] Spawned bot #19: Spring (Name: Bot17, Level: 26) (Bear)
+[Warning:ModulePatch] Updated spt bot DevilFlippy: pmcUSEC to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot DevilFlippy (Name: Bot22, Level: 41): pmcUSEC
+[Info   :DanW-QuestingBots] Spawned bot #20: DevilFlippy (Name: Bot22, Level: 41) (Usec)
+[Warning:ModulePatch] Updated spt bot Tyfon: pmcUSEC to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Tyfon (Name: Bot23, Level: 49): pmcUSEC
+[Info   :DanW-QuestingBots] Spawned bot #21: Tyfon (Name: Bot23, Level: 49) (Usec)
+[Info   :DanW-QuestingBots] Bot HalfPotato (Name: Bot18, Level: 18) cannot find a complete path to its objective (Step #1 for objective Zone quest_zone_place_c14_revx_1 in quest Ревизия. Улицы Таркова). Trying anyway. Distance from end of path to objective: 1.749405
+[Info   :DanW-QuestingBots] Setting objective for Spock (Name: Bot16, Level: 15) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot Spock (Name: Bot16, Level: 15) is now doing Step #1 for objective Zone quest_produkt4 in quest Продразведка
+[Info   :DanW-QuestingBots] Setting objective for Spring (Name: Bot17, Level: 26) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot Spring (Name: Bot17, Level: 26) is now doing Step #1 for objective Zone quest_zone_kill_cinema in quest Городской жандарм. Прерванный сеанс
+[Info   :DanW-QuestingBots] Setting objective for DevilFlippy (Name: Bot22, Level: 41) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot DevilFlippy (Name: Bot22, Level: 41) is now doing Step #1 for objective Zone Zone_death_strending in quest Что-то мне это напоминает...
+[Info   :DanW-QuestingBots] Setting objective for Tyfon (Name: Bot23, Level: 49) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot Tyfon (Name: Bot23, Level: 49) is now doing Step #1 for objective Cardinal East Building: Objective #1 in quest Cardinal East Building
+[Warning:ModulePatch] Updated spt bot Traveler: pmcUSEC to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot Traveler (Name: Bot21, Level: 30): pmcUSEC
+[Info   :DanW-QuestingBots] Spawned bot #22: Traveler (Name: Bot21, Level: 30) (Usec)
+[Info   :DanW-QuestingBots] Bot 白闲者 (Name: Bot20, Level: 11) cannot find a complete path to its objective (Step #1 for objective IT Firm Office: Objective #9 in quest IT Firm Office). Trying anyway. Distance from end of path to objective: 15.95655
+[Info   :DanW-QuestingBots] Bot Traveler (Name: Bot21, Level: 30) is now a follower for 白闲者 (Name: Bot20, Level: 11)
+[Info   :DanW-QuestingBots] Setting objective for Traveler (Name: Bot21, Level: 30) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot Traveler (Name: Bot21, Level: 30) is now doing Step #1 for objective Zone Bank_points_16 in quest Финансовая пирамида
+[Info   :DanW-QuestingBots] Bot DevilFlippy (Name: Bot22, Level: 41) cannot find a complete path to its objective (Step #1 for objective Zone Zone_death_strending in quest Что-то мне это напоминает...). Trying anyway. Distance from end of path to objective: 5.457617
+[Warning:ModulePatch] Updated spt bot SilverParsnip: pmcBEAR to use: pmcBot brain
+[Info   :DanW-QuestingBots] Initial spawn type for bot SilverParsnip (Name: Bot19, Level: 11): pmcBEAR
+[Info   :DanW-QuestingBots] Spawned bot #23: SilverParsnip (Name: Bot19, Level: 11) (Bear)
+[Info   :DanW-QuestingBots] Setting objective for SilverParsnip (Name: Bot19, Level: 11) (Brain type: PMC)...
+[Info   :DanW-QuestingBots] Bot SilverParsnip (Name: Bot19, Level: 11) is now doing Step #1 for objective Finance Building: Objective #4 in quest Finance Building
+[Info   :DanW-QuestingBots] Bot HalfPotato (Name: Bot18, Level: 18) is now a follower for Spring (Name: Bot17, Level: 26)
+[Info   :DanW-QuestingBots] Bot SilverParsnip (Name: Bot19, Level: 11) is now a follower for Spring (Name: Bot17, Level: 26)
+[Info   :DanW-QuestingBots] Bot HalfPotato (Name: Bot18, Level: 18) is no longer doing Step #1 for objective Zone quest_zone_place_c14_revx_1 in quest Ревизия. Улицы Таркова
+[Info   :DynamicMaps] MapScreen: Loading map Streets of Tarkov (TarkovData)
+[Warning:DynamicMaps] FollowingTransform for TransformMapMarker has been disabled without removing the map marker
+[Info   :BossNotifier] Kaban has spawned at 71, 2, 266 on TarkovStreets
+[Info   :DanW-QuestingBots] Spawning boss wave 3/0 for bot type bossBoarSniper with 2 total bots...
+[Info   :BossNotifier] Kollontay has been located near Climova
+[Info   :BossNotifier] Kaban has been located near Car Showroom ✓
+[Info   :DanW-QuestingBots] Bot Tyfon (Name: Bot23, Level: 49) has completed Step #1 for objective Cardinal East Building: Objective #1 in quest Cardinal East Building
+[Info   :Fika.Server] Sending airdrop details, type: Weapon, id: 2
+[Info   :DanW-QuestingBots] Initial spawn type for bot Кабан (Name: Bot24, Level: 1): bossBoar
+[Info   :DanW-QuestingBots] Spawned bot #24: Кабан (Name: Bot24, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Tyfon (Name: Bot23, Level: 49) is now doing Step #1 for objective Cardinal East Building: Objective #2 in quest Cardinal East Building
+[Info   :DanW-QuestingBots] Initial spawn type for bot Илья Хряк (Name: Bot25, Level: 1): shooterBTR
+[Info   :DanW-QuestingBots] Spawned bot #25: Илья Хряк (Name: Bot25, Level: 1) (Savage)
+[Error  :LootingBots] ([assault] Bot5) Has been stuck trying to reach: Ящик медобеспечения. Ignoring
+[Error  :LootingBots] ([assault] Bot4) Has been stuck trying to reach: УС. Ignoring
+[Error  :LootingBots] ([assault] Bot5) Has been stuck trying to reach: Оружейный ящик. Ignoring
+[Warning:DanW-QuestingBots] Spock (Name: Bot16, Level: 15) is stuck. Trying to jump...
+[Info   :DanW-QuestingBots] Bot Spock (Name: Bot16, Level: 15) cannot find a complete path to its objective (Step #1 for objective Zone quest_produkt4 in quest Продразведка). Trying anyway. Distance from end of path to objective: 0
+[Info   :BossNotifier] Kollontay has spawned at -153, 0, -64 on TarkovStreets
+[Info   :BossNotifier] Kollontay has been located near Climova ✓
+[Info   :BossNotifier] Kaban has been located near Car Showroom ✓
+[Info   :DanW-QuestingBots] Initial spawn type for bot Коллонтай (Name: Bot26, Level: 1): bossKolontay
+[Info   :DanW-QuestingBots] Spawned bot #26: Коллонтай (Name: Bot26, Level: 1) (Savage)
+[Error  :LootingBots] ([assault] Bot4) Has been stuck trying to reach: Репеллент. Ignoring
+[Error  :LootingBots] ([assault] Bot15) Has been stuck trying to reach: Аккум. Ignoring
+[Info   :DanW-QuestingBots] Initial spawn type for bot Мышь (Name: Bot27, Level: 1): bossBoarSniper
+[Info   :DanW-QuestingBots] Spawned bot #27: Мышь (Name: Bot27, Level: 1) (Savage)
+[Warning:DanW-QuestingBots] No SAIN brain layers found for brain type BoarSniper
+[Error  :LootingBots] ([assault] Bot5) Has been stuck trying to reach: РГ028. Ignoring
+[Error  :LootingBots] ([assault] Bot4) Has been stuck trying to reach: Malboro. Ignoring
+[Info   :DanW-QuestingBots] Initial spawn type for bot Наперсточник (Name: Bot28, Level: 1): bossBoarSniper
+[Info   :DanW-QuestingBots] Spawned bot #28: Наперсточник (Name: Bot28, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Наперсточник (Name: Bot28, Level: 1) is now a follower for Мышь (Name: Bot27, Level: 1)
+[Info   :DanW-QuestingBots] Initial spawn type for bot Пэпс брат (Name: Bot29, Level: 1): followerKolontayAssault
+[Info   :DanW-QuestingBots] Spawned bot #29: Пэпс брат (Name: Bot29, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Пэпс брат (Name: Bot29, Level: 1) is now a follower for Коллонтай (Name: Bot26, Level: 1)
+[Warning:DanW-QuestingBots] No SAIN brain layers found for brain type FlKlnAslt
+[Warning:DanW-QuestingBots] Spock (Name: Bot16, Level: 15) is stuck. Trying to jump...
+[Info   :DanW-QuestingBots] Initial spawn type for bot Главдурь брат (Name: Bot30, Level: 1): followerKolontayAssault
+[Info   :DanW-QuestingBots] Spawned bot #30: Главдурь брат (Name: Bot30, Level: 1) (Savage)
+[Info   :DanW-QuestingBots] Bot Главдурь брат (Name: Bot30, Level: 1) is now a follower for Коллонтай (Name: Bot26, Level: 1)
+[Error  :LootingBots] ([assault] Bot4) Has been stuck trying to reach: D бат.. Ignoring
+[Error  :LootingBots] ([pmcBEAR] Bot17) Has been stuck trying to reach: Союз. Ignoring
+[Warning:DanW-QuestingBots] Tyfon (Name: Bot23, Level: 49) is stuck. Trying to jump...
+[Info   :DanW-QuestingBots] Bot Tyfon (Name: Bot23, Level: 49) cannot find a complete path to its objective (Step #1 for objective Cardinal East Building: Objective #2 in quest Cardinal East Building). Trying anyway. Distance from end of path to objective: 0
+[Info   :DanW-QuestingBots] Bot Spring (Name: Bot17, Level: 26) has completed Step #1 for objective Zone quest_zone_kill_cinema in quest Городской жандарм. Прерванный сеанс
+[Error  :LootingBots] ([assault] Bot5) Has been stuck trying to reach: M61. Ignoring
 [Info   :CoopHandler] F8 pressed, attempting to extract!
+[Warning:DanW-QuestingBots] Could not find a new boss to replace Коллонтай (Name: Bot26, Level: 1)
+[Error  :LootingBots] ([assault] Bot7) System.NullReferenceException: Object reference not set to an instance of an object
+  at Fika.Core.Coop.BotClasses.CoopBotInventoryController.vmethod_1 (BaseInventoryOperationClass operation, Comfort.Common.Callback callback) [0x0005b] in <d82bf06b4d654eb49d6c4ab9ac5041b5>:0 
+  at (wrapper dynamic-method) TraderControllerClass.DMD<TraderControllerClass::RunNetworkTransaction>(TraderControllerClass,IRaiseEvents,Comfort.Common.Callback)
+  at TraderControllerClass.TryRunNetworkTransaction (GStruct454 operationResult, Comfort.Common.Callback callback) [0x00049] in <13b3da31885d4b8d827d4190298e367f>:0 
+  at EFT.Player+PlayerInventoryController.TryRunNetworkTransaction (GStruct454 operationResult, Comfort.Common.Callback callback) [0x00012] in <13b3da31885d4b8d827d4190298e367f>:0 
+  at LootingBots.Patch.Components.TransactionController.MoveItem (LootingBots.Patch.Components.TransactionController+MoveAction moveAction) [0x00214] in <f71915912c42404bb6cba859c6005f42>:0 
+[Error  :LootingBots] ([assault] Bot12) System.NullReferenceException: Object reference not set to an instance of an object
+  at Fika.Core.Coop.BotClasses.CoopBotInventoryController.vmethod_1 (BaseInventoryOperationClass operation, Comfort.Common.Callback callback) [0x0005b] in <d82bf06b4d654eb49d6c4ab9ac5041b5>:0 
+  at (wrapper dynamic-method) TraderControllerClass.DMD<TraderControllerClass::RunNetworkTransaction>(TraderControllerClass,IRaiseEvents,Comfort.Common.Callback)
+  at TraderControllerClass.TryRunNetworkTransaction (GStruct454 operationResult, Comfort.Common.Callback callback) [0x00049] in <13b3da31885d4b8d827d4190298e367f>:0 
+  at EFT.Player+PlayerInventoryController.TryRunNetworkTransaction (GStruct454 operationResult, Comfort.Common.Callback callback) [0x00012] in <13b3da31885d4b8d827d4190298e367f>:0 
+  at LootingBots.Patch.Components.TransactionController.MoveItem (LootingBots.Patch.Components.TransactionController+MoveAction moveAction) [0x00214] in <f71915912c42404bb6cba859c6005f42>:0 
+[Error  :LootingBots] ([pmcBot] Bot20) System.NullReferenceException: Object reference not set to an instance of an object
+  at Fika.Core.Coop.BotClasses.CoopBotInventoryController.vmethod_1 (BaseInventoryOperationClass operation, Comfort.Common.Callback callback) [0x0005b] in <d82bf06b4d654eb49d6c4ab9ac5041b5>:0 
+  at (wrapper dynamic-method) TraderControllerClass.DMD<TraderControllerClass::RunNetworkTransaction>(TraderControllerClass,IRaiseEvents,Comfort.Common.Callback)
+  at TraderControllerClass.TryRunNetworkTransaction (GStruct454 operationResult, Comfort.Common.Callback callback) [0x00049] in <13b3da31885d4b8d827d4190298e367f>:0 
+  at EFT.Player+PlayerInventoryController.TryRunNetworkTransaction (GStruct454 operationResult, Comfort.Common.Callback callback) [0x00012] in <13b3da31885d4b8d827d4190298e367f>:0 
+  at LootingBots.Patch.Components.TransactionController.MoveItem (LootingBots.Patch.Components.TransactionController+MoveAction moveAction) [0x00214] in <f71915912c42404bb6cba859c6005f42>:0 
 [Info   :Fika.Server] ..:: Fika Server Session Statistics ::..
 [Info   :Fika.Server] Sent packets: 0
 [Info   :Fika.Server] Sent data: 0 B
@@ -1837,190 +1812,6 @@
 [Info   :MoreCheckmarks] Quest Оружейник. Часть 7 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Садоводство. Часть 1 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Сигнал. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Оружейник. Часть 5 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Оружейник. Часть 6 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Оружейник. Часть 8 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Только бизнес queststatus set to Success
-[Info   :MoreCheckmarks] Quest Вернем Ультре былое величие queststatus set to Started
-[Info   :MoreCheckmarks] Quest Распродажа queststatus set to Started
-[Info   :MoreCheckmarks] Quest Ленд-лиз. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 3 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Тарковский стрелок. Часть 4 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Гренадёр queststatus set to Started
-[Info   :MoreCheckmarks] Quest Подстава queststatus set to Started
-[Info   :MoreCheckmarks] Quest Поручение queststatus set to Success
-[Info   :MoreCheckmarks] Quest Знакомство queststatus set to Success
-[Info   :MoreCheckmarks] Quest Путь выживальщика. Беззащитен, но опасен queststatus set to Success
-[Info   :MoreCheckmarks] Quest Путь выживальщика. Запасливый queststatus set to Success
-[Info   :MoreCheckmarks] Quest Путь выживальщика. Живчик queststatus set to Success
-[Info   :MoreCheckmarks] Quest Путь выживальщика. Раненый зверь queststatus set to Success
-[Info   :MoreCheckmarks] Quest Путь выживальщика. Крепыш queststatus set to Started
-[Info   :MoreCheckmarks] Quest Путь выживальщика. Хладнокровный queststatus set to Started
-[Info   :MoreCheckmarks] Quest Скорая помощь queststatus set to Started
-[Info   :MoreCheckmarks] Quest Мутное дело queststatus set to Success
-[Info   :MoreCheckmarks] Quest Бункер. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Поисковая миссия queststatus set to Success
-[Info   :MoreCheckmarks] Quest Медицинский журнал queststatus set to Started
-[Info   :MoreCheckmarks] Quest Отдых у моря queststatus set to Started
-[Info   :MoreCheckmarks] Quest Долгая дорога queststatus set to Started
-[Info   :MoreCheckmarks] Quest Аудит queststatus set to Started
-[Info   :MoreCheckmarks] Quest Перепись населения queststatus set to Started
-[Info   :MoreCheckmarks] Quest Оружейник. Часть 4 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Продразведка queststatus set to Started
-[Info   :MoreCheckmarks] Quest Первый в очереди queststatus set to Success
-[Info   :MoreCheckmarks] Quest Стрельба по баночкам queststatus set to Success
-[Info   :MoreCheckmarks] Quest Роскошная жизнь queststatus set to Success
-[Info   :MoreCheckmarks] Quest По коням queststatus set to Success
-[Info   :MoreCheckmarks] Quest Спасение крота queststatus set to Success
-[Info   :MoreCheckmarks] Quest Легкие деньги. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Ад на земле. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Как в старые добрые. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Тарков не прощает ошибок queststatus set to Success
-[Info   :MoreCheckmarks] Quest Каждый охотник знает, где сидит фазан queststatus set to Started
-[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 2 queststatus set to AvailableForStart
-[Info   :MoreCheckmarks] Quest Задержка отправления. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Закрыть небо queststatus set to AvailableForStart
-[Info   :MoreCheckmarks] Quest Рука помощи queststatus set to Started
-[Info   :MoreCheckmarks] Quest Умный в гору не пойдёт queststatus set to Success
-[Info   :MoreCheckmarks] Quest Инициация queststatus set to Started
-[Info   :MoreCheckmarks] Quest Белка и Стрелка queststatus set to Started
-[Info   :MoreCheckmarks] Quest Оружейник. По старой дружбе queststatus set to Success
-[Info   :MoreCheckmarks] Quest Заклеено queststatus set to Success
-[Info   :MoreCheckmarks] Quest Топографика queststatus set to Success
-[Info   :MoreCheckmarks] Quest Копни Глубже queststatus set to Started
-[Info   :MoreCheckmarks] Quest Сопротивление бесполезно queststatus set to Started
-[Info   :MoreCheckmarks] Quest Elusive Criminal queststatus set to Started
-[Info   :MoreCheckmarks] Quest A Friend in Need queststatus set to Success
-[Info   :MoreCheckmarks] Quest Introductions queststatus set to Success
-[Info   :MoreCheckmarks] Quest Hooligan Hunt queststatus set to Started
-[Info   :MoreCheckmarks] Quest Kill In Style queststatus set to Started
-[Info   :MoreCheckmarks] Quest Новые знакомства queststatus set to Success
-[Info   :MoreCheckmarks] Quest Сгоняем в ULTRA queststatus set to Started
-[Info   :MoreCheckmarks] Quest Заправщик - Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Заправщик - Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Товары для дома queststatus set to Success
-[Info   :MoreCheckmarks] Quest Сбор боеприпасов queststatus set to Success
-[Info   :MoreCheckmarks] Quest Полевая хирургия queststatus set to Success
-[Info   :MoreCheckmarks] Quest Домашний склад queststatus set to Started
-[Info   :MoreCheckmarks] Quest Готов к бою queststatus set to Success
-[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Старый, но надёжный — Часть 2 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Агент ВС РФ - Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Знакомство с оружием - Часть 3 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Инструменты для работы - Часть 3 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Перевозчик - Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Наркотики - Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Наркотики - Часть 2 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Мат — Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Каждый патрон на счету — Часть 3 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 3 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Свет Лотоса — Часть 4 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Пропавшие наёмники queststatus set to Success
-[Info   :MoreCheckmarks] Quest На шаг ближе queststatus set to Started
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Первая помощь - Часть 3 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 3 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 4 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Собиратель - Часть 5 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 3 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 4 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Пехота - Часть 5 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Ближний бой - Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Подготовка ЧВК - Меткая стрельба - Часть 3 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Знать, как противостоять — Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Проявить себя queststatus set to Success
-[Info   :MoreCheckmarks] Quest Маршрут queststatus set to Success
-[Info   :MoreCheckmarks] Quest Зачистка queststatus set to Started
-[Info   :MoreCheckmarks] Quest Таинственный звонок queststatus set to Success
-[Info   :MoreCheckmarks] Quest Таинственный звонок, часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Злость queststatus set to Started
-[Info   :MoreCheckmarks] Quest Твои деньги, мой товар queststatus set to Success
-[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Твои деньги, мой товар, часть 3 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Думаешь, ты хорошо владеешь оружием? queststatus set to Success
-[Info   :MoreCheckmarks] Quest Боевые навыки - штурмовые винтовки queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты-пулемёты queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - снайперские винтовки queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - марксманские винтовки queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - дробовики queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - пистолеты queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - ручные пулемёты queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - карабины queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - ближний бой queststatus set to Started
-[Info   :MoreCheckmarks] Quest Боевые навыки - взрывчатка queststatus set to Started
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
-[Info   :MoreCheckmarks] Quest Стрим. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Страсть к эргономике queststatus set to Started
-[Info   :MoreCheckmarks] Quest Устранение queststatus set to Started
-[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
-[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Started
-[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
-[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
-[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Success
-[Info   :MoreCheckmarks] Loading data
-[Info   :MoreCheckmarks] 	Quests
-[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/quests
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/quests
-[Info   :MoreCheckmarks] 	Items
-[Info   :MoreCheckmarks] 	Assorts
-[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/assorts
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/assorts
-[Info   :MoreCheckmarks] 	Productions
-[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/productions
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/productions
-[Info   :MoreCheckmarks] Quest Проба пера queststatus set to Success
-[Info   :MoreCheckmarks] Quest Проверка на вшивость queststatus set to Success
-[Info   :MoreCheckmarks] Quest Пикник со стрельбой queststatus set to Success
-[Info   :MoreCheckmarks] Quest Посылка из прошлого queststatus set to Success
-[Info   :MoreCheckmarks] Quest Компромат queststatus set to Started
-[Info   :MoreCheckmarks] Quest Дефицит queststatus set to Success
-[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Операция "Водолей". Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Пейнкиллер queststatus set to Success
-[Info   :MoreCheckmarks] Quest Провизор queststatus set to Success
-[Info   :MoreCheckmarks] Quest Планы снабжения queststatus set to Started
-[Info   :MoreCheckmarks] Quest Своего рода саботаж queststatus set to Started
-[Info   :MoreCheckmarks] Quest Сельпо queststatus set to Started
-[Info   :MoreCheckmarks] Quest Санэпиднадзор. Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Авторем queststatus set to Started
-[Info   :MoreCheckmarks] Quest Снабженец queststatus set to Success
-[Info   :MoreCheckmarks] Quest Вымогатель queststatus set to Success
-[Info   :MoreCheckmarks] Quest Движуха queststatus set to Success
-[Info   :MoreCheckmarks] Quest Что на флешке? queststatus set to Success
-[Info   :MoreCheckmarks] Quest Золотые понты queststatus set to Success
-[Info   :MoreCheckmarks] Quest Бомж с Полихима queststatus set to Started
-[Info   :MoreCheckmarks] Quest Реагент. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Нефтянка queststatus set to Success
-[Info   :MoreCheckmarks] Quest Рыболовные снасти queststatus set to Started
-[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Друг с Запада. Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Врачебная тайна. Часть 1 queststatus set to Started
-[Info   :MoreCheckmarks] Quest Оружейник. Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Оружейник. Часть 2 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Оружейник. Часть 3 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Оружейник. Часть 7 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 1 queststatus set to Success
-[Info   :MoreCheckmarks] Quest Садоводство. Часть 2 queststatus set to Success
 [Info   :MoreCheckmarks] Quest Садоводство. Часть 3 queststatus set to Started
 [Info   :MoreCheckmarks] Quest Сигнал. Часть 1 queststatus set to Started
 [Info   :MoreCheckmarks] Quest Вредная привычка queststatus set to Started
@@ -2160,14 +1951,3 @@
 [Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
 [Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Started
 [Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Success
-[Info   :DanW-QuestingBots] The game start is not being delayed
-[Error  :DynamicMaps] Caught error while doing end of raid calculations
-[Error  :DynamicMaps] Object reference not set to an instance of an object
-[Error  :DynamicMaps]   at DynamicMaps.UI.ModdedMapScreen.OnRaidEnd () [0x000b8] in <2f8aecbe88f54a768e929b4967ac0161>:0 
-  at (wrapper delegate-invoke) <Module>.invoke_void()
-  at DynamicMaps.Patches.GameWorldOnDestroyPatch.PatchPrefix () [0x00009] in <2f8aecbe88f54a768e929b4967ac0161>:0 
-[Error  :DynamicMaps] Caught error while doing end of raid calculations
-[Error  :DynamicMaps] Object reference not set to an instance of an object
-[Error  :DynamicMaps]   at DynamicMaps.UI.ModdedMapScreen.OnRaidEnd () [0x000b8] in <2f8aecbe88f54a768e929b4967ac0161>:0 
-  at (wrapper delegate-invoke) <Module>.invoke_void()
-  at DynamicMaps.Patches.GameWorldOnDestroyPatch.PatchPrefix () [0x00009] in <2f8aecbe88f54a768e929b4967ac0161>:0 

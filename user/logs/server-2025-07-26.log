@@ -2692,3 +2692,948 @@
 [2025-07-25T20:23:54.719Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
 [2025-07-25T20:23:54.722Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
 [2025-07-25T20:23:56.879Z] debug: 	Saving 2 profiles took 14.989ms
+[2025-07-26T08:42:31.896Z] debug: 	Importing configs...
+[2025-07-26T08:42:31.941Z] info: 	Commit hash: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-07-26T08:42:31.941Z] info: 	Build date: 1744140374083
+[2025-07-26T08:42:32.130Z] info: 	Загрузчик модов: загружаем 19 мод(ов/а)...
+[2025-07-26T08:42:32.231Z] debug: 	Загрузчик модов: Мод Lunnayaluna Lotus отсутствует в файле order.json
+[2025-07-26T08:42:32.231Z] debug: 	Загрузчик модов: Мод MoreCheckmarksBackend отсутствует в файле order.json
+[2025-07-26T08:42:32.231Z] debug: 	Загрузчик модов: Мод MoxoPixel-BlackCore отсутствует в файле order.json
+[2025-07-26T08:42:32.231Z] debug: 	Загрузчик модов: Мод MoxoPixel-TacticalGearComponent отсутствует в файле order.json
+[2025-07-26T08:42:32.231Z] debug: 	Загрузчик модов: Мод SPTDynamicMaps отсутствует в файле order.json
+[2025-07-26T08:42:32.231Z] debug: 	Загрузчик модов: Мод SariaShop отсутствует в файле order.json
+[2025-07-26T08:42:32.231Z] debug: 	Загрузчик модов: Мод Skwizzy-LootingBots-ServerMod отсутствует в файле order.json
+[2025-07-26T08:42:32.231Z] debug: 	Загрузчик модов: Мод Virtual's Custom Quest Loader отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод [SVM] Server Value Modifier отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод aMoxoPixel-Painter отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод acidphantasm-refsptfriendlyquests отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод acidphantasm-scorpion отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод expandedtasktext отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод fika-server отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод generalgoon-configurablestimuses отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод house-legsthetrader отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод tyfon-uifixes отсутствует в файле order.json
+[2025-07-26T08:42:32.232Z] debug: 	Загрузчик модов: Мод zSolarint-SAIN-ServerMod отсутствует в файле order.json
+[2025-07-26T08:42:32.268Z] info: 	Мод SPTQuestingBots версии 0.10.2 от DanW загружен
+[2025-07-26T08:42:32.268Z] info: 	Мод Lotus версии 1.5.5 от Lunnayaluna загружен
+[2025-07-26T08:42:32.268Z] info: 	Мод MoreCheckmarksBackend версии 1.5.17 от VIP загружен
+[2025-07-26T08:42:32.268Z] info: 	Мод Painter версии 1.1.7 от MoxoPixel загружен
+[2025-07-26T08:42:32.268Z] info: 	Мод Black Core версии 1.1.8 от MoxoPixel загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод Tactical Gear Component (TGC) версии 1.2.5 от MoxoPixel загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод SPT-DynamicMaps версии 0.5.7 от mpstark загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод SariaShop версии 1.7.0 от DJ загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод LootingBots-ServerMod версии 1.5.2 от Skwizzy загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод Virtuals Custom Quest Loader версии 2.0.4 от Virtual загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод SVM версии 1.11.1 от GhostFenixx загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод RefSPTFriendlyQuests версии 1.3.0 от acidphantasm загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод Scorpion версии 0.13.1 от acidphantasm загружен
+[2025-07-26T08:42:32.269Z] info: 	Мод Expanded Task Text версии 1.6.4 от Dirtbikercj, FriedEngineer загружен
+[2025-07-26T08:42:32.270Z] info: 	Мод server версии 2.4.7 от Fika загружен
+[2025-07-26T08:42:32.270Z] info: 	Мод ConfigurableStimUses версии 1.0.2 от GeneralGoon загружен
+[2025-07-26T08:42:32.270Z] info: 	Мод LegsTheTrader версии 1.5.1 от House загружен
+[2025-07-26T08:42:32.270Z] info: 	Мод uifixes версии 4.2.1 от Tyfon загружен
+[2025-07-26T08:42:32.270Z] info: 	Мод SAIN версии 4.0.4 от zSolarint загружен
+[2025-07-26T08:42:32.494Z] info: 	Painter repeatable quests added to quest config
+[2025-07-26T08:42:45.861Z] debug: 	Importing configs...
+[2025-07-26T08:42:45.905Z] info: 	Commit hash: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-07-26T08:42:45.905Z] info: 	Build date: 1744140374083
+[2025-07-26T08:42:45.929Z] info: 	Загрузчик модов: загружаем 19 мод(ов/а)...
+[2025-07-26T08:42:45.947Z] debug: 	Загрузчик модов: Мод Lunnayaluna Lotus отсутствует в файле order.json
+[2025-07-26T08:42:45.947Z] debug: 	Загрузчик модов: Мод MoreCheckmarksBackend отсутствует в файле order.json
+[2025-07-26T08:42:45.947Z] debug: 	Загрузчик модов: Мод MoxoPixel-BlackCore отсутствует в файле order.json
+[2025-07-26T08:42:45.947Z] debug: 	Загрузчик модов: Мод MoxoPixel-TacticalGearComponent отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод SPTDynamicMaps отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод SariaShop отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод Skwizzy-LootingBots-ServerMod отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод Virtual's Custom Quest Loader отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод [SVM] Server Value Modifier отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод aMoxoPixel-Painter отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод acidphantasm-refsptfriendlyquests отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод acidphantasm-scorpion отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод expandedtasktext отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод fika-server отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод generalgoon-configurablestimuses отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод house-legsthetrader отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод tyfon-uifixes отсутствует в файле order.json
+[2025-07-26T08:42:45.948Z] debug: 	Загрузчик модов: Мод zSolarint-SAIN-ServerMod отсутствует в файле order.json
+[2025-07-26T08:42:45.986Z] info: 	Мод SPTQuestingBots версии 0.10.2 от DanW загружен
+[2025-07-26T08:42:45.986Z] info: 	Мод Lotus версии 1.5.5 от Lunnayaluna загружен
+[2025-07-26T08:42:45.987Z] info: 	Мод MoreCheckmarksBackend версии 1.5.17 от VIP загружен
+[2025-07-26T08:42:45.987Z] info: 	Мод Painter версии 1.1.7 от MoxoPixel загружен
+[2025-07-26T08:42:45.987Z] info: 	Мод Black Core версии 1.1.8 от MoxoPixel загружен
+[2025-07-26T08:42:45.987Z] info: 	Мод Tactical Gear Component (TGC) версии 1.2.5 от MoxoPixel загружен
+[2025-07-26T08:42:45.987Z] info: 	Мод SPT-DynamicMaps версии 0.5.7 от mpstark загружен
+[2025-07-26T08:42:45.987Z] info: 	Мод SariaShop версии 1.7.0 от DJ загружен
+[2025-07-26T08:42:45.987Z] info: 	Мод LootingBots-ServerMod версии 1.5.2 от Skwizzy загружен
+[2025-07-26T08:42:45.988Z] info: 	Мод Virtuals Custom Quest Loader версии 2.0.4 от Virtual загружен
+[2025-07-26T08:42:45.988Z] info: 	Мод SVM версии 1.11.1 от GhostFenixx загружен
+[2025-07-26T08:42:45.988Z] info: 	Мод RefSPTFriendlyQuests версии 1.3.0 от acidphantasm загружен
+[2025-07-26T08:42:45.988Z] info: 	Мод Scorpion версии 0.13.1 от acidphantasm загружен
+[2025-07-26T08:42:45.988Z] info: 	Мод Expanded Task Text версии 1.6.4 от Dirtbikercj, FriedEngineer загружен
+[2025-07-26T08:42:45.988Z] info: 	Мод server версии 2.4.7 от Fika загружен
+[2025-07-26T08:42:45.988Z] info: 	Мод ConfigurableStimUses версии 1.0.2 от GeneralGoon загружен
+[2025-07-26T08:42:45.988Z] info: 	Мод LegsTheTrader версии 1.5.1 от House загружен
+[2025-07-26T08:42:45.989Z] info: 	Мод uifixes версии 4.2.1 от Tyfon загружен
+[2025-07-26T08:42:45.989Z] info: 	Мод SAIN версии 4.0.4 от zSolarint загружен
+[2025-07-26T08:42:46.020Z] info: 	Painter repeatable quests added to quest config
+[2025-07-26T08:42:46.152Z] info: 	[Fika Server] Overriding SPT configuration
+[2025-07-26T08:42:46.206Z] debug: 	[house-legsthetrader] preSpt Loading... 
+[2025-07-26T08:42:46.206Z] debug: 	[house-legsthetrader] preSpt Loaded
+[2025-07-26T08:42:46.273Z] info: 	Сервер: выполняем начальные коллбэки...
+[2025-07-26T08:42:46.273Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2025-07-26T08:42:46.274Z] debug: 	CPU: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz cores: 16
+[2025-07-26T08:42:46.274Z] debug: 	RAM: 31.90GB
+[2025-07-26T08:42:46.274Z] debug: 	PATH: RTpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-07-26T08:42:46.274Z] debug: 	PATH: RTpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-07-26T08:42:46.274Z] debug: 	Server: 3.11.3
+[2025-07-26T08:42:46.274Z] debug: 	Node: 22.12.0
+[2025-07-26T08:42:46.274Z] debug: 	Date: 1744140374083
+[2025-07-26T08:42:46.274Z] debug: 	Commit: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-07-26T08:42:46.286Z] info: 	Импортируем базу данных...
+[2025-07-26T08:42:46.380Z] debug: 	Ошибка проверки файлов для файла: SPT_Data/Server/database/locales/server/ru.json
+[2025-07-26T08:42:50.362Z] info: 	Импорт базы данных завершен.
+[2025-07-26T08:42:50.363Z] debug: 	Database import took 4.076s
+[2025-07-26T08:42:50.373Z] debug: 	Database ID validation took 1.437ms
+[2025-07-26T08:42:50.416Z] info: 	Painter repeatable quest messages added to localization files
+[2025-07-26T08:42:50.464Z] info: 	Painter custom items added
+[2025-07-26T08:42:50.464Z] debug: 	Added Batman figurine to 6 slot(s) in PlaceOfFame_Stash_1
+[2025-07-26T08:42:50.464Z] debug: 	Added Batman figurine to 12 slot(s) in PlaceOfFame_Stash_2
+[2025-07-26T08:42:50.464Z] debug: 	Added Batman figurine to 24 slot(s) in PlaceOfFame_Stash_3
+[2025-07-26T08:42:50.464Z] debug: 	Successfully added Batman figurine (672e2e75d78fe9e90c8cb393) to 42 total Hall of Fame slot(s)
+[2025-07-26T08:42:50.464Z] debug: 	Added Golden Turd figurine to 6 slot(s) in PlaceOfFame_Stash_1
+[2025-07-26T08:42:50.464Z] debug: 	Added Golden Turd figurine to 12 slot(s) in PlaceOfFame_Stash_2
+[2025-07-26T08:42:50.465Z] debug: 	Added Golden Turd figurine to 24 slot(s) in PlaceOfFame_Stash_3
+[2025-07-26T08:42:50.465Z] debug: 	Successfully added Golden Turd figurine (684db00229850b2f1f7832c1) to 42 total Hall of Fame slot(s)
+[2025-07-26T08:42:50.465Z] debug: 	Added Moscovium (Material 115) to 6 slot(s) in PlaceOfFame_Stash_1
+[2025-07-26T08:42:50.465Z] debug: 	Added Moscovium (Material 115) to 12 slot(s) in PlaceOfFame_Stash_2
+[2025-07-26T08:42:50.465Z] debug: 	Added Moscovium (Material 115) to 24 slot(s) in PlaceOfFame_Stash_3
+[2025-07-26T08:42:50.465Z] debug: 	Successfully added Moscovium (Material 115) (685867727d49afb420c2b29e) to 42 total Hall of Fame slot(s)
+[2025-07-26T08:42:50.470Z] info: 	Painter loot boxes added
+[2025-07-26T08:42:50.592Z] info: 	------------------------
+[2025-07-26T08:42:50.593Z] info: 	Black Core Loaded
+[2025-07-26T08:42:50.593Z] info: 	Loading: Tactical Gear Component
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e75d122de1a20db31a5
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e759342d416e10caa10
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 67b1eb6d91f8e59bc799beb1
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e757a1e6eeae1841933
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e7505c0ffbaf790db95
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e756174d5e5e9f677ee
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e75ec4a3496b64346c5
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e75071e71f8e4a59286
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e75f2da844c65b50d6a
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e75e352ae625453519b
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e75d41d0e93c918096a
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 6733edbe21f258964d0d4c5a
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e75ea372126f4fcb874
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e757efbbef26ff61046
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e7546454a975e0b7a3b
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e750c562a5e650dc9b3
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e754f01ef56b4aa66a3
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 67b09f2f8bad925404cd80bb
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e758977f29e3a29cd9c
+[2025-07-26T08:42:51.001Z] debug: 	addToFilters: 672e2e7503876d1630af50b0
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75f3418d66159240f8
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e755898793d805ec2c3
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e756bdff59d722213c9
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75ba73d87a448e3f13
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75848c5da68dd122f0
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e7500543603d91e0101
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e755ab53b635a4d4f39
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75e8c2736e43530008
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 684ae8ebb048d86cbdf8d5d9
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 684ae9d928526b5c284aacb6
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75a23a16d355754ef6
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75be2ea9998a388b8b
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75b7f83e81f1dc5067
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e7533a70f23dfe4c8bb
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75aedb36663267e181
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75e12417d2656e8974
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75ecdecad1471639ad
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75645f9ad09f4b949d
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75ebb3b5f3e2cb6291
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e7511180730151307bc
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e759623bcd75fbfb04c
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75033ea9ca8bef91bc
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 672e2e75a9332b620bdf4715
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 67341526d1587cba81586e7f
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 673d7aa5a2c68c0cfcec6b93
+[2025-07-26T08:42:51.002Z] debug: 	addToFilters: 674102e3b161458e6ee0531f
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 67429a6fe31216a0757777e1
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75dbf780f902fd6d68
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e758c2bcbf1b2421359
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e7563b1a22a3c7b3895
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e754544ab54214fd56c
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e755afaba52a4af5e45
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75c5ba9aeedbced57d
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e755cebe435a3b4dba5
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 67a281fafa6f0dadd5211962
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 67b22feaecf38d826bb7dc43
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 67b3252d085fe3e32bc8eeb7
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75d89015cd6322030b
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e753c97527a5186e73f
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75e97f1888187ed37d
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e758808bacbb9d5abc4
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75b0ab4fcbbf7dc471
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e7526ba61dbb88be7ff
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e7553233ca6956e5358
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75e04c9aca3536136b
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75b14ae1b5c91474b4
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e7595d3b3be0daf9055
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75b5b680c7ee6aa408
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e753f9d1074231fa6a2
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75c7c7c5232e513062
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e759bff586ad22ecbc7
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e751a561533f23a2635
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e7578374ac936625f9a
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75c076d2093b05c764
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75b9082dbf88dd1dbd
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e753a1ea309958b56cc
+[2025-07-26T08:42:51.003Z] debug: 	addToFilters: 672e2e75bd4a44818c26b1b0
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75dad19c7115e2489e
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e7504b1f1d5b0e4209c
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e756803734b60f5ac1e
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e7521f4ccc8cc6d8335
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75929d47eb157491c8
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e757e517ac4552086d1
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e7535b901cc0cb57e73
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75a16c1d2034c384cf
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e750ea81b3b93b943ac
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75c3973efd2d011d2f
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e754e6844af8e197b00
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75b74647fc82da299c
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e753ffe524d70e8cd8f
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75ed6ad7cc5028734f
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75d276dfa8dd76770c
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75592eb3c91e248717
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75a26efb53bc703d45
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e757e294bf6e5ecb944
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75500922dee75bf400
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75c24f8de5c9a1bdfc
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75a8d84451e1b9d793
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e750cd8dfd1fee34a08
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75bfad327651a1a19b
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e751ff683e9432cb5af
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75e2cb5715ab46ae15
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e755c49aef3e8a3dd0c
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75ec239cfca3bedf6d
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75eae8c670d0f7740d
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e75f863ac94cae32632
+[2025-07-26T08:42:51.004Z] debug: 	addToFilters: 672e2e755aa052b1e954dd68
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 672e2e75e21492038fb1b118
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 672e2e75ba8f56d981dc6e2c
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 672e2e75afb25b57bd1d1455
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 672e2e7531ffa75ea676c3ea
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 672e2e75fa61ef193bdbd7e6
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 67b8d6cd220640e6846aed85
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 672e2e75195420ccca420a2f
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 672e2e759b231e2b1a95516f
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 6733edc58add9191997aec92
+[2025-07-26T08:42:51.005Z] debug: 	addToFilters: 685009b24c99357a3da143e4
+[2025-07-26T08:42:51.005Z] debug: 	Clothing item 672e29baefc06f082515e026 created as a clone of 5d1f56f186f7744bcb0acd1a and added to database.
+[2025-07-26T08:42:51.005Z] debug: 	Clothing item 672e29f9c09ec7c97f5edb68 created as a clone of 5d1f5b3f86f7744bcd1345a2 and added to database.
+[2025-07-26T08:42:51.005Z] debug: 	Clothing item 672e2a1ab7a491bbacdaee50 created as a clone of 5e9da17386f774054b6f79a3 and added to database.
+[2025-07-26T08:42:51.005Z] debug: 	Clothing item 672e2a386ba7565ecbce1c7c created as a clone of 5d1f592286f7743f8362bcdb and added to database.
+[2025-07-26T08:42:51.005Z] debug: 	Clothing item 672e2a6adbc2170974b85015 created as a clone of 5d1f623386f7744bcd135833 and added to database.
+[2025-07-26T08:42:51.005Z] debug: 	Clothing item 672e2a80fa694e66f620d70b created as a clone of 5e9dcb9c86f7743e20652f25 and added to database.
+[2025-07-26T08:42:51.006Z] debug: 	Clothing item 672e2a95f4fd3c14dd6a552b created as a clone of 5d1f648a86f7744bcd135841 and added to database.
+[2025-07-26T08:42:51.006Z] debug: 	Clothing item 672e2aacf5f5543eb4cf3eae created as a clone of 5fce3e47fe40296c1d5fd784 and added to database.
+[2025-07-26T08:42:51.006Z] debug: 	Clothing item 672e2ae3132da814ad03ae3c created as a clone of 5fd760001189a17bcc172b85 and added to database.
+[2025-07-26T08:42:51.006Z] debug: 	Clothing item 672e2afb3677b2081f2d767f created as a clone of 5fd3e7e2dd870108a754b230 and added to database.
+[2025-07-26T08:42:51.027Z] info: 	[LootingBots-ServerMod] Marking items with DiscardLimits as InsuranceDisabled
+[2025-07-26T08:42:51.030Z] info: 	[LootingBots-ServerMod] Global config DiscardLimitsEnabled set to false
+[2025-07-26T08:42:51.077Z] succ: 	[VCQL] Loaded 466 custom quests.
+[2025-07-26T08:42:51.077Z] succ: 	[VCQL] 13 custom quests were pruned due to date settings.
+[2025-07-26T08:42:51.169Z] succ: 	[VCQL] Loaded 276 custom quest images.
+[2025-07-26T08:42:51.170Z] succ: 	[VCQL] Loaded 0 custom trader images.
+[2025-07-26T08:42:51.233Z] debug: 	[acidphantasm-scorpion] loaded... 
+[2025-07-26T08:42:51.238Z] debug: 	Предмет a8edfb0bce53d103d3f62b9b не найден в кэше базовых предметов, пересоздаем кэш
+[2025-07-26T08:42:51.245Z] debug: 	[house-legsthetrader] postDb Loading... 
+[2025-07-26T08:42:51.259Z] debug: 	[house-legsthetrader] postDb Loaded
+[2025-07-26T08:43:05.090Z] succ: 	Запускаем веб-сервер на https://26.0.42.191:6969
+[2025-07-26T08:43:05.091Z] succ: 	Запустили веб-сокет на wss://26.0.42.191:6969
+[2025-07-26T08:43:05.091Z] succ: 	Сервер запущен, Удачной игры!!
+[2025-07-26T08:43:05.100Z] debug: 	Profile backup created: user\profiles\backups\2025-07-26_13-43-05
+[2025-07-26T08:43:05.111Z] debug: 	Loading 2 profiles took 10.477ms
+[2025-07-26T08:43:08.761Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f27949f878820370a6 from profile: 687e5d99000518541fd836b5
+[2025-07-26T08:43:08.761Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f27949f878820370d9 from profile: 687e5d99000518541fd836b5
+[2025-07-26T08:43:08.761Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f07949f87882036ff0 from profile: 687e5d99000518541fd836b5
+[2025-07-26T08:43:08.761Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f27949f878820370a6 from profile: 687e60c800042435b89f5b98
+[2025-07-26T08:43:08.762Z] debug: 	Removed trader: 5935c25fb3acc3127c3d8cd9 purchase: 676d24a7798491c5260f4bdc from profile: 687e60c800042435b89f5b98
+[2025-07-26T08:43:08.763Z] debug: 	Removed trader: 5a7c2eca46aef81a7ca2145d purchase: 677536d5b06e57fd5c0e0d48 from profile: 687e60c800042435b89f5b98
+[2025-07-26T08:43:08.763Z] debug: 	Removed trader: 5a7c2eca46aef81a7ca2145d purchase: 677536ceb06e57fd5c0e0bc1 from profile: 687e60c800042435b89f5b98
+[2025-07-26T08:43:08.763Z] debug: 	Removed trader: 5a7c2eca46aef81a7ca2145d purchase: 677536dbb06e57fd5c0e0db7 from profile: 687e60c800042435b89f5b98
+[2025-07-26T08:43:08.763Z] debug: 	Removed trader: 5a7c2eca46aef81a7ca2145d purchase: 677536dcb06e57fd5c0e0e4f from profile: 687e60c800042435b89f5b98
+[2025-07-26T08:43:08.764Z] debug: 	Removed trader: 5ac3b934156ae10c4430e83c purchase: 67877f69ecc0f8078905fe36 from profile: 687e60c800042435b89f5b98
+[2025-07-26T08:43:08.764Z] debug: 	Removed trader: 5c0647fdd443bc2504c2d371 purchase: 677536b9b06e57fd5c0e0583 from profile: 687e60c800042435b89f5b98
+[2025-07-26T08:43:08.769Z] info: 	[Questing Bots] Removed 154 blacklisted brain types from being used for PMC's and Player Scav's
+[2025-07-26T08:43:08.770Z] info: 	[Questing Bots] Configuring game for bot spawning...
+[2025-07-26T08:43:08.770Z] info: 	[Questing Bots] Adjusting bot hostility chances...
+[2025-07-26T08:43:08.771Z] info: 	[Questing Bots] Adjusting bot hostility chances...done.
+[2025-07-26T08:43:08.771Z] info: 	[Questing Bots] Disabled 136 custom PMC waves
+[2025-07-26T08:43:08.772Z] info: 	[Questing Bots] Removed SPT Rogue spawn delay
+[2025-07-26T08:43:08.772Z] info: 	[Questing Bots] Configuring game for bot spawning...done.
+[2025-07-26T08:43:14.106Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\connect
+[2025-07-26T08:43:14.124Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\ping
+[2025-07-26T08:43:14.127Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:43:14.135Z] info: 	[Запрос клиента] 26.0.42.191 \files\launcher\bg.png
+[2025-07-26T08:43:14.146Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\ping
+[2025-07-26T08:43:14.197Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\login
+[2025-07-26T08:43:14.200Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\get
+[2025-07-26T08:43:14.204Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:43:14.212Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:43:14.310Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\loadedServerMods
+[2025-07-26T08:43:14.318Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\serverModsUsedByProfile
+[2025-07-26T08:43:14.325Z] info: 	[Запрос клиента] 26.0.42.191 \files\launcher\side_bear.png
+[2025-07-26T08:43:14.331Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\login
+[2025-07-26T08:43:14.334Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\get
+[2025-07-26T08:43:14.342Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:43:14.344Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:43:15.778Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\login
+[2025-07-26T08:43:15.781Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\get
+[2025-07-26T08:43:15.783Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:43:15.785Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:43:15.803Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:43:19.124Z] debug: 	Saving 2 profiles took 20.854ms
+[2025-07-26T08:43:28.708Z] info: 	[Запрос клиента] 26.0.42.191 \QuestingBots\GetConfig
+[2025-07-26T08:43:29.678Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\bosstypes
+[2025-07-26T08:43:30.391Z] info: 	[Запрос клиента] 26.0.42.191 \fika\natpunchserver\config
+[2025-07-26T08:43:31.027Z] info: 	[Запрос клиента] 26.0.42.191 \fika\client\config
+[2025-07-26T08:43:31.072Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\settings\bot\difficulties\
+[2025-07-26T08:43:31.234Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\settings\bot\difficulty\core\core
+[2025-07-26T08:43:37.407Z] info: 	[Запрос клиента] 26.0.42.191 \fika\client\check\version
+[2025-07-26T08:43:37.428Z] info: 	[Запрос клиента] 26.0.42.191 \fika\client\check\mods
+[2025-07-26T08:43:39.138Z] debug: 	Saving 2 profiles took 13.073ms
+[2025-07-26T08:43:43.023Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\settings\version
+[2025-07-26T08:43:43.026Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\release
+[2025-07-26T08:43:43.031Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\moddedTraders
+[2025-07-26T08:43:43.036Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\enableBSGlogging
+[2025-07-26T08:43:43.071Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\quests
+[2025-07-26T08:43:43.074Z] info: 	MoreCheckmarks making quest data request
+[2025-07-26T08:43:43.076Z] info: 	Got quests
+[2025-07-26T08:43:43.689Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\items
+[2025-07-26T08:43:43.689Z] info: 	MoreCheckmarks making item data request
+[2025-07-26T08:43:44.888Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\assorts
+[2025-07-26T08:43:44.888Z] info: 	MoreCheckmarks making trader assort data request
+[2025-07-26T08:43:45.121Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\productions
+[2025-07-26T08:43:45.121Z] info: 	MoreCheckmarks making productions request
+[2025-07-26T08:43:45.894Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\bundles
+[2025-07-26T08:43:56.510Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\settings\version
+[2025-07-26T08:43:56.631Z] info: 	[Запрос клиента] 26.0.42.191 \client\menu\locale\ru
+[2025-07-26T08:43:56.695Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\mode
+[2025-07-26T08:43:56.758Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\start
+[2025-07-26T08:43:56.759Z] debug: 	Started game with sessionId: 687e60c800042435b89f5b98 Gent
+[2025-07-26T08:43:56.761Z] debug: 	Removed 673f5d6fdd6ed700c703afdc TaskConditionCounter object
+[2025-07-26T08:43:56.762Z] debug: 	Quest production unlock validation took 0.379ms
+[2025-07-26T08:43:56.762Z] debug: 	Profile made with: 3.11.3 (35392)
+[2025-07-26T08:43:56.762Z] debug: 	Server version: 3.11.3 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-07-26T08:43:56.762Z] debug: 	Debug enabled: false
+[2025-07-26T08:43:56.762Z] debug: 	Mods enabled: true
+[2025-07-26T08:43:56.830Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\version\validate
+[2025-07-26T08:43:56.891Z] info: 	[Запрос клиента] 26.0.42.191 \client\languages
+[2025-07-26T08:43:56.969Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\config
+[2025-07-26T08:43:59.167Z] debug: 	Saving 2 profiles took 16.029ms
+[2025-07-26T08:44:06.523Z] info: 	[Запрос клиента] 26.0.42.191 \client\items
+[2025-07-26T08:44:13.614Z] info: 	[Запрос клиента] 26.0.42.191 \client\customization
+[2025-07-26T08:44:13.849Z] info: 	[Запрос клиента] 26.0.42.191 \client\customization\storage
+[2025-07-26T08:44:13.963Z] info: 	[Запрос клиента] 26.0.42.191 \client\globals
+[2025-07-26T08:44:13.982Z] info: 	[Запрос клиента] 26.0.42.191 \client\settings
+[2025-07-26T08:44:13.982Z] info: 	[Запрос клиента] 26.0.42.191 \client\trading\api\traderSettings
+[2025-07-26T08:44:13.983Z] info: 	[Запрос клиента] 26.0.42.191 \client\prestige\list
+[2025-07-26T08:44:14.914Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\profile\list
+[2025-07-26T08:44:15.504Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\profile\select
+[2025-07-26T08:44:15.561Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\quests
+[2025-07-26T08:44:15.562Z] info: 	MoreCheckmarks making quest data request
+[2025-07-26T08:44:15.564Z] info: 	Got quests
+[2025-07-26T08:44:16.007Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\assorts
+[2025-07-26T08:44:16.008Z] info: 	MoreCheckmarks making trader assort data request
+[2025-07-26T08:44:16.314Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\productions
+[2025-07-26T08:44:16.314Z] info: 	MoreCheckmarks making productions request
+[2025-07-26T08:44:16.324Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:44:16.326Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:44:16.333Z] info: 	[Запрос клиента] 26.0.42.191 \client\profile\status
+[2025-07-26T08:44:16.400Z] info: 	[Запрос клиента] 26.0.42.191 \client\weather
+[2025-07-26T08:44:16.410Z] info: 	[Запрос клиента] 26.0.42.191 \client\locale\ru
+[2025-07-26T08:44:16.410Z] info: 	[Запрос клиента] 26.0.42.191 \client\locations
+[2025-07-26T08:44:16.460Z] debug: 	Map: base has no base json file, skipping generation
+[2025-07-26T08:44:17.862Z] info: 	[Запрос клиента] 26.0.42.191 \client\handbook\templates
+[2025-07-26T08:44:18.044Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\log
+[2025-07-26T08:44:18.044Z] info: 	[Questing Bots] Validated all quest files
+[2025-07-26T08:44:19.201Z] debug: 	Saving 2 profiles took 14.022ms
+[2025-07-26T08:44:20.412Z] info: 	[Запрос клиента] 26.0.42.191 \client\hideout\areas
+[2025-07-26T08:44:20.551Z] info: 	[Запрос клиента] 26.0.42.191 \client\hideout\qte\list
+[2025-07-26T08:44:20.607Z] info: 	[Запрос клиента] 26.0.42.191 \client\hideout\settings
+[2025-07-26T08:44:20.664Z] info: 	[Запрос клиента] 26.0.42.191 \client\hideout\production\recipes
+[2025-07-26T08:44:20.792Z] info: 	[Запрос клиента] 26.0.42.191 \client\hideout\customization\offer\list
+[2025-07-26T08:44:20.866Z] info: 	[Запрос клиента] 26.0.42.191 \client\builds\list
+[2025-07-26T08:44:21.002Z] debug: 	[Fika Notification Manager] User is 687e60c800042435b89f5b98
+[2025-07-26T08:44:21.002Z] debug: 	[Fika Presence] Adding player: Gent
+[2025-07-26T08:44:21.002Z] info: 	WebSocketHandler "Fika Notification Manager" connected
+[2025-07-26T08:44:23.422Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\log
+[2025-07-26T08:44:23.423Z] debug: 	[SPT.Core] 1184960
+[2025-07-26T08:44:23.424Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\log
+[2025-07-26T08:44:23.424Z] debug: 	[SPT.Core] 1498960
+[2025-07-26T08:44:23.425Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\log
+[2025-07-26T08:44:23.425Z] debug: 	[SPT.Core] 0
+[2025-07-26T08:44:24.906Z] info: 	[Запрос клиента] 26.0.42.191 \client\notifier\channel\create
+[2025-07-26T08:44:24.935Z] info: 	[Запрос клиента] 26.0.42.191 \client\profile\status
+[2025-07-26T08:44:24.935Z] info: 	[Запрос клиента] 26.0.42.191 \client\server\list
+[2025-07-26T08:44:24.935Z] info: 	[Запрос клиента] 26.0.42.191 \client\match\group\current
+[2025-07-26T08:44:24.936Z] info: 	[Запрос клиента] 26.0.42.191 \client\friend\list
+[2025-07-26T08:44:24.936Z] info: 	[Запрос клиента] 26.0.42.191 \client\friend\request\list\inbox
+[2025-07-26T08:44:24.936Z] info: 	[Запрос клиента] 26.0.42.191 \client\mail\dialog\list
+[2025-07-26T08:44:24.936Z] info: 	[Запрос клиента] 26.0.42.191 \client\friend\request\list\outbox
+[2025-07-26T08:44:24.937Z] info: 	[Запрос клиента] 26.0.42.191 \client\quest\list
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Unexpected Introduction as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Prove Your Worth as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Green Reinforcments as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Upgrading Security as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Take Out as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Shopping Spree as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Hungry Heisters as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Thirsty Heisters as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Crimson Vintages as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Rampage as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Underground Onslaught as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Shadowed Rescue as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Pathfinder as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: The Heist Part 1 - Casing the joint as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Man the Guns as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Breaking Bad as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Silent Exchange as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.944Z] debug: 	Unable to show quest: Eliminating the Competition as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: The Heist Part 2 - Control the lobby as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: The Heist Part 3 - Mask Up as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: The Heist Part 4 - Springing the Trap as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: The Heist Part 5 - Daring Escape as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: The Heist Part 6 - The Exchange as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Battlestation as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Power Surge as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Norvinsk Cowboy Part 1 - Big Iron as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Norvinsk Cowboy Part 2 - Cattle Rustler as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Norvinsk Cowboy Part 3 - Homesteader as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Norvinsk Cowboy Part 4 - Lawbringer as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Time is Money as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Young Thug as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Young Thug II as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Operation Overlord as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Manhattan Project as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Government Man Part 1 - Heavy Response as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Government Man Part 2 - SWAT as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Government Man Part 3 - Street Cop as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Swole Soldier as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Tyrannosaurus Flex as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Beast Mode as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Steel Slaughter as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Grim Reaper as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.945Z] debug: 	Unable to show quest: Pompon Shit as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Never Seen Again as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Kill or be Killed as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Nightfall Descends as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Nightfall Descends II as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Taking Mid Control as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Oh You're Back as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Hangover Cure as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Hair of the Dog as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Blood for Blood as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Enemy at the Gates as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Fresh off the Press as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Project Car as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Doctors Orders as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: When Pigs Fly as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Biohazard as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Into the Fray as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Corprate Espionage as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Gymtimidation as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Biohazard Part 2 as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Aperture Science as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Finest in Science as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Hunt Showdown as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Clear Office as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:24.946Z] debug: 	Unable to show quest: Lab Rats as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:44:25.014Z] info: 	[WS] Игрок: Gent (687e60c800042435b89f5b98) присоединился
+[2025-07-26T08:44:25.015Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-07-26T08:44:25.533Z] info: 	[Запрос клиента] 26.0.42.191 \client\achievement\statistic
+[2025-07-26T08:44:25.594Z] info: 	[Запрос клиента] 26.0.42.191 \client\achievement\list
+[2025-07-26T08:44:25.899Z] info: 	[Запрос клиента] 26.0.42.191 \client\repeatalbeQuests\activityPeriods
+[2025-07-26T08:44:25.899Z] debug: 	[Quest Check] daily quests are still valid.
+[2025-07-26T08:44:25.900Z] debug: 	[Quest Check] weekly quests are still valid.
+[2025-07-26T08:44:25.900Z] debug: 	[Quest Check] daily_savage quests are still valid.
+[2025-07-26T08:44:25.988Z] info: 	[Запрос клиента] 26.0.42.191 \client\survey
+[2025-07-26T08:44:26.740Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\log
+[2025-07-26T08:44:26.741Z] warn: 	[Questing Bots] Using nVidia Reflex may result in long raid loading times
+[2025-07-26T08:44:26.793Z] info: 	[Запрос клиента] 26.0.42.191 \fika\presence\get
+[2025-07-26T08:44:30.249Z] info: 	[Запрос клиента] 26.0.42.191 \client\checkVersion
+[2025-07-26T08:44:33.733Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\settings\raid\menu
+[2025-07-26T08:44:34.359Z] info: 	[Запрос клиента] 26.0.42.191 \client\insurance\items\list\cost
+[2025-07-26T08:44:34.360Z] debug: 	Item with id: 674731c8bafff850080488bb missing from player inventory, skipping
+[2025-07-26T08:44:34.360Z] debug: 	Item with id: 674731c8bafff850080488bb missing from player inventory, skipping
+[2025-07-26T08:44:35.543Z] info: 	[Запрос клиента] 26.0.42.191 \fika\headless\available
+[2025-07-26T08:44:35.553Z] info: 	[Запрос клиента] 26.0.42.191 \fika\location\raids
+[2025-07-26T08:44:35.579Z] info: 	[Запрос клиента] 26.0.42.191 \client\match\group\invite\cancel-all
+[2025-07-26T08:44:35.582Z] info: 	[Запрос клиента] 26.0.42.191 \client\raid\configuration
+[2025-07-26T08:44:35.634Z] info: 	[Запрос клиента] 26.0.42.191 \client\match\group\invite\cancel-all
+[2025-07-26T08:44:37.463Z] info: 	[Запрос клиента] 26.0.42.191 \fika\raid\create
+[2025-07-26T08:44:37.483Z] debug: 	createStaticLootItem() No preset found for weapon: 6217726288ed9f0845317459
+[2025-07-26T08:44:37.574Z] debug: 	Added 671 guaranteed containers
+[2025-07-26T08:44:37.578Z] debug: 	Group: NEED_TO_BE_FIXED_NW_01 has no containers with < 100% spawn chance to choose from, skipping
+[2025-07-26T08:44:37.582Z] debug: 	createStaticLootItem() No preset found for weapon: 62178be9d0050232da3485d9
+[2025-07-26T08:44:37.590Z] debug: 	Group: LOOTABLE_DRAFT_City_NW_03_Klimova_1a_indoor wants 4 containers but pool only has 2, add what's available
+[2025-07-26T08:44:37.645Z] debug: 	createStaticLootItem() No preset found for weapon: 62178be9d0050232da3485d9
+[2025-07-26T08:44:37.662Z] debug: 	createStaticLootItem() No preset found for weapon: 6217726288ed9f0845317459
+[2025-07-26T08:44:37.667Z] debug: 	createStaticLootItem() No preset found for weapon: 6217726288ed9f0845317459
+[2025-07-26T08:44:37.668Z] debug: 	createStaticLootItem() No preset found for weapon: 6217726288ed9f0845317459
+[2025-07-26T08:44:37.681Z] succ: 	A total of 8876 static items spawned
+[2025-07-26T08:44:37.682Z] succ: 	Сгенерировано 1091 статических контейнеров
+[2025-07-26T08:44:38.726Z] succ: 	Заспавнено 880 динамических предметов лута
+[2025-07-26T08:44:38.726Z] succ: 	Локация TarkovStreets сгенерирована
+[2025-07-26T08:44:38.807Z] info: 	[Запрос клиента] 26.0.42.191 \client\raid\configuration
+[2025-07-26T08:44:38.846Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:44:38.882Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\sethost
+[2025-07-26T08:44:38.890Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\setstatus
+[2025-07-26T08:44:39.021Z] info: 	[Запрос клиента] 26.0.42.191 \client\match\group\exit_from_menu
+[2025-07-26T08:44:39.229Z] debug: 	Saving 2 profiles took 15.139ms
+[2025-07-26T08:44:59.279Z] debug: 	Saving 2 profiles took 13.384ms
+[2025-07-26T08:45:11.773Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:45:16.330Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:45:16.332Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:45:19.302Z] debug: 	Saving 2 profiles took 15.347ms
+[2025-07-26T08:45:39.348Z] debug: 	Saving 2 profiles took 17.898ms
+[2025-07-26T08:45:44.076Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:45:55.018Z] debug: 	[WS] Пингуем игрока: 687e60c800042435b89f5b98
+[2025-07-26T08:45:59.382Z] debug: 	Saving 2 profiles took 17.213ms
+[2025-07-26T08:46:05.546Z] info: 	[Запрос клиента] 26.0.42.191 \client\getMetricsConfig
+[2025-07-26T08:46:05.722Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\settings\getRaidTime
+[2025-07-26T08:46:05.777Z] info: 	[Запрос клиента] 26.0.42.191 \client\raid\configuration
+[2025-07-26T08:46:05.829Z] info: 	[Запрос клиента] 26.0.42.191 \client\match\local\start
+[2025-07-26T08:46:08.690Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\playerspawn
+[2025-07-26T08:46:14.861Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\setstatus
+[2025-07-26T08:46:16.333Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:46:16.335Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:46:19.417Z] debug: 	Saving 2 profiles took 19.056ms
+[2025-07-26T08:46:22.825Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:46:39.445Z] debug: 	Saving 2 profiles took 15.666ms
+[2025-07-26T08:46:42.030Z] info: 	[Запрос клиента] 26.0.42.191 \client\localGame\weather
+[2025-07-26T08:46:42.766Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:46:42.767Z] debug: 	Generating 45 bots for cacheKey: assaulthard
+[2025-07-26T08:46:42.767Z] debug: 	Generating 45 bots for cacheKey: assaulteasy
+[2025-07-26T08:46:42.768Z] debug: 	Generating 45 bots for cacheKey: assaultnormal
+[2025-07-26T08:46:42.769Z] debug: 	Generating 30 bots for cacheKey: marksmanhard
+[2025-07-26T08:46:42.769Z] debug: 	Generating 30 bots for cacheKey: marksmannormal
+[2025-07-26T08:46:42.769Z] debug: 	Generating 30 bots for cacheKey: marksmaneasy
+[2025-07-26T08:46:42.769Z] debug: 	Generating 5 bots for cacheKey: bosskolontaynormal
+[2025-07-26T08:46:42.769Z] debug: 	Generating 10 bots for cacheKey: followerkolontayassaultnormal
+[2025-07-26T08:46:42.769Z] debug: 	Generating 10 bots for cacheKey: followerkolontaysecuritynormal
+[2025-07-26T08:46:42.769Z] debug: 	Generating 5 bots for cacheKey: bossboarnormal
+[2025-07-26T08:46:42.769Z] debug: 	Generating 15 bots for cacheKey: followerboarnormal
+[2025-07-26T08:46:42.770Z] debug: 	Generating 10 bots for cacheKey: followerboarclose1normal
+[2025-07-26T08:46:42.770Z] debug: 	Generating 10 bots for cacheKey: followerboarclose2normal
+[2025-07-26T08:46:42.770Z] debug: 	Generating 5 bots for cacheKey: bossboarsnipernormal
+[2025-07-26T08:46:42.770Z] debug: 	Generating 5 bots for cacheKey: gifternormal
+[2025-07-26T08:46:44.149Z] debug: 	assault No default: mod_pistol_grip mod found for: weapon_mossberg_590a1_12g, using existing pool
+[2025-07-26T08:46:44.365Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:46:44.376Z] warn: 	bot: assault lacks a mod slot pool for item: 628cd624459354321c4b7fa2 item_equipment_rig_tt_plate_carrier
+[2025-07-26T08:46:47.119Z] debug: 	Unable to add mod to DEFAULT_MOD slot: mod_handguard. All: 1 had conflicts
+[2025-07-26T08:46:47.575Z] debug: 	Не удалось найти данные о калибре для оружия launcher_ak_toz_gp25_40_vog с id 62e7e7bbe6da9612f743f1e0, возврат к стандартному боеприпасу: 
+[2025-07-26T08:46:47.594Z] debug: 	Не удалось найти данные о калибре для оружия launcher_ak_toz_gp25_40_vog с id 62e7e7bbe6da9612f743f1e0, возврат к стандартному боеприпасу: 
+[2025-07-26T08:46:47.954Z] debug: 	Generated 45 assault (assault) hard bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 45 assault (assault) easy bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 45 assault (assault) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 30 marksman (marksman) hard bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 30 marksman (marksman) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 30 marksman (marksman) easy bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 5 bossKolontay (bossKolontay) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 10 followerKolontayAssault (followerKolontayAssault) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 10 followerKolontaySecurity (followerKolontaySecurity) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 5 bossBoar (bossBoar) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 15 followerBoar (followerBoar) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 10 followerBoarClose1 (followerBoarClose1) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 10 followerBoarClose2 (followerBoarClose2) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 5 bossBoarSniper (bossBoarSniper) normal bots
+[2025-07-26T08:46:47.955Z] debug: 	Generated 5 gifter (gifter) normal bots
+[2025-07-26T08:46:55.734Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\settings\bot\maxCap\TarkovStreets
+[2025-07-26T08:46:56.862Z] info: 	[Запрос клиента] 26.0.42.191 \QuestingBots\GetZoneAndItemQuestPositions
+[2025-07-26T08:46:56.890Z] info: 	[Запрос клиента] 26.0.42.191 \QuestingBots\GetAllQuestTemplates
+[2025-07-26T08:46:58.013Z] debug: 	Saving 2 profiles took 15.312ms
+[2025-07-26T08:47:00.130Z] info: 	[Запрос клиента] 26.0.42.191 \QuestingBots\GetEFTQuestSettings
+[2025-07-26T08:47:00.419Z] info: 	[Запрос клиента] 26.0.42.191 \QuestingBots\GetScavRaidSettings
+[2025-07-26T08:47:00.454Z] info: 	[Запрос клиента] 26.0.42.191 \QuestingBots\GetUSECChance
+[2025-07-26T08:47:00.630Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:47:00.630Z] debug: 	Generating 20 bots for cacheKey: pmcbearnormal
+[2025-07-26T08:47:00.929Z] debug: 	Failed to add additional weapon 68849604dfc8b45b98043641 to bot backpack, reason: NO_SPACE
+[2025-07-26T08:47:00.932Z] debug: 	Failed placing item: 3 of: 4 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:47:00.951Z] debug: 	pmcbear No default: mod_pistolgrip mod found for: weapon_izhmash_svd_s_762x54, using existing pool
+[2025-07-26T08:47:00.956Z] debug: 	Failed to add additional weapon 68849604dfc8b45b9804376a to bot backpack, reason: NO_SPACE
+[2025-07-26T08:47:00.974Z] debug: 	Scope whitelist too restrictive for: 5df24cf80dee1b22f862e9bc weapon_orsis_t5000_762x51, skipping filter
+[2025-07-26T08:47:00.986Z] debug: 	Failed placing item: 3 of: 4 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:47:01.016Z] debug: 	pmcbear Chosen default: mod_handguard mod found for: weapon_izhmash_ak74_545x39 weapon conflicts with item on weapon, cannot use default
+[2025-07-26T08:47:01.016Z] debug: 	Unable to add mod to DEFAULT_MOD slot: mod_handguard. All: 2 had conflicts
+[2025-07-26T08:47:01.034Z] debug: 	Failed placing item: 3 of: 6 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:47:01.050Z] debug: 	Failed to add additional weapon 68849604dfc8b45b98043ac2 to bot backpack, reason: NO_SPACE
+[2025-07-26T08:47:01.085Z] debug: 	Failed placing item: 3 of: 6 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:47:01.096Z] debug: 	Generated 20 pmcBEAR (pmcBEAR) normal bots
+[2025-07-26T08:47:01.272Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:47:01.793Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\scav\traitorscavhostile
+[2025-07-26T08:47:03.594Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:47:03.594Z] debug: 	Generating 20 bots for cacheKey: pmcbeareasy
+[2025-07-26T08:47:03.650Z] debug: 	Failed placing item: 3 of: 5 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:47:03.659Z] debug: 	Failed placing item: 4 of: 5 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:47:03.667Z] debug: 	pmcbear No default: mod_pistol_grip mod found for: weapon_izhmash_sv-98_762x54r, using existing pool
+[2025-07-26T08:47:03.752Z] debug: 	Scope whitelist too restrictive for: 55801eed4bdc2d89578b4588 weapon_izhmash_sv-98_762x54r, skipping filter
+[2025-07-26T08:47:03.752Z] debug: 	Scope whitelist too restrictive for: 55801eed4bdc2d89578b4588 weapon_izhmash_sv-98_762x54r, skipping filter
+[2025-07-26T08:47:03.752Z] debug: 	Scope whitelist too restrictive for: 55801eed4bdc2d89578b4588 weapon_izhmash_sv-98_762x54r, skipping filter
+[2025-07-26T08:47:03.824Z] debug: 	Generated 20 pmcBEAR (pmcBEAR) easy bots
+[2025-07-26T08:47:16.339Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:47:16.355Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:47:18.042Z] debug: 	Saving 2 profiles took 16.956ms
+[2025-07-26T08:47:25.026Z] debug: 	[WS] Пингуем игрока: 687e60c800042435b89f5b98
+[2025-07-26T08:47:25.026Z] debug: 	[WS] Веб-сокет потерян, удаляем соединение
+[2025-07-26T08:47:38.065Z] debug: 	Saving 2 profiles took 18.938ms
+[2025-07-26T08:47:55.446Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:47:58.081Z] debug: 	Saving 2 profiles took 17.65ms
+[2025-07-26T08:48:04.160Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:04.160Z] debug: 	Generating 20 bots for cacheKey: pmcusecnormal
+[2025-07-26T08:48:04.230Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_izhmash_mosin_rifle_762x54, using existing pool
+[2025-07-26T08:48:04.328Z] debug: 	Failed placing item: 3 of: 4 items into: pmcusec containers: Pockets,TacticalVest. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:04.335Z] debug: 	Failed placing item: 3 of: 4 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:04.373Z] debug: 	Failed placing item: 3 of: 6 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:04.375Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_toz_sks_762x39, using existing pool
+[2025-07-26T08:48:04.379Z] debug: 	Failed placing item: 3 of: 5 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:04.384Z] debug: 	Failed placing item: 3 of: 5 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:04.453Z] debug: 	Failed to add additional weapon 68849644dfc8b45b98044c15 to bot backpack, reason: NO_SPACE
+[2025-07-26T08:48:04.457Z] debug: 	Generated 20 pmcUSEC (pmcUSEC) normal bots
+[2025-07-26T08:48:12.562Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:12.563Z] debug: 	Generating 20 bots for cacheKey: pmcuseceasy
+[2025-07-26T08:48:12.664Z] debug: 	Unable to add mod to DEFAULT_MOD slot: mod_barrel. All: 1 had conflicts
+[2025-07-26T08:48:12.711Z] debug: 	Failed placing item: 4 of: 5 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:12.803Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_hk_ump_1143x23, using existing pool
+[2025-07-26T08:48:12.945Z] debug: 	Generated 20 pmcUSEC (pmcUSEC) easy bots
+[2025-07-26T08:48:16.080Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:16.081Z] debug: 	Generating 20 bots for cacheKey: pmcbearhard
+[2025-07-26T08:48:16.157Z] debug: 	pmcbear No default: mod_muzzle mod found for: weapon_izhmash_mosin_infantry_762x54, using existing pool
+[2025-07-26T08:48:16.175Z] debug: 	Failed placing item: 15 of: 23 items into: pmcbear containers: Backpack. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:16.212Z] debug: 	Failed to add additional weapon 68849650dfc8b45b980456ff to bot backpack, reason: NO_SPACE
+[2025-07-26T08:48:16.256Z] debug: 	Failed placing item: 3 of: 4 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:16.278Z] debug: 	Failed placing item: 3 of: 4 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:16.307Z] debug: 	Failed to add additional weapon 68849650dfc8b45b98045a70 to bot backpack, reason: NO_SPACE
+[2025-07-26T08:48:16.346Z] debug: 	Failed placing item: 3 of: 4 items into: pmcbear containers: TacticalVest. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-07-26T08:48:16.389Z] debug: 	Generated 20 pmcBEAR (pmcBEAR) hard bots
+[2025-07-26T08:48:16.396Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:48:16.404Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:48:18.115Z] debug: 	Saving 2 profiles took 16.825ms
+[2025-07-26T08:48:22.353Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:23.376Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:25.511Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:25.512Z] debug: 	Generating 45 bots for cacheKey: assaultimpossible
+[2025-07-26T08:48:25.591Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.591Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.591Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.606Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.606Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.606Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.619Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.619Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.619Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.633Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.633Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.633Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.648Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.648Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.648Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.662Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.662Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.662Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.675Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.676Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.676Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.702Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.703Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.703Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.720Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.720Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.720Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.756Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.757Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.757Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.772Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.772Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.772Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.789Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.789Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.789Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.804Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.804Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.804Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.819Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.819Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.819Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.836Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.836Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.836Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.854Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.854Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.854Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.874Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.874Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.874Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.893Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.893Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.893Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.914Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.914Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.914Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.932Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.932Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.932Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.947Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.947Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.947Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.964Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.964Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.964Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.983Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.983Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.983Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.997Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.997Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:25.997Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.014Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.014Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.015Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.030Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.030Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.030Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.047Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.047Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.048Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.065Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.065Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.065Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.079Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.079Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.079Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.096Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.096Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.096Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.112Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.112Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.112Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.130Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.130Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.130Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.148Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.148Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.148Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.164Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.165Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.165Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.183Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.183Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.183Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.197Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.197Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.197Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.215Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.215Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.215Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.228Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.228Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.228Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.247Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.247Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.247Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.262Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.262Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.262Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.280Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.280Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.280Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.295Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.295Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.295Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.311Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.312Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.312Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.326Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.326Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.326Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.346Z] debug: 	Unable to find experience for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.346Z] debug: 	Unable to find standing for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.347Z] debug: 	Unable to find aggressor bonus for kill value for: assault impossible, falling back to "normal"
+[2025-07-26T08:48:26.365Z] debug: 	Generated 45 assault (assault) impossible bots
+[2025-07-26T08:48:26.885Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:27.184Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:27.184Z] debug: 	Generating 40 bots for cacheKey: assaultnormal
+[2025-07-26T08:48:27.185Z] debug: 	Generating 23 bots for cacheKey: marksmannormal
+[2025-07-26T08:48:28.256Z] debug: 	Generated 45 assault (assault) normal bots
+[2025-07-26T08:48:28.257Z] debug: 	Generated 30 marksman (marksman) normal bots
+[2025-07-26T08:48:28.257Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role pmcBEAR was returned
+[2025-07-26T08:48:28.257Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role pmcUSEC was returned
+[2025-07-26T08:48:28.257Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role pmcUSEC was returned
+[2025-07-26T08:48:28.257Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role pmcBEAR was returned
+[2025-07-26T08:48:28.257Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role pmcBEAR was returned
+[2025-07-26T08:48:28.258Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.258Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.258Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.259Z] debug: 	[Questing Bots] Tried generating a player Scav, but a bot with role marksman was returned
+[2025-07-26T08:48:28.289Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:36.251Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:48:36.274Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:37.670Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:38.312Z] debug: 	Saving 2 profiles took 14.445ms
+[2025-07-26T08:48:52.140Z] info: 	[Запрос клиента] 26.0.42.191 \vcql\zones\get
+[2025-07-26T08:48:52.742Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:52.753Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:52.753Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:48:52.753Z] debug: 	Generating 3 bots for cacheKey: shooterbtrnormal
+[2025-07-26T08:48:52.782Z] debug: 	Generated 3 shooterBTR (shooterBTR) normal bots
+[2025-07-26T08:48:52.810Z] info: 	[Запрос клиента] 26.0.42.191 \singleplayer\settings\bot\getBotBehaviours\
+[2025-07-26T08:48:58.348Z] debug: 	Saving 2 profiles took 18.698ms
+[2025-07-26T08:49:13.862Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:49:13.865Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:49:13.883Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:49:14.195Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:49:14.196Z] debug: 	Generating 1 bots for cacheKey: shooterbtrnormal
+[2025-07-26T08:49:14.196Z] debug: 	Generating 42 bots for cacheKey: assaulthard
+[2025-07-26T08:49:14.196Z] debug: 	Generating 5 bots for cacheKey: bossboarsnipernormal
+[2025-07-26T08:49:15.019Z] debug: 	Generated 1 shooterBTR (shooterBTR) normal bots
+[2025-07-26T08:49:15.019Z] debug: 	Generated 45 assault (assault) hard bots
+[2025-07-26T08:49:15.019Z] debug: 	Generated 5 bossBoarSniper (bossBoarSniper) normal bots
+[2025-07-26T08:49:15.331Z] info: 	[Запрос клиента] 26.0.42.191 \client\airdrop\loot
+[2025-07-26T08:49:15.332Z] debug: 	Chose: weaponArmor for airdrop loot
+[2025-07-26T08:49:16.336Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:49:16.339Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:49:18.371Z] debug: 	Saving 2 profiles took 18.233ms
+[2025-07-26T08:49:38.400Z] debug: 	Saving 2 profiles took 15.796ms
+[2025-07-26T08:49:45.727Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:49:57.179Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:49:58.421Z] debug: 	Saving 2 profiles took 20.687ms
+[2025-07-26T08:50:08.161Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:50:16.326Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:50:16.330Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:50:16.492Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:50:18.453Z] debug: 	Saving 2 profiles took 17.719ms
+[2025-07-26T08:50:38.494Z] debug: 	Saving 2 profiles took 19.673ms
+[2025-07-26T08:50:41.449Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:50:48.104Z] info: 	[Запрос клиента] 26.0.42.191 \fika\update\ping
+[2025-07-26T08:50:58.534Z] debug: 	Saving 2 profiles took 18.376ms
+[2025-07-26T08:51:00.071Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:51:03.657Z] info: 	[Запрос клиента] 26.0.42.191 \client\match\local\end
+[2025-07-26T08:51:03.662Z] debug: 	Raid: TarkovStreets.Pmc.1753519565 outcome: Runner
+[2025-07-26T08:51:03.807Z] info: 	[Запрос клиента] 26.0.42.191 \fika\raid\leave
+[2025-07-26T08:51:03.807Z] info: 	Coop session 687e60c800042435b89f5b98 has ended: host-shutdown
+[2025-07-26T08:51:11.882Z] info: 	[WS] Игрок: Gent (687e60c800042435b89f5b98) присоединился
+[2025-07-26T08:51:11.882Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-07-26T08:51:14.427Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:51:14.666Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\bot\generate
+[2025-07-26T08:51:16.331Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:51:16.333Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
+[2025-07-26T08:51:18.575Z] debug: 	Saving 2 profiles took 13.092ms
+[2025-07-26T08:51:21.328Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\profile\list
+[2025-07-26T08:51:21.700Z] info: 	[Запрос клиента] 26.0.42.191 \client\game\profile\select
+[2025-07-26T08:51:21.731Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\quests
+[2025-07-26T08:51:21.740Z] info: 	MoreCheckmarks making quest data request
+[2025-07-26T08:51:21.743Z] info: 	Got quests
+[2025-07-26T08:51:22.167Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\assorts
+[2025-07-26T08:51:22.168Z] info: 	MoreCheckmarks making trader assort data request
+[2025-07-26T08:51:22.675Z] info: 	[Запрос клиента] 26.0.42.191 \MoreCheckmarksRoutes\productions
+[2025-07-26T08:51:22.675Z] info: 	MoreCheckmarks making productions request
+[2025-07-26T08:51:22.698Z] info: 	[Запрос клиента] 26.0.42.191 \client\profile\status
+[2025-07-26T08:51:22.744Z] info: 	[Запрос клиента] 26.0.42.191 \client\quest\list
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Unexpected Introduction as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Prove Your Worth as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Green Reinforcments as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Upgrading Security as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Take Out as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Shopping Spree as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Hungry Heisters as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Thirsty Heisters as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Crimson Vintages as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Rampage as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Underground Onslaught as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Shadowed Rescue as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Pathfinder as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: The Heist Part 1 - Casing the joint as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Man the Guns as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Breaking Bad as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Silent Exchange as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Eliminating the Competition as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: The Heist Part 2 - Control the lobby as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: The Heist Part 3 - Mask Up as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: The Heist Part 4 - Springing the Trap as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: The Heist Part 5 - Daring Escape as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: The Heist Part 6 - The Exchange as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Battlestation as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Power Surge as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.750Z] debug: 	Unable to show quest: Norvinsk Cowboy Part 1 - Big Iron as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Norvinsk Cowboy Part 2 - Cattle Rustler as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Norvinsk Cowboy Part 3 - Homesteader as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Norvinsk Cowboy Part 4 - Lawbringer as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Time is Money as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Young Thug as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Young Thug II as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Operation Overlord as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Manhattan Project as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Government Man Part 1 - Heavy Response as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Government Man Part 2 - SWAT as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Government Man Part 3 - Street Cop as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Swole Soldier as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Tyrannosaurus Flex as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Beast Mode as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Steel Slaughter as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Grim Reaper as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Pompon Shit as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Never Seen Again as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Kill or be Killed as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Nightfall Descends as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Nightfall Descends II as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Taking Mid Control as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Oh You're Back as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Hangover Cure as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Hair of the Dog as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Blood for Blood as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Enemy at the Gates as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Fresh off the Press as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Project Car as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Doctors Orders as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: When Pigs Fly as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Biohazard as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.751Z] debug: 	Unable to show quest: Into the Fray as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.752Z] debug: 	Unable to show quest: Corprate Espionage as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.752Z] debug: 	Unable to show quest: Gymtimidation as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.752Z] debug: 	Unable to show quest: Biohazard Part 2 as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.752Z] debug: 	Unable to show quest: Aperture Science as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.752Z] debug: 	Unable to show quest: Finest in Science as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.752Z] debug: 	Unable to show quest: Hunt Showdown as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.752Z] debug: 	Unable to show quest: Clear Office as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:22.752Z] debug: 	Unable to show quest: Lab Rats as its for a trader: Coyote that no longer exists.
+[2025-07-26T08:51:23.322Z] info: 	[Запрос клиента] 26.0.42.191 \client\achievement\statistic
+[2025-07-26T08:51:23.356Z] info: 	[Запрос клиента] 26.0.42.191 \client\achievement\list
+[2025-07-26T08:51:23.592Z] info: 	[Запрос клиента] 26.0.42.191 \client\repeatalbeQuests\activityPeriods
+[2025-07-26T08:51:23.592Z] debug: 	[Quest Check] daily quests are still valid.
+[2025-07-26T08:51:23.592Z] debug: 	[Quest Check] weekly quests are still valid.
+[2025-07-26T08:51:23.592Z] debug: 	[Quest Check] daily_savage quests are still valid.
+[2025-07-26T08:51:38.604Z] debug: 	Saving 2 profiles took 16.147ms
+[2025-07-26T08:51:58.634Z] debug: 	Saving 2 profiles took 14.188ms
+[2025-07-26T08:52:02.746Z] debug: 	[Fika Notification Manager] Deleting client 687e60c800042435b89f5b98
+[2025-07-26T08:52:09.334Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\profile\info
+[2025-07-26T08:52:09.337Z] info: 	[Запрос клиента] 26.0.42.191 \launcher\server\version
