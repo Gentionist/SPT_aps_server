@@ -20,9 +20,9 @@
 	"server": {
 		"SPT": {
 			"http": {
-				"ip": "127.0.0.1",
+				"ip": "0.0.0.0",
 				"port": 6970,
-				"backendIp": "127.0.0.1",
+				"backendIp": "0.0.0.0",
 				"backendPort": 6970
 			},
 			"disableSPTChatBots": true
